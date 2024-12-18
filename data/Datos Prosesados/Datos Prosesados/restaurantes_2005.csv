@@ -1,0 +1,13 @@
+id_nombre,nombre,direccion,id_ciudad,ciudad,codigo_postal,latitud,longitud,puntuacion_yelp,categories,puntuacion_usuarios,año,analisis_sentimientos
+0cd7,Carmine's Restaurant and Bar,1802 E 7th Ave,20,Tampa,33664,27.9604618,-82.4390128,3.0,"Italian, Restaurants, Bars, Nightlife, Sandwiches, Spanish, Cuban",3.0,2005,0.5
+1745,Island Way Grill,20 Island Way,42,Clearwater,33769,27.9762783,-82.817396,3.5,"Seafood, Sushi Bars, Steakhouses, Restaurants",4.0,2005,1.0
+4c35,Mise En Place,"442 W Kennedy Blvd, Ste 110",20,Tampa,33664,27.9446797287,-82.465137038,4.0,"Event Planning & Services, Restaurants, Venues & Event Spaces, Nightlife, Wine Bars, Caterers, American (New), Bars",5.0,2005,1.0
+6aa3,Bahama Breeze,3045 N Rocky Pt Dr E,20,Tampa,33664,27.9697761464,-82.5627375239,3.5,"Restaurants, Latin American, Laotian, Caribbean, Nightlife, American (Traditional), Seafood, Bars",4.0,2005,1.0
+7cd4,Bern's Steak House,1208 S Howard Ave,20,Tampa,33664,27.9318624,-82.4827004,4.5,"Arts & Entertainment, Steakhouses, Restaurants",5.0,2005,1.0
+99dc,Steak ’n Shake,2315 S Dale Mabry,20,Tampa,33664,27.9240143,-82.5064370781,2.0,"Food, Restaurants, Burgers, Ice Cream & Frozen Yogurt, American (New), American (Traditional), Breakfast & Brunch, Fast Food, Diners",3.0,2005,1.0
+9cdf,Golden Corral Buffet & Grill,10050 Ulmerton Rd,106,Largo,33778,27.8939264519,-82.7781527,2.0,"Restaurants, American (Traditional), Buffets",2.0,2005,1.0
+b0cb,Columbia Restaurant,2117 E 7th Ave,20,Tampa,33664,27.9600061,-82.4349038,4.0,"Latin American, Restaurants, Spanish, American (Traditional), Cuban",4.5,2005,1.0
+b7a3,Acropol Inn Restaurant,2552 Sunset Pt Rd,42,Clearwater,33769,27.9912391,-82.7313785,4.0,"Greek, Restaurants",5.0,2005,1.0
+c2ae,Sweet Tomatoes,13101 Seminole Blvd,106,Largo,33778,27.892672,-82.786626,4.0,"American (New), Buffets, Soup, Restaurants, Salad, Vegetarian",4.0,2005,1.0
+d88f,Cafe Ponte,"13505 Icot Blvd, Ste 214",42,Clearwater,33769,27.8948541,-82.7137001,4.5,"American (New), Cafes, Restaurants",2.0,2005,1.0
+f7cd,Golden Wok China Buffet,1410 Missouri Ave N,106,Largo,33778,27.9300747,-82.7867444,3.0,"Restaurants, Chinese",4.0,2005,1.0
