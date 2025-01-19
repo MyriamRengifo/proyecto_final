@@ -1,3 +1,6 @@
+# 📁 Proyecto-Ingenieria-Datos
+
+```plaintext
 📁 Proyecto-Ingenieria-Datos
 ├── 📁 data_sources          # Fuentes de datos originales o ejemplos de datos
 │   ├── README.md
@@ -5,7 +8,6 @@
 │   ├── google_data_sample.csv
 │   └── overpass_data_sample.csv
 │
-📁 Proyecto-Ingenieria-Datos
 ├── 📁 etl_pipeline           # Proceso de extracción, transformación y carga
 │   ├── notebooks             # Notebooks utilizados en el proceso ETL
 │   │   ├── yelp_etl.ipynb
