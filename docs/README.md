@@ -1,7 +1,4 @@
-# 📁 Proyecto-Ingenieria-Datos
-
-```plaintext
-📁 DATAZOO
+📁 Proyecto
 ├── 📁 data_sources          # Fuentes de datos originales o ejemplos de datos
 │   ├── README.md
 │   ├── yelp_data_sample.csv  
@@ -13,10 +10,12 @@
 │   │   ├── yelp_etl.ipynb
 │   │   ├── google_etl.ipynb
 │   │   ├── overpass_etl.ipynb  # Notebook usado para descargar datos con Overpass API
-│   │   └── README.md          # Explicación de los notebooks
+│   │   ├── metadata_sitios.ipynb # Datos extraídos con Google API
+│   │   └── merge_archivos.ipynb  # Unificación de los datos procesados.
 │   ├── queries               # Consultas específicas para extracción de datos
-│   │   ├── overpass_query.overpassql  # Consulta de Overpass API
-│   │   └── other_queries.sql          # Otras consultas SQL si aplica
+│   │   └── overpass_query.overpassql  # Consulta de Overpass API
+│   │    
+│   └── README.md             # Descripción del proceso ETL y cómo ejecutarlo
 │
 ├── 📁 eda                  # Análisis exploratorio de datos
 │   ├── yelp_eda.ipynb
@@ -29,6 +28,18 @@
 │   ├── google_clean.csv
 │   ├── overpass_clean.csv
 │   └── README.md
+│
+├── 📁 ml_pipeline          # Scripts y datos específicos para Machine Learning
+│   ├── datasets            # Datos de entrenamiento generados
+│   │   ├── train_data.csv
+│   │   ├── test_data.csv
+│   │   └── validation_data.csv
+│   ├── scripts
+│   │   ├── train_model.py         # Entrenamiento del modelo
+│   │   ├── evaluate_model.py      # Evaluación del modelo
+│   │   ├── predict.py             # Predicciones y uso del modelo
+│   │   └── config.py              # Configuración de hiperparámetros
+│   └── README.md                  # Documentación del pipeline de ML
 │
 ├── 📁 cloud_integration    # Integración con Azure Databricks
 │   ├── notebooks
@@ -43,6 +54,10 @@
 │   ├── power_bi_reports
 │   │   ├── sales_dashboard.pbix
 │   │   └── location_analysis.pbix
+│   ├── streamlit
+│   │   ├── app.py                # Código para la presentación en Streamlit
+│   │   ├── data/                 # Datos utilizados para la presentación
+│   │   └── README.md             # Documentación del proyecto en Streamlit
 │   ├── plots
 │   │   ├── sales_trends.png
 │   │   └── customer_segmentation.png
@@ -60,7 +75,6 @@
 │   └── contributing.md
 │
 ├── 📁 tests                # Pruebas unitarias y de integración
-│   ├── test_etl.py
 │   ├── test_ml_pipeline.py
 │   └── test_visualization.py
 │
