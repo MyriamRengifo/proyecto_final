@@ -1,84 +1,146 @@
-📁 Proyecto
-├── 📁 data_sources          # Fuentes de datos originales o ejemplos de datos
-│   ├── README.md
-│   ├── yelp_data_sample.csv  
-│   ├── google_data_sample.csv
-│   └── overpass_data_sample.csv
-│
-├── 📁 etl_pipeline           # Proceso de extracción, transformación y carga
-│   ├── notebooks             # Notebooks utilizados en el proceso ETL
-│   │   ├── yelp_etl.ipynb
-│   │   ├── google_etl.ipynb
-│   │   ├── overpass_etl.ipynb  # Notebook usado para descargar datos con Overpass API
-│   │   ├── metadata_sitios.ipynb # Datos extraídos con Google API
-│   │   └── merge_archivos.ipynb  # Unificación de los datos procesados.
-│   ├── queries               # Consultas específicas para extracción de datos
-│   │   └── overpass_query.overpassql  # Consulta de Overpass API
-│   │    
-│   └── README.md             # Descripción del proceso ETL y cómo ejecutarlo
-│
-├── 📁 eda                  # Análisis exploratorio de datos
-│   ├── yelp_eda.ipynb
-│   ├── google_eda.ipynb
-│   ├── overpass_eda.ipynb
-│   └── README.md
-│
-├── 📁 processed_data        # Archivos procesados y limpios
-│   ├── yelp_clean.csv
-│   ├── google_clean.csv
-│   ├── overpass_clean.csv
-│   └── README.md
-│
-├── 📁 ml_pipeline          # Scripts y datos específicos para Machine Learning
-│   ├── datasets            # Datos de entrenamiento generados
-│   │   ├── train_data.csv
-│   │   ├── test_data.csv
-│   │   └── validation_data.csv
-│   ├── scripts
-│   │   ├── train_model.py         # Entrenamiento del modelo
-│   │   ├── evaluate_model.py      # Evaluación del modelo
-│   │   ├── predict.py             # Predicciones y uso del modelo
-│   │   └── config.py              # Configuración de hiperparámetros
-│   └── README.md                  # Documentación del pipeline de ML
-│
-├── 📁 cloud_integration    # Integración con Azure Databricks
-│   ├── notebooks
-│   │   ├── ml_pipeline.dbc
-│   │   └── data_analysis.dbc
-│   ├── scripts
-│   │   ├── automl_pipeline.py
-│   │   └── clustering_model.py
-│   └── README.md
-│
-├── 📁 visualization        # Visualización y análisis
-│   ├── power_bi_reports
-│   │   ├── sales_dashboard.pbix
-│   │   └── location_analysis.pbix
-│   ├── streamlit
-│   │   ├── app.py                # Código para la presentación en Streamlit
-│   │   ├── data/                 # Datos utilizados para la presentación
-│   │   └── README.md             # Documentación del proyecto en Streamlit
-│   ├── plots
-│   │   ├── sales_trends.png
-│   │   └── customer_segmentation.png
-│   └── README.md
-│
-├── 📁 local_development    # Archivos locales y herramientas de VS Code
-│   ├── environment.yml
-│   ├── config.json
-│   └── main.py
-│
-├── 📁 docs                 # Documentación del proyecto
-│   ├── project_overview.md
-│   ├── architecture_diagram.png
-│   ├── api_usage.md
-│   └── contributing.md
-│
-├── 📁 tests                # Pruebas unitarias y de integración
-│   ├── test_ml_pipeline.py
-│   └── test_visualization.py
-│
-├── .gitignore              # Archivos y carpetas a excluir del repositorio
-├── LICENSE                 # Licencia del proyecto
-├── README.md               # Descripción general del proyecto
-└── requirements.txt        # Dependencias del proyecto
+
+# 📊 DataZoo: Transformando Datos en Decisiones Estratégicas
+
+![DataZoo](./datazoo.png)
+
+**Con DataZoo, los datos no son solo números, son oportunidades para transformar tu negocio gastronómico.**  
+En el competitivo mundo gastronómico, las decisiones basadas en datos pueden marcar la diferencia entre el éxito y el fracaso. **DataZoo** convierte datos complejos en estrategias claras, ayudando a empresarios y emprendedores a maximizar su retorno de inversión y minimizar riesgos.
+
+---
+
+## 🚀 ¿Qué Ofrecemos?
+
+1. **Elección de Ubicaciones Estratégicas**  
+   Analizamos datos geográficos, demográficos y de tráfico para identificar las mejores áreas donde invertir.  
+
+2. **Análisis Competitivo en Tiempo Real**  
+   Descubre cómo se desempeñan tus competidores, utilizando datos de plataformas como **Google** y **Yelp**.  
+
+3. **Predicciones de Demanda Personalizadas**  
+   Anticipa el comportamiento del consumidor y alinea tu estrategia con las tendencias del mercado.  
+
+4. **Optimización Estratégica**  
+   Reduce riesgos con simulaciones y modelos predictivos basados en datos confiables.
+
+---
+
+## 💡 ¿Cómo Resolvemos tus Problemas?
+
+- **Maximización del Retorno de Inversión**: Inversiones más inteligentes y rentables.  
+- **Mitigación de Riesgos**: Decisiones estratégicas respaldadas por datos.  
+- **Satisfacción del Cliente**: Mejora continua en la experiencia gastronómica.  
+- **Expansión Exitosa**: Aperturas en áreas con alto potencial.
+
+---
+
+## 🌟 ¿Por qué DataZoo?
+
+DataZoo combina tecnología avanzada, análisis geográfico y modelos predictivos para brindar a nuestros clientes una ventaja estratégica única. Somos más que una herramienta, somos tu aliado en el camino hacia el éxito.
+•	🌍 Análisis Geográfico: Encuentra las ubicaciones perfectas para tu restaurante.
+•	📊 Modelos Predictivos: Anticipa tendencias y patrones de consumo.
+•	🏆 Ventaja Competitiva: Supera a la competencia con insights basados en datos.
+•	🍴 Tendencias Culinarias: Adapta tu oferta a las demandas emergentes.
+
+
+---
+
+Con **DataZoo**, no solo obtienes datos, obtienes confianza para tomar decisiones que transformen tu negocio gastronómico.  
+
+**¡El futuro de tu negocio comienza con DataZoo!**
+
+## 📂 Estructura del Proyecto
+
+```plaintext
+Proyecto/
+├── 📁 data_sources/          # Fuentes de datos originales o ejemplos
+├── 📁 etl_pipeline/          # Proceso ETL (extracción, transformación y carga)
+├── 📁 eda/                   # Análisis exploratorio de datos
+├── 📁 processed_data/        # Datos procesados y limpios
+├── 📁 ml_pipeline/           # Scripts y datasets para Machine Learning
+├── 📁 cloud_integration/     # Integración con Azure Databricks
+├── 📁 visualization/         # Dashboards y aplicaciones visuales
+├── 📁 local_development/     # Configuración local y herramientas
+├── 📁 docs/                  # Documentación adicional
+├── 📁 tests/                 # Pruebas unitarias e integración
+├── .gitignore                # Archivos y carpetas a excluir
+├── LICENSE                   # Licencia del proyecto
+├── README.md                 # Este archivo
+└── requirements.txt          # Dependencias del proyecto
+
+---
+
+### 🛠️ Tecnologías Utilizadas
+
+- **Lenguajes**: ![Python](https://img.shields.io/badge/-Python-blue) ![SQL](https://img.shields.io/badge/-SQL-lightgrey)  
+- **ETL**: Jupyter Notebooks, Pandas, APIs (Google Maps, Overpass).  
+- **Machine Learning**: Scikit-learn, PyTorch.  
+- **Nube**: Azure Databricks.  
+- **Visualización**: Power BI, Streamlit, Matplotlib.  
+- **Versionamiento**: Git, GitHub.
+
+
+## 🚀 Cómo Usar el Proyecto
+
+### 1. Clona el repositorio
+Clona el repositorio en tu máquina local.
+```bash
+git clone https://github.com/MyriamRengifo/proyecto_final
+cd proyecto
+
+
+### 2. Instala las dependencias
+Asegúrate de tener Python 3.x instalado, luego instala las dependencias:
+
+```bash
+pip install -r requirements.txt
+
+### 3. Ejecuta el pipeline de ETL
+Procesa los datos con los notebooks y scripts disponibles:
+
+```bash
+cd etl_pipeline
+jupyter notebook
+
+
+### 4. Ejecuta la integración en la nube
+Carga los datos y modelos en Azure Databricks:
+
+```bash
+cd cloud_integration
+# Sigue las instrucciones del archivo README.md en esta carpeta.
+
+### 5. Entrena los modelos de Machine Learning
+Ejecuta los scripts de entrenamiento local:
+
+```bash
+cd local_development
+python main.py
+
+### 6. Visualiza los datos en Streamlit
+Explora los resultados con dashboards interactivos:
+
+```bash
+cd visualization/streamlit
+streamlit run app.py
+
+
+## 📈 Resultados
+
+- 🚀 **Modelos Predictivos**: Clasificación y segmentación de datos para anticipar comportamientos del consumidor.  
+- 📊 **Visualización**: Dashboards interactivos en Power BI y Streamlit que facilitan la toma de decisiones estratégicas.  
+- 🌍 **Insights Geográficos**: Identificación de patrones clave en los datos de Yelp y Google Maps, destacando ubicaciones estratégicas para inversión.  
+
+### 👥 Integrantes del Proyecto
+
+- **Nombre 1**: Rol 
+- **Nombre 2**: Rol   
+- **Nombre 3**: Rol )  
+- **Nombre 4**: Rol  
+- **Nombre 5**: Rol  
+- **Nombre 6**: Rol  
+
+## 📝 Licencia
+
+## 📝 Licencia
+
+Este proyecto está bajo la Licencia MIT. Puedes usar, modificar y distribuir este proyecto libremente siempre que se otorgue el crédito correspondiente. Consulta el archivo [LICENSE](./LICENSE) para más información.
