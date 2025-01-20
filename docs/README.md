@@ -83,7 +83,8 @@ Proyecto/
 
 ### 1. Clona el repositorio
 Clona el repositorio en tu máquina local.
-```bash
+
+``bash
 git clone https://github.com/MyriamRengifo/proyecto_final
 cd proyecto
 
@@ -91,13 +92,13 @@ cd proyecto
 ### 2. Instala las dependencias
 Asegúrate de tener Python 3.x instalado, luego instala las dependencias:
 
-```bash
+``bash
 pip install -r requirements.txt
 
 ### 3. Ejecuta el pipeline de ETL
 Procesa los datos con los notebooks y scripts disponibles:
 
-```bash
+``bash
 cd etl_pipeline
 jupyter notebook
 
@@ -105,21 +106,21 @@ jupyter notebook
 ### 4. Ejecuta la integración en la nube
 Carga los datos y modelos en Azure Databricks:
 
-```bash
+``bash
 cd cloud_integration
 # Sigue las instrucciones del archivo README.md en esta carpeta.
 
 ### 5. Entrena los modelos de Machine Learning
 Ejecuta los scripts de entrenamiento local:
 
-```bash
+``bash
 cd local_development
 python main.py
 
 ### 6. Visualiza los datos en Streamlit
 Explora los resultados con dashboards interactivos:
 
-```bash
+``bash
 cd visualization/streamlit
 streamlit run app.py
 
