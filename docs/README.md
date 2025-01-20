@@ -66,7 +66,7 @@ Proyecto/
 ├── LICENSE                   # Licencia del proyecto
 ├── README.md                 # Este archivo
 └── requirements.txt          # Dependencias del proyecto
-
+````
 ---
 
 ### 🛠️ Tecnologías Utilizadas
