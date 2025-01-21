@@ -1,7 +1,7 @@
 
 # 📊 DataZoo: Transformando Datos en Decisiones Estratégicas
 
-![DataZoo](./datazoo.png)
+![DataZoo](./images/datazoo.png)
 
 **Con DataZoo, los datos no son solo números, son oportunidades para transformar tu negocio gastronómico.**  
 En el competitivo mundo gastronómico, las decisiones basadas en datos pueden marcar la diferencia entre el éxito y el fracaso. **DataZoo** convierte datos complejos en estrategias claras, ayudando a empresarios y emprendedores a maximizar su retorno de inversión y minimizar riesgos.
