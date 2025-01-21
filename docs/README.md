@@ -1,7 +1,7 @@
 
 # 📊 DataZoo: Transformando Datos en Decisiones Estratégicas
 
-![DataZoo](https://github.com/MyriamRengifo/proyecto_final/raw/Main/imagenes/logos/datazoo.png)
+![DataZoo](https://github.com/MyriamRengifo/proyecto_final/blob/Main/imagenes/logos/logo%20datazoo.png?raw=true)
 
 
 **Con DataZoo, los datos no son solo números, son oportunidades para transformar tu negocio gastronómico.**  
