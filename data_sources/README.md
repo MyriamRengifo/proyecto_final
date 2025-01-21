@@ -1,7 +1,5 @@
 # 📂 Data Sources
 
-# 📂 Data Sources
-
 Este directorio contiene referencias y ejemplos de las fuentes de datos utilizadas en el proyecto. **Los archivos de datos completos no están incluidos en el repositorio debido a su tamaño**. Consulta las instrucciones para descargar y manejar los archivos desde sus respectivas fuentes.
 
 ---
@@ -47,7 +45,7 @@ Este directorio contiene referencias y ejemplos de las fuentes de datos utilizad
      - `metadata-sitios-20250114T225354Z-001.zip`
      - `metadata-sitios-20250114T225354Z-002.zip`
    - **Descripción**:
-     Contiene información de sitios turísticos, incluyendo su ubicación y características.
+     Contiene información de servicios comerciales, incluyendo su ubicación y características.
    - **Fuente**: Google Drive.
    - **Instrucciones para Acceso**:
      1. Descarga los archivos desde [Google Drive](https://drive.google.com/drive/folders/1olnuKLjT8W2QnCUUwh8uDuTTKVZyxQ0Z?usp=drive_link).
@@ -59,7 +57,7 @@ Este directorio contiene referencias y ejemplos de las fuentes de datos utilizad
    - **Archivo Externo**:
      - `review-Florida.zip`
    - **Descripción**:
-     Contiene reseñas de usuarios sobre restaurantes y sitios turísticos de Florida.
+     Contiene reseñas de usuarios sobre servicios comerciales de Florida.
    - **Fuente**: Google Drive.
    - **Instrucciones para Acceso**:
      1. Descarga el archivo desde [Google Drive](https://drive.google.com/drive/folders/1kxYcx3BjWNR2IVJ9odksaPRVOWzwQJts?usp=drive_link).
@@ -84,7 +82,7 @@ Este directorio contiene referencias y ejemplos de las fuentes de datos utilizad
    - **Archivo Generado**:
      - `datos_api_google.csv`
    - **Descripción**:
-     Contiene información geográfica de sitios turísticos en Florida generada mediante la API de Google.
+     Contiene información geográfica de servicios comerciales en Florida generada mediante la API de Google.
    - **Fuente**: Generado por el script `descarga_datos_API.ipynb`.
    - **Instrucciones**:
      1. Ejecuta el script en la carpeta `etl_pipeline`.
