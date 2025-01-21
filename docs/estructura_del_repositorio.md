@@ -1,6 +1,6 @@
-# 📁 Proyecto-Ingenieria-Datos
+# 📁  DataZoo: Transformando Datos en Decisiones 
 
-```plaintext
+```
 📁 DATAZOO
 ├── 📁 data_sources          # Fuentes de datos originales o ejemplos de datos
 │   ├── README.md
@@ -63,7 +63,12 @@
 │   ├── test_etl.py
 │   ├── test_ml_pipeline.py
 │   └── test_visualization.py
-│
+|
+├── 📁 imagenes
+│   ├── logos/
+│   ├── dashboards/
+│   └── resultados/
+|
 ├── .gitignore              # Archivos y carpetas a excluir del repositorio
 ├── LICENSE                 # Licencia del proyecto
 ├── README.md               # Descripción general del proyecto
