@@ -128,14 +128,38 @@ streamlit run app.py
 
 ### 👥 Integrantes del Proyecto
 
-- **Nombre 1**: Rol 
-- **Nombre 2**: Rol   
-- **Nombre 3**: Rol )  
-- **Nombre 4**: Rol  
-- **Nombre 5**: Rol  
-- **Nombre 6**: Rol  
+#### **🛠️ Ingenieros de Datos**
+- **Myrian Rengifo**  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) [GitHub](https://github.com/MyriamRengifo) | 
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn](http://www.linkedin.com/in/myriamrengifomendoza-coordinadoradministrativo)
 
+- **Jorge Silema**  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) [GitHub](https://github.com/marialopez) | 
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn](https://www.linkedin.com/in/marialopez/)
 
+---
+
+#### **🤖 Especialistas en Machine Learning**
+- **Franco Cavo**  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) [GitHub](https://github.com/FrancoCavo) | 
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn](https://www.linkedin.com/in/francoeliascavo)
+
+- **Jorge Schimpf**  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) [GitHub](https://github.com/JorgeLuisSR) | 
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn](https://www.linkedin.com/in/jorgeluisschimpfrodriguez/)
+
+---
+
+#### **📊 Analistas de Datos**
+- **Angelica Cassano**  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) [GitHub](https://github.com/Halsey26) | 
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn](https://www.linkedin.com/in/angelica-cassano/)
+
+- **Luis Mata**  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) [GitHub](https://github.com/) | 
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn](https://www.linkedin.com/in/matasanchez999/)
+
+  
 ## 📝 Licencia
 
 Este proyecto está bajo la Licencia MIT. Puedes usar, modificar y distribuir este proyecto libremente siempre que se otorgue el crédito correspondiente. Consulta el archivo [LICENSE](./LICENSE) para más información.
