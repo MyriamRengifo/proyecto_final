@@ -37,10 +37,10 @@ En el competitivo mundo gastronómico, las decisiones basadas en datos pueden ma
 ## 🌟 ¿Por qué DataZoo?
 
 DataZoo combina tecnología avanzada, análisis geográfico y modelos predictivos para brindar a nuestros clientes una ventaja estratégica única. Somos más que una herramienta, somos tu aliado en el camino hacia el éxito.
-•	🌍 Análisis Geográfico: Encuentra las ubicaciones perfectas para tu restaurante.
-•	📊 Modelos Predictivos: Anticipa tendencias y patrones de consumo.
-•	🏆 Ventaja Competitiva: Supera a la competencia con insights basados en datos.
-•	🍴 Tendencias Culinarias: Adapta tu oferta a las demandas emergentes.
+- 🌍 Análisis Geográfico: Encuentra las ubicaciones perfectas para tu restaurante.
+- 📊 Modelos Predictivos: Anticipa tendencias y patrones de consumo.
+- 🏆 Ventaja Competitiva: Supera a la competencia con insights basados en datos.
+- 🍴 Tendencias Culinarias: Adapta tu oferta a las demandas emergentes.
 
 
 ---
@@ -63,6 +63,7 @@ Proyecto/
 ├── 📁 local_development/     # Configuración local y herramientas
 ├── 📁 docs/                  # Documentación adicional
 ├── 📁 tests/                 # Pruebas unitarias e integración
+├── 📁 imagenes/              # Imagenes usadas en el repositorio
 ├── .gitignore                # Archivos y carpetas a excluir
 ├── LICENSE                   # Licencia del proyecto
 ├── README.md                 # Este archivo
@@ -128,14 +129,38 @@ streamlit run app.py
 
 ### 👥 Integrantes del Proyecto
 
-- **Nombre 1**: Rol 
-- **Nombre 2**: Rol   
-- **Nombre 3**: Rol )  
-- **Nombre 4**: Rol  
-- **Nombre 5**: Rol  
-- **Nombre 6**: Rol  
+#### **🛠️ Ingenieros de Datos**
+- **Myrian Rengifo**  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) [GitHub](https://github.com/MyriamRengifo) | 
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn](http://www.linkedin.com/in/myriamrengifomendoza-coordinadoradministrativo)
 
+- **Jorge Silema**  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) [GitHub]() | 
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn]()
 
+---
+
+#### **🤖 Especialistas en Machine Learning**
+- **Franco Cavo**  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) [GitHub](https://github.com/FrancoCavo) | 
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn](https://www.linkedin.com/in/francoeliascavo)
+
+- **Jorge Schimpf**  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) [GitHub](https://github.com/JorgeLuisSR) | 
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn](https://www.linkedin.com/in/jorgeluisschimpfrodriguez/)
+
+---
+
+#### **📊 Analistas de Datos**
+- **Angelica Cassano**  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) [GitHub](https://github.com/Halsey26) | 
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn](https://www.linkedin.com/in/angelica-cassano/)
+
+- **Luis Mata**  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) [GitHub](https://github.com/AutoMataX) | 
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn](https://www.linkedin.com/in/matasanchez999/)
+
+  
 ## 📝 Licencia
 
 Este proyecto está bajo la Licencia MIT. Puedes usar, modificar y distribuir este proyecto libremente siempre que se otorgue el crédito correspondiente. Consulta el archivo [LICENSE](./LICENSE) para más información.
