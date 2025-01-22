@@ -37,10 +37,10 @@ En el competitivo mundo gastronómico, las decisiones basadas en datos pueden ma
 ## 🌟 ¿Por qué DataZoo?
 
 DataZoo combina tecnología avanzada, análisis geográfico y modelos predictivos para brindar a nuestros clientes una ventaja estratégica única. Somos más que una herramienta, somos tu aliado en el camino hacia el éxito.
-•	🌍 Análisis Geográfico: Encuentra las ubicaciones perfectas para tu restaurante.
-•	📊 Modelos Predictivos: Anticipa tendencias y patrones de consumo.
-•	🏆 Ventaja Competitiva: Supera a la competencia con insights basados en datos.
-•	🍴 Tendencias Culinarias: Adapta tu oferta a las demandas emergentes.
+- 🌍 Análisis Geográfico: Encuentra las ubicaciones perfectas para tu restaurante.
+- 📊 Modelos Predictivos: Anticipa tendencias y patrones de consumo.
+- 🏆 Ventaja Competitiva: Supera a la competencia con insights basados en datos.
+- 🍴 Tendencias Culinarias: Adapta tu oferta a las demandas emergentes.
 
 
 ---
