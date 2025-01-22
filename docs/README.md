@@ -63,6 +63,7 @@ Proyecto/
 ├── 📁 local_development/     # Configuración local y herramientas
 ├── 📁 docs/                  # Documentación adicional
 ├── 📁 tests/                 # Pruebas unitarias e integración
+├── 📁 imagenes/              # Imagenes usadas en el repositorio
 ├── .gitignore                # Archivos y carpetas a excluir
 ├── LICENSE                   # Licencia del proyecto
 ├── README.md                 # Este archivo
