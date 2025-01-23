@@ -135,7 +135,7 @@ streamlit run app.py
   ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn](http://www.linkedin.com/in/myriamrengifomendoza-coordinadoradministrativo)
 
 - **Jorge Silema**  
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) [GitHub]() | 
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) [GitHub](https://github.com/jorgesislema) | 
   ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn]()
 
 ---
