@@ -1,0 +1,838 @@
+id_nombre,nombre,direccion,id_ciudad,ciudad,codigo_postal,latitud,longitud,puntuacion_yelp,categories,puntuacion_usuarios,anio,analisis_sentimientos
+0018,Mr. Dunderbak's,14929 Bruce B Downs Blvd,RGTW,Tampa,33664,28.083089,-82.411907,4.5,"Beer, Wine & Spirits, Food, Pubs, German, American (Traditional), Restaurants, Bars, Nightlife",3.7,2009,1.0
+003d,Green Room,1701 E 8th Ave,RGTW,Tampa,33664,27.9939225083,-82.3714128175,3.0,"Diners, Restaurants",4.0,2009,1.0
+0040,Beef 'O' Brady's,4202 E Fowler Ave,RGTW,Tampa,33664,27.9169116859,-82.4037624166,3.0,"Sports Bars, Restaurants, Nightlife, Bars, Pubs, American (Traditional)",3.5,2009,1.0
+005f,Casa Ludovico,1710 Alt 19,IKXB,Palm Harbor,34685,28.0837051826,-82.7670471431,4.0,"Restaurants, Nightlife, Bars, Italian, Wine Bars",5.0,2009,1.0
+0078,Busy Bee Snak Shop,7345 49th St,SJ01,Pinellas Park,33782,27.8386081,-82.6996523,4.0,"Restaurants, American (Traditional), Armenian, Desserts, Food, Breakfast & Brunch",3.0,2009,1.0
+021e,Beaune's Wine Bar,2009 N 22nd St,RGTW,Tampa,33664,27.9621337,-82.434525,4.0,"Nightlife, Bars, Wine Tasting Room, Venues & Event Spaces, Event Planning & Services, American (New), Food, Wineries, Arts & Entertainment, Restaurants, Wine Bars",4.0,2009,1.0
+034a,New York New York Pizza,1512 E 7th Ave,RGTW,Tampa,33664,27.953551766666664,-82.45613853333333,3.8,"Sandwiches, Burgers, Pizza, Restaurants",3.3,2009,1.0
+03f4,Elmer's Sports Cafe,2003 E 7th Ave,RGTW,Tampa,33664,27.9600519,-82.4363674,4.0,"Restaurants, Chicken Wings, Sports Bars, Nightlife, Bars, Sandwiches",4.0,2009,1.0
+03ff,The Moon Under Water,332 Beach Dr NE,9EV3,San Petersburgo,33730,27.7758481,-82.6321798,3.5,"Nightlife, British, Pubs, Bars, Indian, Restaurants",3.4,2009,1.0
+0449,Mid Peninsula Seafood,400 49th St S,9EV3,San Petersburgo,33730,27.7670324,-82.6995131,4.5,"Restaurants, Seafood Markets, Food, Seafood, Specialty Food, Local Flavor",4.0,2009,1.0
+04cb,Trang Viet Cuisine,230 E Bearss Ave,RGTW,Tampa,33664,28.0894957,-82.4584569,4.0,"Restaurants, Vietnamese, Vegan",3.8,2009,1.0
+04de,Golden Phoenix,8199 N Dale Mabry Hwy,RGTW,Tampa,33664,28.022903800000005,-82.5044276,4.0,"Vietnamese, Restaurants, Chinese",4.0,2009,1.0
+04f1,Mekong Vietnamese Restaurant,5944 34th St N,9EV3,San Petersburgo,33730,27.826195,-82.67992,3.5,"Restaurants, Vietnamese",3.0,2009,1.0
+054f,InterContinental Tampa,4860 W Kennedy Blvd,RGTW,Tampa,33664,27.9439583,-82.525318,3.0,"Hotels & Travel, Resorts, Restaurants, Event Planning & Services, Steakhouses, Venues & Event Spaces, Hotels",4.0,2009,1.0
+0564,Gladstone's Grilled Chicken,5203 E Fowler Ave,RGTW,Tampa,33664,28.053334,-82.396574,3.5,"American (Traditional), Restaurants, Sandwiches",3.5,2009,1.0
+0570,Bamboozle Cafe,516 N Tampa St,RGTW,Tampa,33664,27.94857,-82.459404,4.0,"Caterers, Cafes, Coffee & Tea, Event Planning & Services, Restaurants, Asian Fusion, Food, Vietnamese, Vegan, Gluten-Free",4.2,2009,1.0
+05c4,Ballyhoo Grill,7604 Ehrlich Rd,RGTW,Tampa,33664,28.078240000000005,-82.569894,3.5,"Restaurants, Seafood, Steakhouses",4.3,2009,1.0
+0697,Sushi Spot / Hibachi,"3665 E Bay Dr, Ste 146",LIFE,Largo,33778,27.915278,-82.749628,4.0,"Sushi Bars, Steakhouses, Thai, Restaurants",4.4,2009,1.0
+06da,Dhaniya Drums Indian Food,11009 N 56th St,RGTW,Tampa,33664,28.0489104,-82.3935454,3.5,"Indian, Restaurants, Pakistani, Buffets, Vegetarian",3.8,2009,1.0
+06e6,Lemon Grass Thai Kitchen,3635 W Kennedy Blvd,RGTW,Tampa,33664,27.945109,-82.5030442,3.5,"Thai, Restaurants, Buffets",3.7,2009,1.0
+0711,Angie's Cafe,200 1st Ave N,9EV3,San Petersburgo,33730,27.7719012,-82.6358439,3.5,"Burgers, American (New), Restaurants",4.0,2009,1.0
+0773,Oystercatchers,2900 Bayport Dr,RGTW,Tampa,33664,27.962275,-82.549347,4.0,"Cocktail Bars, Restaurants, American (Traditional), Bars, Seafood, Nightlife",4.4,2009,1.0
+077d,Estela's Mexican Restaurant,10478 Roosevelt Blvd,9EV3,San Petersburgo,33730,27.914760325,-82.4579549,2.4,"Mexican, Ethnic Food, Specialty Food, Restaurants, Food",2.1,2009,1.0
+0792,Bens Family Diner,704 E Brandon Blvd,W2W7,Brandon,33511,27.9380869726,-82.2748481924,2.5,"Seafood, Breakfast & Brunch, Diners, Restaurants, American (Traditional), Sandwiches",1.0,2009,0.5
+0796,Clearwater Bagels,1871 Gulf To Bay Blvd,MCCU,Clearwater,33769,27.9603225,-82.7598496,3.5,"Restaurants, Bagels, Coffee & Tea, Food",3.0,2009,1.0
+07b0,Sushi-Haru,3817 Northdale Blvd,RGTW,Tampa,33664,28.0943138,-82.5041143,3.5,"Japanese, Restaurants, Seafood, Sushi Bars",4.0,2009,1.0
+07b3,The Chattaway,358 22nd Ave S,9EV3,San Petersburgo,33730,27.7483366,-82.6383665,4.0,"Restaurants, Venues & Event Spaces, Burgers, Event Planning & Services, American (Traditional)",2.8,2009,1.0
+07db,Wood Fired Pizza Wine Bar,2822 E Bearss Ave,RGTW,Tampa,33664,28.0810030241,-82.4276801889,4.0,"Nightlife, Food, Restaurants, Wine Bars, Bars, Salad, Italian, Desserts, Pizza",4.8,2009,1.0
+085c,Wingstop,2776 E Fowler Ave,RGTW,Tampa,33664,28.056044,-82.4277812,3.0,"American (New), Chicken Wings, Restaurants",4.0,2009,1.0
+0893,Yokohama Japanese Restaurant,760 W Lumsden Rd,W2W7,Brandon,33511,27.9248801,-82.2953336,4.0,"Restaurants, Japanese",4.5,2009,1.0
+089d,Brocato's Sandwich Shop,5021 E Columbus Dr,RGTW,Tampa,33664,27.9665073,-82.3999526,4.0,"Sandwiches, Restaurants, Cuban, Delis",4.4,2009,1.0
+08ac,4th Street Shrimp Store,1006 4th St N,9EV3,San Petersburgo,33730,27.7821024,-82.6388697,4.0,"Restaurants, Nightlife, Burgers, Beer Bar, Bars, Seafood",2.0,2009,1.0
+08c3,Carrabba's Italian Grill,801 Providence Rd,W2W7,Brandon,33511,27.99566028,-82.60541051999999,3.5,"Restaurants, Seafood, Italian",3.4,2009,1.0
+08c4,Kinjo's Japanese Restaurant,2875 Tyrone Blvd N,9EV3,San Petersburgo,33730,27.7972626,-82.7339127,3.5,"Japanese, Sushi Bars, Restaurants",4.0,2009,1.0
+08d7,The Real Dill Delicatessen,3343 S Westshore Blvd,RGTW,Tampa,33664,27.9142752,-82.527008,4.0,"Restaurants, Delis",5.0,2009,1.0
+090c,Piccola Italia Restaurant,37502 State Rt 54,PM56,Zephyrhills,33542,28.2300256,-82.1961478,4.0,"Italian, Pizza, Restaurants",4.0,2009,1.0
+0930,Taqueria Mi Mexico,4205 N Armenia Ave,RGTW,Tampa,33664,27.9786611,-82.4843907,4.0,"Mexican, Restaurants",2.0,2009,1.0
+0958,Teatro,"1600 E 8th Ave, Ste C-201",RGTW,Tampa,33664,27.960797,-82.4415994,3.0,"Food, Restaurants",3.0,2009,1.0
+0970,Central Pizza & Subs,6405 Central Ave,9EV3,San Petersburgo,33730,27.7711976,-82.7247354,3.0,"Pizza, Food Delivery Services, Food, Restaurants",3.0,2009,1.0
+09a2,Bula Kafe,2500 5th Ave N,9EV3,San Petersburgo,33730,27.7771585,-82.6675529,4.0,"Nightlife, Lounges, Coffee & Tea, Cafes, Bars, Restaurants, Food",4.0,2009,1.0
+09db,Lenny's Restaurant,21220 US Hwy 19 N,MCCU,Clearwater,33769,27.9653459,-82.7305416,4.5,"Delis, American (Traditional), Breakfast & Brunch, Restaurants",4.6,2009,1.0
+0a50,Taste of Saigon,6527 Park Blvd N,SJ01,Pinellas Park,33782,27.8392404,-82.7267595,4.0,"Restaurants, Vietnamese",4.0,2009,1.0
+0aa6,Bros Pizzeria,547 S Fort Harrison Ave,MCCU,Clearwater,33769,27.9598298744,-82.7997673332,4.0,"Pizza, Restaurants, Italian",4.0,2009,1.0
+0b74,Circles,2500 W Azeele St,RGTW,Tampa,33664,27.9409036,-82.4852647,4.0,"American (New), Restaurants",4.3,2009,1.0
+0b75,Ruby Tuesday,3138 Tampa Road,96OP,Oldsmar,34677,27.9538539,-82.51436865,2.5,"Restaurants, American (Traditional), Burgers",2.0,2009,1.0
+0b84,Five Guys,6022 Winthrop Town Centre Ave,TC12,Riverview,33579,27.950556789066667,-82.445595609375,4.0,"Burgers, American (New), Fast Food, Hot Dogs, Restaurants",4.4,2009,1.0
+0bc5,Taste of India,902 Brandon Blvd E,W2W7,Brandon,33511,27.9381235,-82.2710117,3.5,"Pakistani, Indian, Halal, Vegetarian, Restaurants, Vegan",2.5,2009,1.0
+0c7b,TGI Fridays,2501 E Fowler Ave,RGTW,Tampa,33664,28.0534969,-82.4308346,2.5,"Restaurants, American (Traditional), Bars, Nightlife",3.0,2009,1.0
+0c7d,The Brass Tap,"2000 Piazza Ave, Ste 110",CQ72,Wesley Chapel,33545,28.187735,-82.348591,4.0,"Beer Bar, Sports Bars, Restaurants, Nightlife, Bars, Pubs, American (New)",3.8,2009,1.0
+0cd7,Carmine's Restaurant and Bar,1802 E 7th Ave,RGTW,Tampa,33664,27.9604618,-82.4390128,3.0,"Italian, Restaurants, Bars, Nightlife, Sandwiches, Spanish, Cuban",3.7,2009,1.0
+0cf9,Smoke Barbeque and Grill,901 Platt St,RGTW,Tampa,33664,27.941942,-82.46887,3.0,"Barbeque, Restaurants",5.0,2009,1.0
+0d0c,Taco Bus,913 E Hillsborough Ave,RGTW,Tampa,33664,27.995955,-82.450292,3.5,"Mexican, Restaurants, Ethnic Food, Food, Vegetarian, Food Trucks, Street Vendors, Specialty Food",4.5,2009,1.0
+0d11,Tokyo Sushi Cafe,10500 Ulmerton Rd,LIFE,Largo,33778,27.8929345,-82.7848052,3.0,"Restaurants, Sushi Bars",3.0,2009,1.0
+0d17,Sulas,1605 E 7th Ave,RGTW,Tampa,33664,27.960206600000003,-82.4414592,4.0,"Restaurants, Cuban",4.7,2009,1.0
+0d3e,Sakura Japanese Restaurant,4373 Commercial Way,I0WF,Spring Hill,34610,28.4929744,-82.5979859,3.5,"Japanese, Restaurants",3.0,2009,1.0
+0d99,Sergio's Restaurant & Pizzeria,35233 State Rd 54,PM56,Zephyrhills,33542,28.2248182,-82.2341572,3.5,"Restaurants, Pizza, Italian",4.0,2009,1.0
+0dc7,Spaghetti Warehouse,1911 13th St,RGTW,Tampa,33664,27.9614814,-82.4452505,3.0,"Italian, Restaurants",1.0,2009,1.0
+0e4b,Italia Mia,1165 62nd Ave N,9EV3,San Petersburgo,33730,27.829617,-82.650277,4.0,"Pizza, Italian, Restaurants",4.0,2009,1.0
+0e5e,Arigato Japanese Steak House,14330 N Dale Mabry Hwy,RGTW,Tampa,33664,27.977292825,-82.677241225,3.0,"Japanese, Restaurants, Steakhouses",4.0,2009,1.0
+0ede,Fresh Harvest Buffet,5223 Orient Rd,RGTW,Tampa,33664,27.992803,-82.37286,3.5,"Breakfast & Brunch, Restaurants, Buffets",5.0,2009,1.0
+0ef7,GameTime,1600 E 8th Ave,RGTW,Tampa,33664,27.9611161408,-82.4409069127,3.0,"Event Planning & Services, Sports Bars, Arts & Entertainment, Venues & Event Spaces, Books, Mags, Music & Video, Amusement Parks, American (Traditional), Shopping, Restaurants, Videos & Video Game Rental, Active Life, Bars, Arcades, Nightlife",3.0,2009,1.0
+0fd3,Water + Flour,1015 S Howard Ave,RGTW,Tampa,33664,27.9330642,-82.4834505,4.0,"Sushi Bars, Restaurants, Pizza, Gluten-Free, Tapas/Small Plates, Cocktail Bars, Bars, Nightlife, American (New), Italian",3.8,2009,1.0
+1034,Oishi Ultimate Japanese Cuisine,615 Channelside Dr,RGTW,Tampa,33664,27.943472499999995,-82.4475534,2.5,"Sushi Bars, Japanese, Soup, Restaurants",3.8,2009,1.0
+1148,Paul's Chicago Pizza,"1500 N McMullen Booth Rd, Ste A-11",MCCU,Clearwater,33769,27.9800728579,-82.7098178579,4.0,"Pizza, Sandwiches, Restaurants, Italian",4.5,2009,1.0
+117c,Frenchys South Beach Cafe,351 S Gulfview Blvd,EXHF,Clearwater Beach,33767,27.971642,-82.829353,3.5,"Restaurants, Cafes, Sandwiches, Salad, Seafood",2.8,2009,1.0
+1187,Sa Ri One Korean Restaurant,3940 W Cypress St,RGTW,Tampa,33664,27.951953,-82.5091776,4.0,"Restaurants, Korean",3.5,2009,1.0
+11b4,Al-Aqsa Grocery,10805 N 56th St,RGTW,Tampa,33664,28.046036,-82.393091,3.0,"Halal, Grocery, Food, Restaurants",4.0,2009,1.0
+11b9,Shephard's Beach Resort,619 S Gulfview Blvd,EXHF,Clearwater Beach,33767,27.96718,-82.82716,3.0,"Hotels & Travel, Bars, American (Traditional), Restaurants, Event Planning & Services, Nightlife, Hotels, Resorts",4.0,2009,1.0
+11e9,Tijuana Flats - Fowler,2782 E Fowler Ave,RGTW,Tampa,33664,28.055805,-82.427633,4.0,"Mexican, Restaurants, Tex-Mex",3.2,2009,1.0
+124f,Aquaknox,7627 W Courtney Campbell Cswy,RGTW,Tampa,33664,27.968424,-82.565792,3.0,"Restaurants, Seafood",3.5,2009,1.0
+1257,Restaurant BT,2507 S MacDill Ave,RGTW,Tampa,33664,27.9226374,-82.4939091,4.5,"American (New), Vietnamese, French, Restaurants",4.7,2009,1.0
+12d5,Chef Thai & Sushi,"1155 S Dale Mabry Hwy, Ste 22",RGTW,Tampa,33664,27.9326118,-82.5063215,3.5,"Restaurants, Sushi Bars, Thai",5.0,2009,1.0
+1357,Green Lemon,915 S Howard Ave,RGTW,Tampa,33664,27.9346234824,-82.4831569976,4.5,"Food, Tapas Bars, Gluten-Free, Tacos, Restaurants, Latin American, Tapas/Small Plates, Breakfast & Brunch, Bars, Mexican, Event Planning & Services, Caterers, Nightlife",3.0,2009,1.0
+13c1,Big Belly Burgers,109 W Bloomingdale Ave,W2W7,Brandon,33511,27.8930258,-82.286702,3.5,"Restaurants, Burgers",5.0,2009,1.0
+13d9,ABC Pizza House,1242 W Hillsborough Ave,RGTW,Tampa,33664,27.99554,-82.4743805,4.0,"Restaurants, Pizza",2.5,2009,1.0
+1448,Mickey Quinn's Pub,13071 Park Blvd,8ZKX,Seminole,33777,27.8449335,-82.8193534,4.0,"Nightlife, Restaurants, Pubs, Bars, Irish Pub",4.0,2009,1.0
+145c,Thai Ruby,15319 Amberly Dr,RGTW,Tampa,33664,28.0882404,-82.4047290822,4.0,"Restaurants, Thai, Asian Fusion",4.0,2009,1.0
+147a,Zeko's Mediterranean Grill,4880 54th Ave,9EV3,San Petersburgo,33730,27.8206907,-82.6995119,3.5,"Greek, Middle Eastern, Restaurants, Seafood, Mediterranean",3.5,2009,1.0
+14b7,La Creperia Cafe,1729 E 7th Ave,RGTW,Tampa,33664,27.9601035901,-82.4396060472,4.0,"Creperies, Desserts, Breakfast & Brunch, Restaurants, Coffee & Tea, Specialty Food, Local Flavor, Food",4.2,2009,1.0
+14c1,Ling Express,803 E Bloomingdale Ave,W2W7,Brandon,33511,27.8931265,-82.2731072,3.5,"Restaurants, American (Traditional), Chinese, Asian Fusion",3.0,2009,1.0
+1520,Paradise Restaurant,443 Main St,B8F4,Safety Harbor,34695,27.9909669,-82.6920068,3.5,"American (Traditional), American (New), Italian, Chinese, Breakfast & Brunch, Seafood, Diners, Restaurants, Greek",4.0,2009,1.0
+1581,Toast Wine & Cafe,14921 Bruce B Downs Blvd,RGTW,Tampa,33664,28.0822703,-82.4137794,4.0,"Wine Bars, Cafes, Nightlife, Restaurants, Bars, Salad, Tapas Bars, Sandwiches",4.0,2009,1.0
+1585,Cafe De Siam,11242 W Hillsborough Ave,RGTW,Tampa,33664,28.009685,-82.6098728,4.5,"Restaurants, Thai",4.0,2009,1.0
+15ce,Due Amici,1724 E 7th Ave,RGTW,Tampa,33664,27.9604769,-82.4396361,4.5,"Nightlife, Bars, Pizza, Restaurants, Italian",4.0,2009,1.0
+1701,Marinas Pizza & Pasta,12121 W Linebaugh Ave,RGTW,Tampa,33664,28.05691,-82.624301,4.0,"Restaurants, Pizza, Sandwiches, Italian",2.0,2009,1.0
+172e,Boston Market,7503 W Waters Ave,RGTW,Tampa,33664,27.99357605345,-82.65236716165,3.5,"Restaurants, American (Traditional), Caterers, Event Planning & Services, Comfort Food, Sandwiches, Chicken Shop",3.0,2009,1.0
+1745,Island Way Grill,20 Island Way,MCCU,Clearwater,33769,27.9762783,-82.817396,3.5,"Seafood, Sushi Bars, Steakhouses, Restaurants",3.2,2009,1.0
+1755,Al's Finger Licking Good Bar-B-Que,1609 Angel Oliva Sr St,RGTW,Tampa,33664,27.9592488,-82.4390309,4.5,"American (Traditional), Southern, Barbeque, Restaurants",4.0,2009,1.0
+175e,Rice Market and Restaurant,7525 W Hillsborough Ave,RGTW,Tampa,33664,27.9980032604,-82.5636772197,3.0,"Restaurants, Nightlife, Korean, Ethnic Food, Grocery, Ethnic Grocery, Lounges, Specialty Food, Food, Bars, Sushi Bars",4.5,2009,1.0
+17ab,One Family Korean Restaurant,7030 W Hillsborough Ave,RGTW,Tampa,33664,27.9957891712,-82.5602963049,4.0,"Nightlife, Restaurants, Korean, Karaoke",4.2,2009,1.0
+17ae,Soho Sushi,3218 W Kennedy Blvd,RGTW,Tampa,33664,27.9445131236,-82.4966429919,4.0,"Sushi Bars, Japanese, Restaurants, Food",4.2,2009,1.0
+17d4,The Hungry Greek,12950 Race Track Rd,RGTW,Tampa,33664,28.0694857,-82.6338282,4.5,"Restaurants, Greek",4.0,2009,1.0
+17ea,Sakura Sushi,3438-16 E Lake Rd,IKXB,Palm Harbor,34685,28.0617535,-82.7059224,4.5,"Restaurants, Japanese, Sushi Bars",5.0,2009,1.0
+18a0,Ha Long Bay,5944 34th St N,9EV3,San Petersburgo,33730,27.8275700853,-82.6799391314,3.5,"Asian Fusion, Restaurants, Cantonese, Dim Sum, Chinese, Vietnamese",4.2,2009,1.0
+18e0,Barnacles Restaurant,926 Providence Rd,W2W7,Brandon,33511,27.925316,-82.31781,2.5,"Seafood, American (Traditional), Burgers, Restaurants",2.5,2009,1.0
+1961,Pacific Thai Cuisine,"4058 Tampa Rd, Ste 5",96OP,Oldsmar,34677,28.035137007,-82.6543432493,4.5,"Sushi Bars, Restaurants, Thai",4.0,2009,1.0
+19cd,Fresco's Waterfront Bistro,300 2nd Ave NE,9EV3,San Petersburgo,33730,27.7732269651,-82.6314324449,3.5,"Nightlife, Restaurants, Seafood, Bistros, American (Traditional), Bars",4.0,2009,1.0
+19db,Moulin Rouge French Cuisine,10525 US Hwy 19 N,SJ01,Pinellas Park,33782,27.867608,-82.7028629,3.0,"French, Restaurants, Steakhouses",4.0,2009,1.0
+19ec,Peabody's,15333 Amberly Dr,RGTW,Tampa,33664,28.0878576,-82.4044612,4.0,"Dance Clubs, Nightlife, Pool Halls, Bars, American (Traditional), Restaurants, Sports Bars",3.0,2009,1.0
+1b33,Golden Krust Caribbean Restaurant,14913 Florida Ave,RGTW,Tampa,33664,28.085559,-82.458338,3.5,"Restaurants, Soul Food, Food, Caribbean",4.0,2009,1.0
+1b42,DeLosa's Pizza & Italian Restaurant,2535 E Bay Dr,LIFE,Largo,33778,27.9161586,-82.7609063,3.5,"Pizza, Restaurants, Italian, Chicken Wings",4.0,2009,1.0
+1b5a,Sawatdee Thai Cuisine,10938 N 56th St,RGTW,Tampa,33664,28.0483867,-82.39424799999999,4.0,"Restaurants, Thai, Noodles, Soup",4.1,2009,1.0
+1b63,Samurai Blue Sushi & Sake Bar,"1600 E 8th Ave, Ste C208",RGTW,Tampa,33664,27.9608345486,-82.4417488807,4.0,"Restaurants, Japanese, Soup, Sushi Bars",3.2,2009,1.0
+1b79,Sushi Tsu Japanese Steakhouse & Sushi Bar,15363 Amberly Dr,RGTW,Tampa,33664,28.0876283,-82.4034249,3.5,"Restaurants, Sushi Bars, Japanese, Steakhouses",5.0,2009,1.0
+1b9e,Boneyard,1823 E 7th Ave,RGTW,Tampa,33664,27.9600821,-82.438332,3.5,"Bars, Chicken Wings, Restaurants, American (Traditional), Beer, Wine & Spirits, Nightlife, Food",3.0,2009,1.0
+1bd8,Maggiano's Little Italy,203 Westshore Plz,RGTW,Tampa,33664,27.946453,-82.526348,4.0,"Bars, Italian, Restaurants, Nightlife",3.8,2009,1.0
+1c19,Shiki Sushi Bar & Restaurant,1500 N McMullen Booth Rd,MCCU,Clearwater,33769,27.9799916,-82.7098518,3.5,"Restaurants, Japanese, Sushi Bars",5.0,2009,1.0
+1c1a,Bowled Restaurant,3541 4th St N,9EV3,San Petersburgo,33730,27.804408,-82.6384935,3.5,"Restaurants, American (New)",4.2,2009,1.0
+1ccf,Kaisen Sushi,14841 N Dale Mabry Hwy,RGTW,Tampa,33664,28.083075,-82.504375,4.0,"Restaurants, Sushi Bars, Japanese",4.5,2009,1.0
+1d4a,Taste of Boston,5314 Interbay Blvd,RGTW,Tampa,33664,27.8892079759,-82.4807473821,3.5,"Restaurants, Seafood, Fish & Chips, American (Traditional)",4.0,2009,1.0
+1d81,Gengiz Khan Mediterranean Grill,3114 W Bay To Bay Blvd,RGTW,Tampa,33664,27.9194653726,-82.4947849089,3.5,"Restaurants, Chinese, Mediterranean, Turkish",4.7,2009,1.0
+1e5a,Cristino's Coal Oven Pizza,1101 S Fort Harrison Ave,MCCU,Clearwater,33769,27.9543263,-82.7996168,4.5,"Pizza, Restaurants",5.0,2009,1.0
+1e7f,Fortunato's Italian Pizzeria,7700 Starkey Rd,8ZKX,Seminole,33777,27.8420725,-82.7627986,4.0,"Pizza, Restaurants, Italian, Wraps, Salad",4.5,2009,1.0
+1eb6,Jade Bistro,6139 Park Blvd N,SJ01,Pinellas Park,33782,27.8395567,-82.7192914,4.0,"Asian Fusion, Active Life, Vietnamese, Restaurants",3.7,2009,1.0
+1edf,Caribbean Cafe,4801 Central Ave,9EV3,San Petersburgo,33730,27.771213,-82.698682,4.0,"Restaurants, American (New)",4.5,2009,1.0
+1ef1,Sally O' Neal's Pizza Hotline,1319 S Howard Ave,RGTW,Tampa,33664,27.9289873,-82.4835461,4.0,"Food, Restaurants, Desserts, Salad, Gluten-Free, Pizza, Italian",2.5,2009,1.0
+1f0c,Liang's Bistro Asian Cuisine,17515 Bruce B Downs Blvd,RGTW,Tampa,33664,28.127516,-82.367689,4.0,"Restaurants, Desserts, Food, Pan Asian, Asian Fusion, Cantonese, Thai, Chinese",4.0,2009,1.0
+1f24,Pei Wei Asian Kitchen,12927 N Dale Mabry Hwy,RGTW,Tampa,33664,28.06436085,-82.502789,3.0,"Restaurants, Japanese, Chinese, Gluten-Free, Korean, Fast Food, Asian Fusion",4.0,2009,1.0
+1fb8,Mel's Hot Dogs,4136 E Busch Blvd,RGTW,Tampa,33664,28.0329116,-82.4124436,4.0,"Hot Dogs, Restaurants, Fast Food",4.0,2009,1.0
+202a,Rigatoni Tuscan Oven,3437 W Kennedy Blvd,RGTW,Tampa,33664,27.9450046,-82.5009027,2.5,"Restaurants, Italian",2.0,2009,1.0
+204d,Williams Sub Shop,3801 Tyrone Blvd N,9EV3,San Petersburgo,33730,27.806517,-82.749065,4.5,"Restaurants, Sandwiches",5.0,2009,1.0
+2068,Lonni's Sandwiches Etc,133 1st St NE,9EV3,San Petersburgo,33730,27.77259,-82.6339806,4.0,"Food Delivery Services, Sandwiches, Restaurants, Food",2.0,2009,0.5
+2079,Antonio's Pasta Grille,"11401 N 56th St, Ste 23",RGTW,Tampa,33664,28.052112,-82.3930273,3.0,"Restaurants, Italian",4.5,2009,1.0
+207a,Splitsville,"615 Channelside Dr, Ste 120",RGTW,Tampa,33664,27.9430060957,-82.4469155189,3.5,"Southern, Bars, Active Life, Restaurants, Nightlife, Bowling",3.4,2009,1.0
+2146,Italian Kitchen & Cafe,6915 US Hwy 301 S,TC12,Riverview,33579,27.881078,-82.328286,4.0,"Italian, Internet Cafes, Restaurants, Food",5.0,2009,1.0
+215a,Havana Village Sandwich Shop,120 N Dale Mabry Hwy,RGTW,Tampa,33664,27.9456144,-82.5059053,3.0,"Restaurants, Cuban, Sandwiches",3.9,2009,1.0
+21e9,Toby's Original Little Italy Pizza,3523 49th St N,9EV3,San Petersburgo,33730,27.804623000000003,-82.6990597,4.0,"Italian, Pizza, Restaurants",4.0,2009,1.0
+2264,Smitty's Restaurant,4890 122nd Ave N,MCCU,Clearwater,33769,27.8823517,-82.6996293,3.0,"Restaurants, Greek",1.0,2009,0.5
+2287,Ferg's Sports Bar & Grill,1320 Central Ave,9EV3,San Petersburgo,33730,27.770871,-82.652212,3.5,"Restaurants, Nightlife, American (Traditional), Bars, Sports Bars",3.0,2009,1.0
+228b,Sunset Grill at Little Harbor,602 Bahia Del Sol Dr,D8OX,Ruskin,33570,27.8000398062,-82.46207923266667,3.8,"Active Life, Restaurants, Beaches, Cocktail Bars, Breakfast & Brunch, American (New), Bars, Nightlife, Sandwiches, American (Traditional)",4.0,2009,1.0
+228d,La Oriental Bakery,"3117 W Columbus Dr, Ste 203",RGTW,Tampa,33664,27.9671261,-82.4947127,3.5,"Bakeries, Restaurants, Food",5.0,2009,1.0
+22e9,Tsunami Sushi & Hibachi Grill,2020 Badlands Dr,W2W7,Brandon,33511,27.9271458636,-82.315246427,4.0,"Korean, Japanese, Sushi Bars, Restaurants",3.6,2009,1.0
+2329,La Septima Cafe,702 W Lumsden Rd,W2W7,Brandon,33511,27.9248109088,-82.2943662968,4.0,"Spanish, Cuban, Delis, Italian, Breakfast & Brunch, Restaurants",4.2,2009,1.0
+2386,Tre Amici At The Bunker,1907 N 19th St,RGTW,Tampa,33664,27.9613126033,-82.4378099829,4.0,"Nightlife, Arts & Entertainment, Beer, Wine & Spirits, Food, Restaurants, Coffee & Tea, Music Venues, Breakfast & Brunch, Sandwiches",4.8,2009,1.0
+238e,Thailand Restaurant,5252 S Dale Mabry Hwy,RGTW,Tampa,33664,27.8881238,-82.5060889,4.0,"Restaurants, Thai",2.5,2009,1.0
+23b7,Tilted Kilt Pub and Eatery,14457 North Dale Mabry Hwy,RGTW,Tampa,33664,28.0801044,-82.5067022,2.5,"British, Beer, Wine & Spirits, Food, Restaurants, Nightlife, Pubs, Bars",3.5,2009,1.0
+23e7,Zapata's Restaurant and Tequila Bar,"111 2nd Ave NE, Ste 209",9EV3,San Petersburgo,33730,27.773524,-82.63422,1.5,"Mexican, Restaurants",1.5,2009,1.0
+2482,Miller's Ale House - Brandon,1817 W Brandon Blvd,W2W7,Brandon,33511,27.9375026,-82.3134475,3.5,"Nightlife, Sports Bars, Restaurants, Seafood, Bars, American (New), American (Traditional)",2.0,2009,1.0
+2553,Grand Hyatt Tampa Bay,2900 Bayport Dr,RGTW,Tampa,33664,27.9651702134,-82.5500947185,4.0,"Hotels & Travel, Event Planning & Services, Restaurants, American (New), Hotels",3.2,2009,1.0
+255b,Greek Town Grille,1230 Cleveland St,MCCU,Clearwater,33769,27.9658779,-82.7863171,3.5,"Vegetarian, Greek, Restaurants, Gluten-Free",5.0,2009,1.0
+25c3,Channelside,615 Channelside Dr,RGTW,Tampa,33664,27.9434725,-82.4475534,3.0,"Shopping Centers, Shopping, Arts & Entertainment, Restaurants, Nightlife, Music Venues",2.2,2009,1.0
+25d3,King Corona Cigars,1523 E 7th Ave,RGTW,Tampa,33664,27.9601583,-82.442136,4.5,"Restaurants, Cafes, Tobacco Shops, Shopping",4.4,2009,1.0
+25e1,Oldsmar Cop Shop,3780 Tampa Rd,96OP,Oldsmar,34677,28.042315,-82.677194,3.0,"Nightlife, Chicken Wings, Bars, American (Traditional), Sports Bars, Restaurants",2.0,2009,1.0
+260c,Mimi's Cafe,804 Providence Rd,W2W7,Brandon,33511,27.99061575,-82.41030075,3.5,"Restaurants, American (Traditional), Breakfast & Brunch",4.2,2009,1.0
+26bb,Bistro Bleu,2402 S MacDill Ave,RGTW,Tampa,33664,27.923636,-82.493325,3.5,"Restaurants, American (New)",3.5,2009,1.0
+26f3,Alfonso's Pizzeria,14942 N Florida Ave,RGTW,Tampa,33664,28.086680838,-82.460234,4.0,"Sandwiches, Restaurants, Pizza",4.0,2009,1.0
+2762,New World Brewery,1313 E 8th Ave,RGTW,Tampa,33664,27.960763000000004,-82.444854,4.0,"Pizza, Nightlife, Food, Restaurants, Breweries, Bars",4.3,2009,1.0
+276d,Fly Bar & Restaurant,,RGTW,Tampa,33664,27.9552692,-82.4563199,4.0,"Tapas Bars, Nightlife, Tapas/Small Plates, Bars, Lounges, Restaurants",3.7,2009,1.0
+2843,Square 1 Burgers & Bar,3701 Henderson Blvd,RGTW,Tampa,33664,27.9354248,-82.5043977,4.0,"Nightlife, Bars, Burgers, Food, Restaurants",3.8,2009,1.0
+289e,Thai Basil,4445 E Bay Dr,MCCU,Clearwater,33769,27.915499,-82.7410569,4.0,"Restaurants, Thai",4.5,2009,1.0
+291f,Estella's,4234 W Bay To Bay Blvd,RGTW,Tampa,33664,27.919596,-82.515643,3.0,"Flowers & Gifts, Mexican, Restaurants, Children's Clothing, Fashion, Shopping",4.0,2009,1.0
+295a,Estela's,4015 S Dale Mabry Hwy,RGTW,Tampa,33664,27.9058005,-82.5065522,2.0,"Mexican, Restaurants",2.0,2009,1.0
+2975,Algusto Tortilla & Salsa,912 W Kennedy Blvd,RGTW,Tampa,33664,27.9444632,-82.469141,3.5,"Restaurants, Mexican",4.0,2009,1.0
+2a02,Guadalajara Mexican Restaurant,4502 W Hillsborough Ave,RGTW,Tampa,33664,27.9956243,-82.5198098,3.0,"Mexican, Restaurants",3.0,2009,1.0
+2aa7,Louis Pappas Market Cafe,14913 Bruce B Downs Blvd,RGTW,Tampa,33664,28.082762,-82.412285,4.0,"Restaurants, Greek",3.0,2009,1.0
+2ae2,Bay Pizza & Dinners,14609 Livingston Ave,1GQ7,Lutz,33559,28.0809517,-82.4301943,1.5,"Restaurants, Pizza",4.0,2009,1.0
+2b02,The Green Corner,1261 S Fort Harrison Ave,MCCU,Clearwater,33769,27.9508856,-82.7995667,4.0,"Salad, Sandwiches, Wraps, Restaurants",4.0,2009,1.0
+2b9f,Samaria Cafe,502 N Tampa St,RGTW,Tampa,33664,27.9482899,-82.4595234,4.0,"Breakfast & Brunch, Restaurants, Cafes, Food",4.0,2009,1.0
+2ba2,Barrow's Gourmet Deli,3660 Henderson Blvd,RGTW,Tampa,33664,27.9358446,-82.5032662,4.5,"Restaurants, Caterers, Delis, Event Planning & Services, Soup, Sandwiches",5.0,2009,1.0
+2bf7,Tio Pepe Restaurante,2930 Gulf To Bay Blvd,MCCU,Clearwater,33769,27.961052,-82.716001,3.5,"Nightlife, Restaurants, Basque, Spanish, Cuban, American (New)",4.0,2009,1.0
+2c83,Olive Garden Italian Restaurant,29461 US Hwy 19 N,MCCU,Clearwater,33769,28.00425643803333,-82.4967538689,3.0,"Wine Bars, Restaurants, Nightlife, Salad, Italian, Bars, Soup",3.3,2009,1.0
+2caf,A Corner of England,6297 Central Ave,9EV3,San Petersburgo,33730,27.7708823,-82.7222817,3.0,"Food, Coffee & Tea, Tea Rooms, Restaurants, Shopping",3.0,2009,1.0
+2d7c,Skipper's Smokehouse,910 Skipper Rd,RGTW,Tampa,33664,28.0809733,-82.4505856,3.5,"Nightlife, Food, Smokehouse, Bars, Seafood, American (Traditional), Restaurants, Music Venues, Arts & Entertainment",4.0,2009,1.0
+2de8,Westshore Pizza,6602 Hanley Rd,RGTW,Tampa,33664,27.980639839566667,-82.65723159556667,3.0,"Pizza, Restaurants",2.3,2009,1.0
+2e76,The Laughing Cat,1811 N 15th St,RGTW,Tampa,33664,27.9608557,-82.4427811,4.0,"Restaurants, Italian, Beer, Wine & Spirits, Food",3.7,2009,1.0
+2e96,Cheddar's Scratch Kitchen,11135 Causeway Blvd,RGTW,Tampa,33664,27.9198306138,-82.4860587603,3.2,"American (Traditional), Restaurants, Comfort Food",3.6,2009,1.0
+2f2e,Wright's Gourmet House,1200 S Dale Mabry Hwy,RGTW,Tampa,33664,27.9317815,-82.5050114,4.5,"Sandwiches, American (Traditional), Restaurants, Patisserie/Cake Shop, Caterers, Food, Event Planning & Services",4.8,2009,1.0
+2f36,Cello's Charhouse,143 7th Ave N,B8F4,Safety Harbor,34695,27.9913856,-82.6944136,4.5,"Desserts, Restaurants, Food, Steakhouses, American (Traditional)",5.0,2009,1.0
+2f61,Evos Feel Great Food,157 Westshore Plz,RGTW,Tampa,33664,27.9451666,-82.5272951,3.5,"Fast Food, Restaurants",4.0,2009,1.0
+304f,Super Buffet,11227 Park Blvd,8ZKX,Seminole,33777,27.8411866,-82.7943687,3.0,"Restaurants, Buffets",4.0,2009,1.0
+3062,Rusty Bellies,937 Dodecanese Blvd,3IGC,Tarpon Springs,34689,28.155071,-82.764421,4.5,"Nightlife, Seafood, Bars, Restaurants, Tiki Bars, American (Traditional)",5.0,2009,1.0
+30c1,Checkers,1595 S Missouri Ave,MCCU,Clearwater,33769,27.93884445,-82.5472402,2.5,"Burgers, Restaurants, Fast Food",4.0,2009,1.0
+311b,Pho Quyen Vietnamese Restaurant,4505 Park Blvd,SJ01,Pinellas Park,33782,27.83986,-82.694901,3.5,"Restaurants, Vietnamese",4.7,2009,1.0
+311d,Cafe Kolao,8618 49th St,SJ01,Pinellas Park,33782,27.8503468,-82.7002212,3.5,"Restaurants, Spanish, Cuban",5.0,2009,1.0
+311e,Hooters,"615 Channelside Dr, Ste 113",RGTW,Tampa,33664,28.04127759596364,-82.56932287974546,2.8,"American (Traditional), Restaurants, Bars, Chicken Wings, Nightlife, Sports Bars",2.7,2009,1.0
+313a,Byblos,2832 S MacDill Ave,RGTW,Tampa,33664,27.9201313,-82.4934227,4.0,"Middle Eastern, Nightlife, Mediterranean, Falafel, Greek, Italian, Bars, Lebanese, Restaurants, Cafes",4.0,2009,1.0
+3156,Mad Fish,5200 Gulf Blvd,9EV3,San Petersburgo,33730,27.725734,-82.741675,4.0,"Restaurants, American (Traditional), Steakhouses, Seafood",4.3,2009,1.0
+31ae,Whiskey Joe's Bar & Grill - Tampa,7720 W Courtney Campbell Cswy,RGTW,Tampa,33664,27.9675961,-82.5730073,3.0,"Restaurants, Music Venues, African, Nightlife, Arts & Entertainment, American (New), American (Traditional), Bars, Burgers, Seafood, Venues & Event Spaces, Event Planning & Services",2.3,2009,1.0
+31b7,Sacred Grounds,4819 E Busch Blvd,RGTW,Tampa,33664,28.0321683,-82.405998,3.5,"Arts & Entertainment, Food, Bakeries, Nightlife, Restaurants, Coffee & Tea, Music Venues",3.3,2009,1.0
+31ed,The Grape,2223 N Westshore Blvd,RGTW,Tampa,33664,27.9626655,-82.5204806,3.5,"Tapas/Small Plates, Restaurants, Bars, Nightlife, Wine Bars, Food",3.0,2009,1.0
+31f4,Royal Palace Thai,811 S Howard Ave,RGTW,Tampa,33664,27.935384,-82.4832077,3.5,"Restaurants, Chinese, Vegetarian, Sushi Bars, Thai, Asian Fusion",3.5,2009,1.0
+3219,Fish Tales,1500 2nd St S,9EV3,San Petersburgo,33730,27.7556094,-82.6351468,3.0,"Bars, Seafood, Steakhouses, Nightlife, Restaurants, Dive Bars",3.5,2009,1.0
+32ba,China Star,16733 Fishhawk Blvd,BONO,Lithia,33547,27.856587,-82.204246,3.5,"Chinese, Restaurants",3.0,2009,1.0
+32de,Woody's Famous Salads,1722 S Dale Mabry Hwy,RGTW,Tampa,33664,27.9278767,-82.5055632729,4.5,"Caterers, Event Planning & Services, Cafes, Soup, Wraps, Cafeteria, Restaurants, Salad, Sandwiches",4.0,2009,1.0
+33ab,Little Greek Fresh Grill,9818 Little Rd,3IHW,New Port Richey,34655,28.2975838,-82.6710649,4.0,"Greek, Restaurants",5.0,2009,1.0
+344d,Nick's Pizza & Seafood,1203 Gulf Rd,3IGC,Tarpon Springs,34689,28.1444536,-82.773836,4.0,"Pizza, Restaurants",1.0,2009,1.0
+3492,Aunt Chilada's Cantina,34718 US Hwy 19 N,IKXB,Palm Harbor,34685,28.0886597,-82.7395962,2.0,"Mexican, Restaurants",1.0,2009,0.5
+34a2,China Gate Restaurant,12049 Anderson Rd,RGTW,Tampa,33664,28.059869,-82.541668,3.0,"Restaurants, Chinese",1.0,2009,1.0
+34be,Mr Souvlaki,802 N Pinellas Ave,3IGC,Tarpon Springs,34689,28.1535404,-82.7566017,4.0,"Restaurants, Greek",4.0,2009,1.0
+34fe,Las Margaritas Restaurant,4031 W Hillsborough Ave,RGTW,Tampa,33664,27.9964836,-82.5109518,4.0,"Cuban, Restaurants",3.0,2009,1.0
+3503,Sam's Fresh Seafood,900 Broadway St,L2T6,Dunedin,34698,28.0136249,-82.7901339,3.0,"Restaurants, Seafood Markets, Specialty Food, Seafood, Food",4.0,2009,1.0
+356d,Front Porch & Bart's Tavern,5924 N Florida Ave,RGTW,Tampa,33664,28.0012808,-82.4597828,3.5,"Seafood, American (Traditional), Restaurants, American (New), Sandwiches",5.0,2009,1.0
+3646,Whistle Stop Grill & Bar,915 Main St,B8F4,Safety Harbor,34695,27.9910403,-82.6968143,3.5,"Food, Music Venues, Arts & Entertainment, Restaurants, Ice Cream & Frozen Yogurt, American (Traditional), Local Flavor, Diners, Nightlife",3.0,2009,1.0
+364e,Crepe-ology,155 5th Ave N,B8F4,Safety Harbor,34695,27.9914664,-82.6923846,3.5,"Creperies, Restaurants",2.0,2009,1.0
+368b,Ozona Blue Grilling,125 Orange St,IKXB,Palm Harbor,34685,28.0587522,-82.7767829,3.5,"Seafood, Soup, Restaurants, American (New), Event Planning & Services, Caterers",4.5,2009,1.0
+36af,Asian Wok,5651 E Fowler Ave,RGTW,Tampa,33664,28.053252,-82.392828,4.0,"Restaurants, Chinese",4.0,2009,1.0
+36bc,Jerk Hut,207 E Twiggs St,RGTW,Tampa,33664,27.9488361,-82.4591603,3.5,"Caribbean, Restaurants",4.0,2009,1.0
+36c2,Pipo's Cafe,11417 N Dale Mabry Hwy,RGTW,Tampa,33664,28.0524107,-82.5040328,3.0,"Restaurants, Cuban",3.0,2009,1.0
+3793,Mangroves,208 S Howard Ave,RGTW,Tampa,33664,27.9426809,-82.4827321,3.5,"Restaurants, Nightlife, Seafood, American (New), Bars, American (Traditional)",4.0,2009,1.0
+37d2,Mastry's,233 Central Ave,9EV3,San Petersburgo,33730,27.7714873,-82.6362554,4.0,"Bars, Restaurants, Nightlife, American (Traditional)",2.0,2009,1.0
+37df,Acapulco Taqueria,1001 N Macdill Ave,RGTW,Tampa,33664,27.952494,-82.4926884,4.5,"Grocery, Food, Restaurants, Tacos, Mexican",4.3,2009,1.0
+3806,Island Outpost,466 Causeway Blvd,L2T6,Dunedin,34698,28.0506544,-82.7834045,3.5,"Salad, Restaurants, Burgers, Seafood",4.0,2009,1.0
+387d,Bella's Italian Café,"1413 S Howard Ave, Ste 100",RGTW,Tampa,33664,27.9283641,-82.4839323,4.0,"Restaurants, Italian",3.5,2009,1.0
+3891,Romano's Macaroni Grill,28795 US 19 North,MCCU,Clearwater,33769,28.046928075,-82.679200825,2.1,"Restaurants, Italian",2.8,2009,1.0
+3914,Sushi Alive,15451 N Dale Mabry Hwy,RGTW,Tampa,33664,28.092476,-82.501352,4.5,"Sushi Bars, Restaurants",4.3,2009,1.0
+3916,Five Star Pizza,10926 N 56th St,RGTW,Tampa,33664,28.0481913,-82.3942796,4.0,"Pizza, Restaurants",4.0,2009,1.0
+3918,Urban Culinary Cuisine,10016 Cross Creek Blvd,RGTW,Tampa,33664,28.1422123,-82.3305021,4.0,"American (Traditional), Southern, Restaurants, Sandwiches",4.0,2009,1.0
+39a3,Al's Famous Pizza,11931 Curley St,DE2U,San Antonio,33576,28.331468,-82.274517,4.0,"Salad, Sandwiches, Pizza, Restaurants, Chicken Wings",5.0,2009,1.0
+3a5b,Bogie's Food and Flicks,"33 N Garden Ave, Ste 140",MCCU,Clearwater,33769,27.966533,-82.7981141,5.0,"Restaurants, Breakfast & Brunch, Salad, Sandwiches, Food",5.0,2009,1.0
+3aff,Pop N Sons Diner,4812 N Dale Mabry Hwy,RGTW,Tampa,33664,27.9897139,-82.5057506,4.0,"Restaurants, Diners, Breakfast & Brunch",5.0,2009,1.0
+3b23,Limey's Pub,1492 4th St N,9EV3,San Petersburgo,33730,27.786664,-82.6388354,2.5,"Bars, Pubs, British, Nightlife, Restaurants",2.4,2009,1.0
+3b45,Five Guys Burgers and Fries,299 1st Ave N,9EV3,San Petersburgo,33730,27.772657,-82.636855,3.0,"Restaurants, Burgers, Fast Food",4.0,2009,1.0
+3b62,A&W Restaurant,1707 E Fowler Ave,RGTW,Tampa,33664,28.0540764,-82.4400961,1.5,"Restaurants, Fast Food, Hot Dogs, American (Traditional), Burgers",3.0,2009,1.0
+3b7d,Bascom's Chop House,3665 Ulmerton Rd,MCCU,Clearwater,33769,27.8946067,-82.6838316817,4.0,"Lounges, Seafood, American (Traditional), Restaurants, Bars, Nightlife, Steakhouses",3.5,2009,1.0
+3b83,Yuki Japanese Steak House,13505 Icot Blvd,MCCU,Clearwater,33769,27.8943813,-82.7136719,3.0,"Sushi Bars, Steakhouses, Restaurants, Japanese",2.5,2009,1.0
+3ba4,Squirrels Kitchen BBQ,5916 Providence Rd,W2W7,Brandon,33511,27.8938349,-82.3183387,2.5,"Barbeque, Restaurants, Food Stands",1.0,2009,0.5
+3bc9,Angelos Pizza,2621 US Hwy 19,DVM9,Holiday,34691,28.197055,-82.740837,4.0,"Italian, Pizza, Restaurants, Seafood",5.0,2009,1.0
+3bfb,Sushi Fune,"10801 Starkey Rd, Ste 18",8ZKX,Seminole,33777,27.8699899,-82.7601136,4.0,"Restaurants, Sushi Bars",4.5,2009,1.0
+3bfe,Pink Flamingo Cafe,"304 E Davis Blvd, Ste E",RGTW,Tampa,33664,27.9255504,-82.4531371,3.0,"Restaurants, American (Traditional)",2.5,2009,1.0
+3c79,Really Famous Tampa Style Cubans,1300 E Bay Dr,LIFE,Largo,33778,27.91728,-82.7735746,3.0,"Cuban, Restaurants",4.0,2009,1.0
+3cba,Bailey's Restaurant,238 E  Davis Blvd,RGTW,Tampa,33664,27.926247,-82.45353,4.5,"American (Traditional), Restaurants",5.0,2009,1.0
+3db6,Zom Hee Chinese Restaurant,9015 Park Blvd,8ZKX,Seminole,33777,27.8400909,-82.7647742,4.0,"Restaurants, Chinese",5.0,2009,1.0
+3e6a,Cherry's,903 E Bloomingdale Ave,W2W7,Brandon,33511,27.893596,-82.2701725,2.0,"Bars, Nightlife, American (New), Restaurants",1.0,2009,0.5
+3ecf,Pita Pit,2309 East Fowler Ave,RGTW,Tampa,33664,27.996614800000003,-82.45802029999999,3.5,"Sandwiches, Fast Food, Restaurants, Vegetarian, Mediterranean",2.5,2009,1.0
+3efe,Faedo Family Bakery,5150 N Florida Ave,RGTW,Tampa,33664,27.993987,-82.4596656,4.5,"Bakeries, Food, Restaurants",5.0,2009,1.0
+3fbf,Mama's Greek Cuisine,"735 Dodecanese Blvd, Ste 40",3IGC,Tarpon Springs,34689,28.1551148,-82.7609808,3.0,"Restaurants, Greek",3.0,2009,1.0
+403b,Paci's Pizza,2307 S Dale Mabry Hwy,RGTW,Tampa,33664,27.9244515,-82.5064186,4.5,"Pizza, Restaurants",3.0,2009,1.0
+4064,Anthony's Coal Fired Pizza,13020 N Dale Mabry Hwy,RGTW,Tampa,33664,28.02375032,-82.66909458,4.0,"Pizza, Restaurants",3.6,2009,1.0
+40bd,The Dubliner North,12836 Henderson Rd,RGTW,Tampa,33664,28.0629332,-82.5497594,3.0,"Bars, Nightlife, Irish, Restaurants, Pubs",4.0,2009,1.0
+415b,Soul Of Korea,7612 N 56th St,RGTW,Tampa,33664,28.0174437,-82.3939908,4.5,"Korean, Chinese, Restaurants",3.0,2009,1.0
+416b,WingHouse Bar & Grill,8001 W Hillsborough Ave,RGTW,Tampa,33664,27.90120728456,-82.58798049008001,3.1,"Sports Bars, Chicken Wings, Bars, Restaurants, Nightlife",4.0,2009,1.0
+4229,Cesare's of New York Pizzeria,2117 S Dale Mabry Hwy,RGTW,Tampa,33664,27.9257967,-82.5059063,3.5,"Pizza, Restaurants",2.8,2009,1.0
+42b6,Joto Thai-Sushi Clearwater,"2549 Countryside Blvd, Ste 3",MCCU,Clearwater,33769,28.0126269,-82.7317198,3.5,"Restaurants, Photography Stores & Services, Japanese, Sushi Bars, Shopping, Thai",4.0,2009,1.0
+42be,El Puerto Restaurant & Grill,1623 E 5th Ave,RGTW,Tampa,33664,27.9586968,-82.4405728,4.0,"Argentine, Latin American, Peruvian, Seafood, Spanish, Restaurants",4.0,2009,1.0
+42df,Mr Empanada,7543 W Hillsborough Ave,RGTW,Tampa,33664,27.9966662,-82.5636994,4.0,"Local Flavor, Empanadas, Food, Restaurants, Sandwiches, Latin American, Salad, Cuban, Caribbean",3.0,2009,0.5
+42fa,Cafe Caribe,10422 N Dale Mabry Hwy,RGTW,Tampa,33664,28.04592,-82.505245,4.0,"Restaurants, Sandwiches, Breakfast & Brunch, Cuban, Cafes",5.0,2009,1.0
+4300,Athens Restaurant,226 Main St,B8F4,Safety Harbor,34695,27.9906504,-82.6894764,4.0,"Greek, Restaurants, Breakfast & Brunch",3.0,2009,1.0
+432e,Pizza Hut,10619 Gibsonton Dr,TC12,Riverview,33579,27.9901058777,-82.39563655,1.5,"Restaurants, Pizza, Chicken Wings, Italian, Fast Food",2.5,2009,1.0
+433d,Timpano Hyde Park,1610 W Swann Ave,RGTW,Tampa,33664,27.9370426822,-82.4760082753,3.5,"Music Venues, Bars, Restaurants, Italian, Steakhouses, Nightlife, Arts & Entertainment, Cocktail Bars",3.8,2009,1.0
+4351,Seminole Hard Rock Hotel & Casino Tampa,5223 Orient Rd,RGTW,Tampa,33664,27.993551000000004,-82.371017,2.5,"Food, Hotels, Coffee & Tea, Hotels & Travel, Restaurants, Casinos, Burgers, Bars, Nightlife, Arts & Entertainment, Event Planning & Services",3.6,2009,1.0
+44e6,Luigi's Italian Restaurant,"3224 W Gandy Blvd, Ste 3",RGTW,Tampa,33664,27.893361,-82.49954,3.5,"Italian, Hair Salons, Pizza, Restaurants, Beauty & Spas",3.5,2009,1.0
+455c,Acropolis Greek Taverna,14947 Bruce B Downs Blvd,RGTW,Tampa,33664,27.973511077090475,-82.40299766330952,3.9,"Restaurants, Mediterranean, Greek, Beer, Wine & Spirits, Food",3.7,2009,1.0
+455e,Cafe Hey,1540 N Franklin St,RGTW,Tampa,33664,27.957238512,-82.4603595302,4.0,"Breakfast & Brunch, Local Flavor, Restaurants, Sandwiches, Food, Coffee & Tea",4.0,2009,1.0
+45a1,Song Huong Restaurant,4034 W Waters Ave,RGTW,Tampa,33664,28.0250647,-82.5113873,4.0,"Restaurants, Vietnamese",4.0,2009,1.0
+45c2,CD Roma's,1280 66th St N,9EV3,San Petersburgo,33730,27.7841884,-82.7287043,5.0,"Pizza, Italian, Restaurants",5.0,2009,1.0
+45ee,Slice of Life Pizzeria,9123 Little Rd,3IHW,New Port Richey,34655,28.2900031,-82.6771702,3.5,"Restaurants, Pizza",5.0,2009,1.0
+463c,Wok Out Restaurant,"1444 S Belcher Rd, Ste B",MCCU,Clearwater,33769,27.9436939343,-82.7462848364,3.5,"Chinese, Restaurants",4.0,2009,1.0
+469e,717 South,717 S Howard Ave,RGTW,Tampa,33664,27.936076717900004,-82.483183,4.0,"American (New), Italian, Restaurants, Asian Fusion, Seafood",3.3,2009,1.0
+46b7,Cafe Mozart,6754 4th St N,9EV3,San Petersburgo,33730,27.8343089,-82.6390571,4.5,"Food, Restaurants, Bakeries, Cafes",4.0,2009,1.0
+46c0,Miguel's Latin Market,2128 Mariner Blvd,I0WF,Spring Hill,34610,28.4636494,-82.540694,4.0,"Ethnic Food, Specialty Food, Meat Shops, Delis, Grocery, Food, Restaurants, Cuban",3.0,2009,1.0
+4712,Tokyo Sushi Bar,5711 E Fowler Ave,RGTW,Tampa,33664,28.0534510673,-82.3921844,4.0,"Sushi Bars, Restaurants, Soup, Asian Fusion, Japanese",3.0,2009,1.0
+471c,Bernini Restaurant,1702 E 7th Ave,RGTW,Tampa,33664,27.9605098,-82.4403727,4.0,"Restaurants, Italian",3.7,2009,1.0
+475f,Embassy Suites by Hilton Tampa Airport Westshore,555 N Westshore Blvd,RGTW,Tampa,33664,27.9490484,-82.5234881,2.5,"Hotels & Travel, Event Planning & Services, Restaurants, Hotels",2.0,2009,1.0
+477b,Yo Yo Sushi,"300 State St E, Ste 110",96OP,Oldsmar,34677,28.034993,-82.659346,3.5,"Sushi Bars, Restaurants",2.0,2009,1.0
+4828,The Boba House,2764 University Sq Dr,RGTW,Tampa,33664,28.0573326,-82.4298366,3.5,"Food, Middle Eastern, Coffee & Tea, Bubble Tea, Taiwanese, Restaurants",4.0,2009,1.0
+491d,Frenchy's Rockaway Grill,7 Rockaway St,EXHF,Clearwater Beach,33767,27.9834667,-82.8278346,4.0,"Sandwiches, American (Traditional), Restaurants, Seafood",3.3,2009,1.0
+4991,Bungalow Bistro,5137 N Florida Ave,RGTW,Tampa,33664,27.994181200000003,-82.4592915,3.0,"American (Traditional), Restaurants",2.8,2009,1.0
+49d0,Seminole Subs & Gyros,11775 Seminole Blvd,LIFE,Largo,33778,27.8801129,-82.7867628,4.0,"Sandwiches, Greek, Cheesesteaks, Restaurants",2.0,2009,1.0
+49e8,Vincenzo's Ristorante,2454 N McMullen Booth Rd,MCCU,Clearwater,33769,28.0112619,-82.707751,3.0,"American (New), Restaurants",4.0,2009,1.0
+4a96,Jasmine Thai and Sushi Restaurant,4516 S Dale Mabry Hwy,RGTW,Tampa,33664,27.9014971,-82.5059198,3.5,"Restaurants, Thai, Sushi Bars",2.0,2009,1.0
+4ab1,Crabby Bills Clearwater Beach,37 Causeway Blvd,EXHF,Clearwater Beach,33767,27.9770768,-82.8277495,3.5,"Food, Seafood, Restaurants, American (Traditional), Specialty Food, Seafood Markets",3.0,2009,1.0
+4af8,Circles Waterfront at Lands End Marina,1212 Apollo Beach Blvd,20PF,Apollo Beach,33572,27.7803027,-82.4228172,4.0,"Seafood, Restaurants, Steakhouses, Bars, Nightlife",4.0,2009,1.0
+4ba9,Kona Grill - Tampa,"4134 W Boy Scout Blvd, Ste B-1",RGTW,Tampa,33664,27.964528,-82.5136519,3.5,"Sushi Bars, American (New), Asian Fusion, Restaurants",3.7,2009,1.0
+4bb1,Pane Rustica,3225 S Macdill Ave,RGTW,Tampa,33664,27.9157286,-82.494673,4.5,"Restaurants, Cafes, American (New), Bakeries, Food, Italian",4.8,2009,1.0
+4bde,Mazzaro's Italian Market,2909 22nd Ave N,9EV3,San Petersburgo,33730,27.7922562,-82.673539,4.5,"Specialty Food, Delis, Coffee Roasteries, Butcher, Meat Shops, Food, Restaurants, Grocery, Italian",4.4,2009,1.0
+4bf3,Hillsborough State Park Poolside Cafe,15402 N Hwy 301,UGDG,Thonotosassa,33592,28.147995,-82.234892,4.5,"Restaurants, Cafes, Beer, Wine & Spirits, Active Life, Rafting/Kayaking, Food, Bike Rentals",5.0,2009,0.0
+4c22,TooJay's,2223 N W Shore Blvd,RGTW,Tampa,33664,27.9640468,-82.5216049,3.0,"Event Planning & Services, Restaurants, Caterers, Sandwiches, Delis",3.8,2009,1.0
+4c35,Mise En Place,"442 W Kennedy Blvd, Ste 110",RGTW,Tampa,33664,27.9446797287,-82.465137038,4.0,"Event Planning & Services, Restaurants, Venues & Event Spaces, Nightlife, Wine Bars, Caterers, American (New), Bars",4.2,2009,1.0
+4c77,St Petersburg Pier,"800 2nd Ave NE, Ste 3002",9EV3,San Petersburgo,33730,27.7736221,-82.6221686,3.0,"Local Flavor, Active Life, Tours, Hotels & Travel, American (Traditional), Arts & Crafts, Shopping, Restaurants, Arts & Entertainment, Aquariums",3.3,2009,1.0
+4cbd,Tony's Pizzeria & Ristorante,428 Cleveland St,MCCU,Clearwater,33769,27.9657274198,-82.8002682222,3.0,"Bars, Pizza, Italian, Nightlife, Food, Restaurants",4.0,2009,1.0
+4d34,Kobe Japanese Steakhouse - Brandon,2210 W Brandon Blvd,W2W7,Brandon,33511,27.93943,-82.3217459,4.0,"Steakhouses, Sushi Bars, Restaurants, Japanese",3.5,2009,1.0
+4d57,Captain Al's,"800 2nd Ave NE, Ste 25",9EV3,San Petersburgo,33730,27.773918,-82.622729,3.0,"American (Traditional), Food, Seafood, Restaurants, Beer, Wine & Spirits",5.0,2009,1.0
+4d7c,Johnny's Italian Restaurant,"2907 State Road 590, Ste 1",MCCU,Clearwater,33769,27.9822,-82.7167155,3.5,"Italian, Desserts, Food, Salad, Restaurants",4.0,2009,0.5
+4da7,Kwan Ming Chinese,1906 N Himes Ave,RGTW,Tampa,33664,27.9588383,-82.5015038,4.5,"Restaurants, Chinese",5.0,2009,1.0
+4dad,Plateroti Italian Gourmet Inc,1621 Gulf To Bay Blvd,MCCU,Clearwater,33769,27.9603395,-82.7698708,4.5,"Food, Restaurants, Specialty Food, Delis",4.0,2009,1.0
+4dff,Shrimp Boat,716 W Lumsden Rd,W2W7,Brandon,33511,27.8939679705,-82.268605807,4.0,"Seafood, Restaurants",5.0,2009,1.0
+4e14,Kaleisia Tea Lounge,"1441 E Fletcher Ave, Ste 101",RGTW,Tampa,33664,28.069055,-82.443811,4.5,"Restaurants, Vegan, Juice Bars & Smoothies, Coffee & Tea, Asian Fusion, Tea Rooms, Food, Vietnamese, Cafes",4.6,2009,1.0
+4e6f,Jacksons Bistro Bar & Sushi,"601 S Harbour Island Blvd, Ste 100",RGTW,Tampa,33664,27.9387237,-82.4548811,3.5,"Seafood, Japanese, Nightlife, Dance Clubs, Bars, American (New), Restaurants, Sushi Bars",3.3,2009,1.0
+4ef3,Johnny Rockets,7989 Citrus Park Town Ctr Mall,RGTW,Tampa,33664,28.070087,-82.576617,3.0,"American (Traditional), Restaurants, American (New), Fast Food, Burgers, Sandwiches, Diners",2.0,2009,0.5
+4f07,Jimmy's Fish House &  Iguana Bar,521 S Gulfview Blvd,EXHF,Clearwater Beach,33767,27.967869,-82.828375,3.5,"Restaurants, American (Traditional)",3.0,2009,1.0
+4f58,Vallarta Mexican Restaurant,9255 N 56th St,RGTW,Tampa,33664,28.0342337,-82.3927929,2.5,"Mexican, Restaurants",4.5,2009,1.0
+4f94,First Choice Southern Bar-B Que,10113 Adamo Dr,RGTW,Tampa,33664,27.942242297,-82.3400769223,4.0,"Restaurants, American (Traditional), Barbeque",4.5,2009,1.0
+5014,LongHorn Steakhouse,11102 Causeway Blvd,W2W7,Brandon,33511,27.931051836425,-82.472166556475,3.0,"Barbeque, American (Traditional), Restaurants, Steakhouses",2.2,2009,1.0
+5020,Mr. Empanada - South Tampa,3953 W Kennedy Blvd,RGTW,Tampa,33664,27.945201,-82.509649,4.5,"Cuban, Latin American, Restaurants, Food, Sandwiches, Spanish, Empanadas",3.2,2009,1.0
+5042,Country Pizza Inn,25856 US Hwy 19 N,MCCU,Clearwater,33769,28.0073796,-82.7308577,3.5,"Restaurants, Pizza",4.0,2009,1.0
+5052,Jasmine Thai Restaurant,13248 N Dale Mabry Hwy,RGTW,Tampa,33664,28.068673,-82.5068579,3.5,"Chinese, Thai, Restaurants",3.6,2009,1.0
+5059,Crown & Bull,319 Main St,L2T6,Dunedin,34698,28.0116959,-82.7894068,3.5,"Bars, Nightlife, American (Traditional), Restaurants, Breakfast & Brunch",3.5,2009,1.0
+5191,Gratzzi Italian Grille,211 2nd St S,9EV3,San Petersburgo,33730,27.7691918,-82.635785,4.0,"Restaurants, Italian",4.0,2009,1.0
+5254,Casa Tina,365 Main St,L2T6,Dunedin,34698,28.011587200000005,-82.7882815,3.5,"Mexican, Restaurants, Desserts, Vegetarian, Food, Soup",4.1,2009,1.0
+5303,West Tampa Sandwich Shop,3904 N Armenia Ave,RGTW,Tampa,33664,27.9734198,-82.4850266,4.0,"Cuban, Sandwiches, Breakfast & Brunch, Spanish, Restaurants",3.8,2009,1.0
+5316,Jason's Deli,"25801 US Highway 19 N, Ste 110",MCCU,Clearwater,33769,28.03889673333333,-82.52906349999999,3.8,"Event Planning & Services, Salad, Caterers, Delis, Sandwiches, Restaurants",3.0,2009,1.0
+5346,KFC,2212 E Fowler Ave,RGTW,Tampa,33664,28.0549002334,-82.4332459829,2.5,"Chicken Shop, Fast Food, Chicken Wings, Restaurants",1.0,2009,0.5
+53ce,Widow Brown's Restaurant,2076 Seminole Blvd,LIFE,Largo,33778,27.8975869,-82.7874765,4.0,"Restaurants, American (Traditional)",4.0,2009,1.0
+53e7,Tum Nuk Thai,11002 Seminole Blvd,LIFE,Largo,33778,27.80112842222222,-82.72759260000001,3.3,"Thai, Restaurants",2.7,2009,1.0
+54ae,Kobe Japanese Steakhouse - Tampa,14401 N Dale Mabry Hwy,RGTW,Tampa,33664,28.0787239,-82.5061726,4.0,"Sushi Bars, Restaurants, Steakhouses, Japanese",4.5,2009,1.0
+54c1,Krispy Kreme,8425 N Florida Ave,RGTW,Tampa,33664,28.0264049,-82.4589859,3.5,"Coffee & Tea, Donuts, Bagels, Restaurants, Food",5.0,2009,1.0
+54e3,Palm Restaurant,205 Westshore Plz,RGTW,Tampa,33664,27.9452008,-82.5272938,4.0,"Restaurants, Steakhouses, Seafood, Ethnic Food, Food, Specialty Food",2.5,2009,1.0
+54fc,La Tropicana Cafe,1822 E 7th Ave,RGTW,Tampa,33664,27.960413,-82.438222,2.5,"Restaurants, Cuban, Cafes, Breakfast & Brunch",2.8,2009,1.0
+5546,China Kitchen,268 3rd St S,9EV3,San Petersburgo,33730,27.7686894307,-82.6357922583,3.5,"Chinese, Restaurants",1.0,2009,1.0
+5589,Gino's NY Style Pizza,35977 US Hwy 19 N,IKXB,Palm Harbor,34685,28.0994465,-82.7395135,4.0,"Restaurants, Pizza, Seafood, Italian",5.0,2009,1.0
+55bd,Mystic Fish Seafood Grill & Bar,3253 Tampa Rd,IKXB,Palm Harbor,34685,28.0682736995,-82.7247772024,4.5,"Restaurants, Seafood, Bars, Salad, Tapas/Small Plates, Nightlife",4.5,2009,1.0
+55de,Tokai Japanese Restaurant,10115 Adamo Dr,RGTW,Tampa,33664,27.9422869851,-82.3399604112,3.5,"Restaurants, Japanese, Sushi Bars",3.0,2009,1.0
+55ea,P.F. Chang's,219 Westshore Plz,RGTW,Tampa,33664,27.9468722,-82.5261785,3.0,"Chinese, Gluten-Free, Restaurants, Asian Fusion",3.0,2009,1.0
+55ef,Redlands Grill by J. Alexander's,913 Dale Mabry Hwy,RGTW,Tampa,33664,27.9519547257,-82.5040393541,4.0,"Restaurants, Steakhouses, Seafood, American (New)",4.2,2009,1.0
+5695,Cappy's Pizzeria- Seminole Heights,4910 N Florida Ave,RGTW,Tampa,33664,27.9912707,-82.4596841,3.5,"Restaurants, Food, Pizza",3.0,2009,1.0
+5838,Wat Mongkolratanaram of Florida,5306 Palm River Rd,RGTW,Tampa,33664,27.944095999999995,-82.395179,4.5,"Religious Organizations, Restaurants, Local Flavor, Thai, Buddhist Temples, Churches",5.0,2009,1.0
+5842,Sami's Bakery,4914 E Busch Blvd,RGTW,Tampa,33664,28.0333063,-82.4042829,4.0,"Food, Bakeries, Restaurants",1.0,2009,1.0
+58ad,Fuji Sushi,1155 S Dale Mabry Hwy,RGTW,Tampa,33664,27.9325314,-82.5068063,3.5,"Sushi Bars, Restaurants",4.0,2009,1.0
+58b6,Thai Bistro,5414 Main St,3IHW,New Port Richey,34655,28.2497773,-82.7248724,4.0,"Restaurants, Thai",4.0,2009,1.0
+58cc,Florida Bakery Co,3320 W Columbus Dr,RGTW,Tampa,33664,27.9662824,-82.4988439,3.5,"Food, Sandwiches, Restaurants, Desserts, Bakeries",5.0,2009,1.0
+58cd,Joto's Pizza - Seminole,13050 Park Blvd,8ZKX,Seminole,33777,27.8432698,-82.8192403,3.5,"Pizza, Restaurants, Food Delivery Services, Food, Italian",3.5,2009,1.0
+592b,Tun-Du-Ree,1506 W Kennedy Blvd,RGTW,Tampa,33664,27.9442747,-82.4751004,3.0,"Pakistani, Restaurants, Indian, Food",3.6,2009,1.0
+5957,Cricketers British Pub & Restaurant - Dunedin,2634 Bayshore Blvd,L2T6,Dunedin,34698,28.0513065,-82.7815033,4.0,"Pubs, British, Bars, Restaurants, Music Venues, American (New), Arts & Entertainment, Nightlife",4.0,2009,1.0
+598e,Harr's Surf & Turf Market Inc,3235 Tampa Rd,IKXB,Palm Harbor,34685,28.0675269,-82.7250507,2.0,"Specialty Food, Caterers, Meat Shops, Delis, Beer, Wine & Spirits, Restaurants, Food, Event Planning & Services, Seafood Markets",4.5,2009,1.0
+59cf,Tank's Tap Room,13150 N Dale Mabry Hwy,RGTW,Tampa,33664,28.0666795,-82.5054012,2.5,"Bars, Food, Burgers, Nightlife, Restaurants, Local Flavor, Beer, Wine & Spirits, Sports Bars",4.0,2009,1.0
+59e4,Olde Town Pizzeria,115 W Bloomingdale Ave,W2W7,Brandon,33511,27.8929776,-82.2868847,3.5,"Italian, Restaurants, Pizza",4.0,2009,1.0
+5a1b,Flamestone American Grill,4009 Tampa Rd,96OP,Oldsmar,34677,28.037765700000005,-82.6586114,4.0,"American (Traditional), American (New), Cocktail Bars, Restaurants, Seafood, Breakfast & Brunch, Steakhouses, Gluten-Free, Nightlife, Bars",3.5,2009,1.0
+5a5e,O'Briens Irish Pub,15435 N Dale Mabry Hwy,RGTW,Tampa,33664,28.09236,-82.500588,4.0,"Bars, Pubs, Nightlife, Arts & Entertainment, Irish, Restaurants, Music Venues",3.5,2009,1.0
+5adc,Smokey Bones,8020 Citrus Park Dr,RGTW,Tampa,33664,27.9651367125,-82.5567700831,3.3,"Barbeque, Restaurants, Burgers, American (Traditional), Chicken Wings",3.2,2009,1.0
+5aef,La Cabaña Del Tio,1709 Drew St,MCCU,Clearwater,33769,27.9677135,-82.7665303,4.0,"Restaurants, Mexican",4.7,2009,1.0
+5b4b,Skyline Chili,28798 US Hwy 19 N,MCCU,Clearwater,33769,28.0338251,-82.7391913,4.0,"Hot Dogs, Sandwiches, American (New), Salad, Fast Food, Restaurants",3.0,2009,1.0
+5b51,Bagels Plus,2706 E Fletcher Ave,RGTW,Tampa,33664,28.0695359,-82.4286123,4.5,"Bagels, Restaurants, Food",4.0,2009,1.0
+5b80,Savannah's Cafe,1113 Central Ave,9EV3,San Petersburgo,33730,27.7712521,-82.6505182,2.5,"Restaurants, Southern",2.3,2009,1.0
+5b88,China 1,4645 Sunray Dr,DVM9,Holiday,34691,28.1990781,-82.7384384,3.5,"Restaurants, Seafood, Chinese, Soup",3.0,2009,1.0
+5bbf,Big Bok Choy Bistro,3730 Tampa Rd,96OP,Oldsmar,34677,28.043328,-82.6795145,4.0,"Chinese, Restaurants",5.0,2009,1.0
+5c1e,Kobe Japanese Steakhouse - Clearwater,28775 US-19 N,MCCU,Clearwater,33769,28.033686,-82.737182,4.0,"Food, Sushi Bars, Asian Fusion, Steakhouses, Japanese, Restaurants",2.0,2009,1.0
+5c28,World Of Beer,9524 W Linebaugh Ave,RGTW,Tampa,33664,28.043243005,-82.5922461274,4.0,"Restaurants, Pubs, Music Venues, American (Traditional), Nightlife, Bars, Arts & Entertainment",4.0,2009,1.0
+5c61,Cricketers 52,7306 State Rd 52,Y3QW,Hudson,34669,28.3307055,-82.6940157,3.5,"Restaurants, Bars, Nightlife, American (New)",4.0,2009,1.0
+5c6d,Kiku Japanese Restaurant & Sushi Bar,"483 Mandalay Ave, Ste 214",EXHF,Clearwater Beach,33767,27.98148,-82.826765,3.5,"Sushi Bars, Restaurants, Japanese, Asian Fusion",4.0,2009,1.0
+5ced,Tiparos Thai Restaurant,4755 Gulf Blvd,9EV3,San Petersburgo,33730,27.722163,-82.7403194,4.5,"Thai, Restaurants",4.8,2009,1.0
+5d7f,Pete & Shorty's Tavern,2820 Gulf To Bay Blvd,MCCU,Clearwater,33769,27.960850000000004,-82.720562,3.5,"American (Traditional), Burgers, Restaurants, Beer Bar, Bars, Nightlife",4.0,2009,1.0
+5d9b,Ceviche Tapas Bar & Restaurant,2500 W Azeele St,RGTW,Tampa,33664,27.9408723,-82.4852045,4.0,"Tapas Bars, Spanish, Basque, Restaurants",3.9,2009,1.0
+5e30,Latin Cafe 2000,829 E Bloomingdale Ave,W2W7,Brandon,33511,27.8937228,-82.2698737,3.0,"Restaurants, Food, Latin American",2.0,2009,1.0
+5e33,Old Chicago,2042 Badlands Dr,W2W7,Brandon,33511,27.927087,-82.3162699,3.5,"Restaurants, Pizza",2.7,2009,1.0
+5ebd,Taco Bell,11007 North Dale Mabry,RGTW,Tampa,33664,28.06950272484,-82.56001605757999,2.6,"Restaurants, Tex-Mex, Breakfast & Brunch, Mexican, Fast Food, Tacos",2.2,2009,0.5
+5f2a,Village Inn,8602 N Dale Mabry Hwy,RGTW,Tampa,33664,28.04853664,-82.40313291999999,2.9,"American (Traditional), Breakfast & Brunch, Restaurants",2.4,2009,1.0
+5f43,Bawarchi,34382 Us Hwy 19 N,IKXB,Palm Harbor,34685,28.0885632077,-82.7406991427,3.5,"Indian, Pakistani, Restaurants",4.0,2009,1.0
+5fb1,California Pizza Kitchen at International Plaza,"2223 N West Shore Blvd, Space 189",RGTW,Tampa,33664,27.963903,-82.521648,4.0,"Restaurants, American (New), Pizza, Salad, American (Traditional)",3.0,2009,1.0
+5fe4,Fortunato's Italian Market,259 Central Ave,9EV3,San Petersburgo,33730,27.7714797,-82.6366216,3.5,"Pizza, Restaurants, Italian, Chicken Wings",2.3,2009,1.0
+5feb,Eddie's Bar & Grill,1283 N Bayshore Blvd,L2T6,Dunedin,34698,28.0220007169,-82.7892576364,3.5,"Burgers, Bars, Nightlife, American (New), Restaurants, American (Traditional), Sports Bars",4.7,2009,1.0
+6072,Apollo's Bistro,6520 Richies Way,20PF,Apollo Beach,33572,27.7761093886,-82.4042811245,3.5,"Beer, Wine & Spirits, Food, Seafood, American (Traditional), Breakfast & Brunch, Bars, Sports Bars, Gluten-Free, Nightlife, American (New), Restaurants, Burgers, Cocktail Bars",5.0,2009,1.0
+6074,Joe's Crab Shack,2730 Gulf To Bay Blvd,MCCU,Clearwater,33769,27.961156171399995,-82.7246783674,3.0,"Nightlife, Restaurants, American (Traditional), Bars, Seafood",2.3,2009,1.0
+60ed,Nicko's Fine Foods,4603 N Florida Ave,RGTW,Tampa,33664,27.9872084222,-82.4591698498,4.0,"Greek, Burgers, American (New), Restaurants",2.0,2009,1.0
+60f0,Pei Wei,217 S Dale Mabry Hwy,RGTW,Tampa,33664,27.94253,-82.50571,3.0,"Gluten-Free, Restaurants, Asian Fusion, Chinese, Fast Food",2.2,2009,1.0
+6188,Jo-Jo's In Citta,200 Central Ave,9EV3,San Petersburgo,33730,27.7709996,-82.6363485,3.5,"Pizza, Italian, Restaurants",3.0,2009,1.0
+61bf,Four Green Fields,205 W Platt St,RGTW,Tampa,33664,27.9419344,-82.4615883,4.0,"Irish, Nightlife, Pubs, Bars, Restaurants",4.3,2009,1.0
+6226,Blue Sea Fish Market and Restaurant,7110 N Nebraska Ave,RGTW,Tampa,33664,28.0132056,-82.4516029,4.5,"Seafood, Restaurants, Food",5.0,2009,1.0
+6241,Tokyo,7911 W Hillsborough Ave,RGTW,Tampa,33664,27.9969683,-82.5701668,3.5,"Chinese, Sushi Bars, Japanese, Restaurants",3.0,2009,1.0
+6252,Parkshore Grill,"300 Beach Dr NE, Ste 104",9EV3,San Petersburgo,33730,27.7751514279,-82.6324065513,4.0,"Caterers, American (New), Food, Seafood, American (Traditional), Restaurants, Event Planning & Services, Steakhouses",4.3,2009,1.0
+6271,Joto Thai-Sushi,310 S Dale Mabry Hwy,RGTW,Tampa,33664,27.9417952,-82.5052643,4.0,"Restaurants, Japanese, Sushi Bars, Thai",2.5,2009,1.0
+6294,Ron's Pit Stop Bar-B-Q,9400 State Rd 52,Y3QW,Hudson,34669,28.3307456,-82.6594712,3.5,"Barbeque, Restaurants",4.0,2009,1.0
+63d4,Samgelo's Pizza,650 Mandalay Ave,EXHF,Clearwater Beach,33767,27.9880793,-82.8267611,3.5,"Restaurants, Pizza",5.0,2009,1.0
+63f0,Deck Pizza,2202 W Platt St,RGTW,Tampa,33664,27.941727000000004,-82.482249,3.5,"Salad, Chicken Wings, Pizza, Restaurants",3.8,2009,1.0
+6408,Original Westshore Pizza South Tampa,4802 W Bay Ct Ave,RGTW,Tampa,33664,27.9071222,-82.5270814,3.0,"Restaurants, Pizza, Sandwiches, American (Traditional), Salad",4.0,2009,1.0
+6476,Subs N Such,14603 Livingston Ave,1GQ7,Lutz,33559,28.0807579,-82.4301837,4.5,"Restaurants, Cuban, Sandwiches, Cafes",4.5,2009,1.0
+6484,European Gourmet Deli & Grocer,"Providence Sq Shopping Ctr, 1919 W Brandon Blvd",W2W7,Brandon,33511,27.937569,-82.3146841,4.5,"Caterers, Specialty Food, Event Planning & Services, Food, Restaurants, Delis",5.0,2009,1.0
+64f8,Super Sardo's Pizza,10839 Ulmerton Rd,LIFE,Largo,33778,27.8949304404,-82.7888063458,4.0,"Restaurants, Pizza",5.0,2009,1.0
+6533,Papa John's Pizza,7891 Gunn Highway,RGTW,Tampa,33664,27.9857197,-82.42313245,3.0,"Pizza, Restaurants",3.0,2009,1.0
+6541,Sam's Beach Bar,6325 Clark St,Y3QW,Hudson,34669,28.3619386,-82.7103407,3.5,"Seafood, American (Traditional), Music Venues, Caribbean, Arts & Entertainment, Nightlife, Restaurants",3.3,2009,1.0
+654b,Paesano's Italian Bread Bakery & Market,7421 Spring Hill Dr,I0WF,Spring Hill,34610,28.4511943,-82.5940263,4.0,"Wedding Planning, Bakeries, Restaurants, Italian, Event Planning & Services, Food, Caterers",5.0,2009,1.0
+65c3,La Teresita Cafe,3246 W Columbus Dr,RGTW,Tampa,33664,27.966428200000003,-82.4963345,4.0,"Bakeries, Caterers, Grocery, Cuban, Spanish, Food, Seafood, Restaurants, Event Planning & Services",3.9,2009,1.0
+65d6,IKEA,1103 N 22nd St,RGTW,Tampa,33664,27.953722,-82.4319992,3.5,"Restaurants, Scandinavian, Home & Garden, Home Decor, Furniture Stores, Appliances, Shopping, Mattresses",3.9,2009,1.0
+6673,Tan's Chinese Restaurant,"432 Poinsettia Ave, Ste 2",MCCU,Clearwater,33769,27.9796955,-82.8266351,3.0,"Restaurants, Chinese",4.0,2009,1.0
+66cf,Frankies,909 W Kennedy Blvd,RGTW,Tampa,33664,27.9450397,-82.4691467,3.0,"Burgers, Fast Food, Hot Dogs, Restaurants",3.3,2009,1.0
+66e0,The Melting Pot,2221 4th St N,9EV3,San Petersburgo,33730,27.7925624,-82.6381733,3.5,"American (New), Fondue, Gluten-Free, Restaurants, Salad",4.0,2009,1.0
+66fd,Clear Sky Cafe,"490 Mandalay Ave, Ste 1",MCCU,Clearwater,33769,27.9819599851,-82.8272973318,4.5,"Restaurants, American (Traditional), Tapas/Small Plates, Seafood, Breakfast & Brunch, American (New)",2.8,2009,1.0
+6702,Michael's Grill,11720 N Dale Mabry Hwy,RGTW,Tampa,33664,28.055233,-82.505702,4.0,"American (New), Nightlife, Breakfast & Brunch, Bars, American (Traditional), Seafood, Restaurants",4.5,2009,1.0
+6780,Winners Sports Grill,5429 Village Market,CQ72,Wesley Chapel,33545,28.1776405123,-82.41609789133334,2.8,"American (Traditional), Restaurants",2.3,2009,1.0
+67c5,Evos,"University of Florida, 2774B E Fowler Ave",RGTW,Tampa,33664,28.0545696,-82.4285667,3.0,"Restaurants, Fast Food",3.2,2009,1.0
+67ea,Mi Casa Mexican Restaurant,2613 Thonotosassa Rd,7QXG,Plant City,33567,28.024524,-82.151,3.5,"Restaurants, Mexican",2.0,2009,1.0
+6825,Flanagans Irish Pub,465 Main St,L2T6,Dunedin,34698,28.0119513,-82.7864752,3.5,"Bars, Irish Pub, Irish, Nightlife, American (New), Restaurants, Seafood",3.0,2009,1.0
+682a,Caribbean Connections,10509 N Nebraska Ave,RGTW,Tampa,33664,28.0447241,-82.4506959,4.0,"Restaurants, Caribbean",5.0,2009,1.0
+68a0,Hao Wah Chinese Restaurant,1713 S Dale Mabry Hwy,RGTW,Tampa,33664,27.9276541,-82.5063009,3.5,"Bars, Chinese, Nightlife, Restaurants, Vietnamese",3.0,2009,1.0
+6937,La Unica Michoacana,2800 N Macdill Ave,RGTW,Tampa,33664,27.96597,-82.493609,4.5,"Restaurants, Ice Cream & Frozen Yogurt, Tapas/Small Plates, Food, Mexican",5.0,2009,1.0
+6960,Wild Wing Cafe,9210 Anderson Rd,RGTW,Tampa,33664,28.031429,-82.5420539,3.0,"Barbeque, Restaurants, American (Traditional)",3.5,2009,1.0
+6964,Brandon Bagels,942 W Brandon Blvd,W2W7,Brandon,33511,27.9382531,-82.2973831,4.5,"Bagels, Restaurants, Food",5.0,2009,1.0
+6973,Lee Garden,8309 W Hillsborough Ave,RGTW,Tampa,33664,27.9970185,-82.5760952,3.5,"Restaurants, Chinese, Vietnamese",4.5,2009,1.0
+6a00,Kabuki Japanese Restaurant,"2020 W Brandon Blvd, Ste 160",W2W7,Brandon,33511,27.938567,-82.317683,3.5,"Japanese, Restaurants",2.0,2009,1.0
+6a70,Hugo's Spanish Restaurant,931 S Howard Ave,RGTW,Tampa,33664,27.9341267,-82.4832823,4.0,"Spanish, Cuban, Restaurants",3.0,2009,1.0
+6aa3,Bahama Breeze,3045 N Rocky Pt Dr E,RGTW,Tampa,33664,27.969776146400005,-82.5627375239,3.5,"Restaurants, Latin American, Laotian, Caribbean, Nightlife, American (Traditional), Seafood, Bars",3.0,2009,1.0
+6ad2,Sukhothai Restaurant,8201 N Dale Mabry Hwy,RGTW,Tampa,33664,28.023132600000004,-82.5042586,4.0,"Restaurants, Thai",4.2,2009,1.0
+6ae7,Britt's Laguna Grill,309 S Gulfview Blvd,EXHF,Clearwater Beach,33767,27.9739822,-82.8292925,2.5,"American (New), Restaurants",2.0,2009,0.5
+6af8,Dairy Inn,1201 Dr Martin Luther King Jr St N,9EV3,San Petersburgo,33730,27.784012,-82.6465085,3.5,"Restaurants, Ice Cream & Frozen Yogurt, Chicken Wings, Food, Sandwiches, Hot Dogs, Comfort Food, Burgers",4.2,2009,1.0
+6b1b,Hula Bay Club,5210 W Tyson Ave,RGTW,Tampa,33664,27.8856209657,-82.5345915912,3.5,"Restaurants, Bars, Seafood, Nightlife, Sushi Bars",4.0,2009,1.0
+6b5b,El Rincon Peruano,"8502 N Armenia Ave, Ste 1-G",RGTW,Tampa,33664,28.0331208,-82.4802665,3.5,"Restaurants, Food, Latin American, Peruvian",4.0,2009,1.0
+6b91,Bob Heilman's Beachcomber Restaurant,447 Mandalay Ave,EXHF,Clearwater Beach,33767,27.9801452,-82.8268245,3.5,"Seafood, Steakhouses, Restaurants, American (Traditional)",5.0,2009,1.0
+6bab,Gator's Dockside - Tampa,5840 E Fowler Ave,RGTW,Tampa,33664,28.0548911,-82.3905826,3.5,"American (Traditional), Nightlife, Chicken Wings, Restaurants, Bars, Sports Bars, Fish & Chips",4.0,2009,1.0
+6bb1,Jazzy's BBQ,5703 W Waters Ave,RGTW,Tampa,33664,28.028027285714284,-82.53336771428573,4.0,"Restaurants, Barbeque",4.4,2009,1.0
+6c1b,Athenian Garden,2220 4th St N,9EV3,San Petersburgo,33730,27.81552548525,-82.7182530882,3.9,"Specialty Food, Food, Ethnic Food, American (Traditional), Imported Food, Greek, Restaurants",3.8,2009,1.0
+6cc4,The Queenshead Eurobar,2501 Central Ave,9EV3,San Petersburgo,33730,27.7712786,-82.6674369,4.0,"Bars, British, Breakfast & Brunch, Nightlife, Pubs, American (Traditional), Gastropubs, Restaurants",4.5,2009,1.0
+6d3f,Frida's Cafe & Bakery,9700 Ulmerton Rd,LIFE,Largo,33778,27.89441,-82.773583,4.0,"Desserts, Food, Cafes, Bakeries, Restaurants",4.0,2009,1.0
+6d57,Shish Kebab and Turkish Cuisine,10061 W Hillsborough Ave,RGTW,Tampa,33664,28.0040308,-82.5978181,3.5,"Restaurants, Turkish",3.0,2009,1.0
+6dbf,Honey's,11115 N Dale Mabry Hwy,RGTW,Tampa,33664,28.0494589,-82.5042328,3.5,"American (Traditional), Restaurants",4.0,2009,1.0
+6dc9,Skinnys Bar And Grill,13228 US Hwy 19,Y3QW,Hudson,34669,28.3499681,-82.6986065,4.0,"Bars, Restaurants, Lounges, American (Traditional), Nightlife, Sports Bars",4.0,2009,1.0
+6e34,Zio's Italian Market,2575 E Bay Dr,LIFE,Largo,33778,27.9161159,-82.7604608,4.5,"Food, Delis, Italian, Bakeries, Restaurants",4.0,2009,1.0
+6e71,Pete & Shorty's,7402 49th St N,SJ01,Pinellas Park,33782,27.8395561,-82.7012814,3.5,"Seafood, Diners, Beer, Wine & Spirits, Comfort Food, Food, American (Traditional), Chicken Wings, Restaurants, Burgers",4.0,2009,1.0
+6e93,Courigan's Irish Pub,"1 Beach Dr SE, Ste 41",9EV3,San Petersburgo,33730,27.7708192,-82.6335305,3.5,"Bars, Restaurants, Pubs, Irish, Nightlife, Irish Pub, Sports Bars",4.0,2009,1.0
+6ef3,Firehouse Subs,13236 N Dale Mabry,RGTW,Tampa,33664,28.0683175485,-82.5065566113,3.5,"Fast Food, Sandwiches, Delis, Restaurants",4.0,2009,1.0
+6ef7,Five Guys Burgers & Fries,10685 Big Bend Rd,TC12,Riverview,33579,27.84165891375,-82.50800351215,3.8,"Burgers, Restaurants",4.5,2009,1.0
+6f2f,Sherry's Cafe & Deli,"5411 Beaumont Ctr Blvd, Ste 705",RGTW,Tampa,33664,27.997032,-82.5480951,4.0,"Delis, Sandwiches, Breakfast & Brunch, Restaurants",3.0,2009,1.0
+6f35,Schnitzelhaus Restaurant,4333 W Waters Ave,RGTW,Tampa,33664,28.0258449,-82.5164239,3.0,"Restaurants, German",2.0,2009,1.0
+6f59,Costa's Restaurant,521 Athens St,3IGC,Tarpon Springs,34689,28.1545547,-82.7604815,3.5,"Restaurants, Mediterranean, Greek, Seafood",4.0,2009,1.0
+6f84,China99,1467 S Belcher Rd,MCCU,Clearwater,33769,27.9433218978,-82.7455049309,3.0,"Restaurants, Chinese, Seafood, Soup",3.0,2009,1.0
+6fa7,Castellano & Pizzo Italian Gourmet Foods,4200 Henderson Blvd,RGTW,Tampa,33664,27.925921,-82.514461,3.5,"Specialty Food, Grocery, Beer, Wine & Spirits, Meat Shops, Delis, Event Planning & Services, Food, Caterers, Pizza, Restaurants",3.3,2009,1.0
+700d,McDonald's,104 W Bearss Ave,RGTW,Tampa,33664,28.08767,-82.4604798,1.5,"Coffee & Tea, Fast Food, Restaurants, Burgers, Food",3.0,2009,1.0
+7062,Red Elephant Pizza,14391 N Dale Mabry Hwy,RGTW,Tampa,33664,28.0800577,-82.5066794,2.5,"Restaurants, Pizza",4.0,2009,1.0
+7079,Pollo Tropical,3134 Tampa Rd,96OP,Oldsmar,34677,28.02402905,-82.5976249,2.8,"Latin American, Chicken Shop, Fast Food, Restaurants, Caribbean, Cuban",4.0,2009,1.0
+70c9,Yeoman's Road Restaurant,236 E Davis Blvd,RGTW,Tampa,33664,27.9264983,-82.453573,4.0,"British, Restaurants, American (New)",4.5,2009,1.0
+7122,Orchids Thai Restaurant,8647 Regency Park Blvd,9LT4,Port Richey,34668,28.2828536,-82.6975165,4.5,"Sushi Bars, Restaurants, Thai",4.0,2009,1.0
+7156,Carrollwood Café & Deli,11606 N Dale Mabry Hwy,RGTW,Tampa,33664,28.0542129,-82.5041174,4.5,"Restaurants, Delis, Event Planning & Services, Sandwiches, Caterers, Food, Soup, Cafes",4.0,2009,1.0
+71b5,Ichiban Japanese Restaurant & Sushi Bar,2050 16th St N,9EV3,San Petersburgo,33730,27.790962,-82.6553597,4.0,"Sushi Bars, Japanese, Restaurants, Thai",4.0,2009,1.0
+71de,Denny's,1700 E Fowler Ave,RGTW,Tampa,33664,27.9273259676,-82.56687439983334,2.8,"Restaurants, Fast Food, American (Traditional), Burgers, Breakfast & Brunch, Diners",3.0,2009,0.5
+71ef,Jimmy Guana's,401 2nd St,SOWC,Indian Rocks Beach,33785,27.8823519,-82.8476129,3.0,"Sandwiches, Restaurants, Seafood, Steakhouses",4.0,2009,1.0
+7223,The Three Coins Diner,7410 N Nebraska Ave,RGTW,Tampa,33664,28.0159759,-82.4514757,4.0,"American (Traditional), Restaurants",4.0,2009,1.0
+7241,Sandy's Restaurant,"2300 Gulf Blvd, Ste 7",SOWC,Indian Rocks Beach,33785,27.9052031,-82.8475288,4.0,"American (New), American (Traditional), Restaurants, Breakfast & Brunch",5.0,2009,1.0
+7275,Ho Ho To Go,2502 W Columbus Dr,RGTW,Tampa,33664,27.9665033,-82.4850257,3.5,"Chinese, Restaurants",1.0,2009,1.0
+72d2,Maestro's at the Straz Center,1010 N W C MacInnes Plz,RGTW,Tampa,33664,27.951167,-82.463616,3.5,"Restaurants, American (New)",3.0,2009,1.0
+7351,Jimmy John's,"514 N Franklin St, Ste 103",RGTW,Tampa,33664,27.98693152,-82.45836812,3.2,"Restaurants, Food Delivery Services, Fast Food, Sandwiches, Food, Delis, Specialty Food",3.8,2009,1.0
+744f,Sinigual Contemporary Mexican  Cuisine,"Brandon Town Center Mall, 805 Brandon Town Ctr",W2W7,Brandon,33511,27.9286726,-82.3244013,3.5,"Restaurants, Mexican",4.3,2009,1.0
+7506,Bread & Butter Gourmet Deli,1880 S Pinellas Ave,3IGC,Tarpon Springs,34689,28.1256345,-82.7600214,4.5,"Delis, Restaurants",4.5,2009,1.0
+7537,Moxies Cafe and Caterer,514 N Tampa St,RGTW,Tampa,33664,27.9485,-82.4595609,4.0,"Breakfast & Brunch, Cafes, Delis, American (Traditional), Sandwiches, Event Planning & Services, Coffee & Tea, Food, Caterers, Restaurants",5.0,2009,1.0
+7576,Brio Italian Grille,2223 N Westshore Blvd,RGTW,Tampa,33664,27.965458,-82.520462,4.0,"Italian, Restaurants, Bars, Nightlife, Pizza, Cocktail Bars",4.0,2009,1.0
+76a3,Paul's Shrimp House,80 W Live Oak St,3IGC,Tarpon Springs,34689,28.154536,-82.757829,3.5,"Seafood, Restaurants",3.0,2009,1.0
+7794,Hong Kong Restaurant,7026 W Waters Ave,RGTW,Tampa,33664,28.0249341893,-82.5602371245,3.5,"Chinese, American (New), Restaurants",2.0,2009,1.0
+77d9,Hot Rods Country BBQ,18430 Livingston Ave,1GQ7,Lutz,33559,28.1415804,-82.4305533,3.5,"Restaurants, Barbeque",5.0,2009,1.0
+780f,The Venue,2675 Ulmerton Rd,MCCU,Clearwater,33769,27.8945283,-82.6697782,2.5,"Tapas Bars, Nightlife, Dance Clubs, Bars, Restaurants",2.5,2009,1.0
+78c7,Jaymer-Q Southern BBQ,3331 Lithia Pinecrest Rd,HGEX,Valrico,33596,27.8947899033,-82.2428192843,3.5,"Restaurants, Barbeque",2.5,2009,1.0
+7905,Captain's Italian Restaurant & Pizza,324 Main St,B8F4,Safety Harbor,34695,27.990585,-82.69062,1.5,"Restaurants, Pizza",1.0,2009,1.0
+7915,Pancho's Restaurant of San Ann,32804 Pennsylvania Ave,DE2U,San Antonio,33576,28.336012,-82.273552,4.5,"Restaurants, Mexican",5.0,2009,1.0
+791c,Corner Club,1502 E Sligh Ave,RGTW,Tampa,33664,28.0107849,-82.4427651,4.5,"Nightlife, Bars, Breakfast & Brunch, Cafes, Beer Bar, Restaurants",3.0,2009,1.0
+7921,Pecks Chicken,8203 Us Hwy 301 S,TC12,Riverview,33579,27.8705729,-82.3269992,3.5,"Barbeque, Restaurants, Chicken Shop, Chicken Wings, Food, Greek, Mediterranean",5.0,2009,1.0
+7959,Kally K's Steakery & Fishery,3383 Commercial Way,I0WF,Spring Hill,34610,28.32724426563333,-82.65981789953334,2.8,"Bars, Fast Food, Seafood, Wine Bars, American (Traditional), Nightlife, Restaurants",3.7,2009,1.0
+79be,Yummy House,2202 W Waters Ave,RGTW,Tampa,33664,28.025082,-82.481491,4.0,"Chinese, Restaurants",4.0,2009,1.0
+79f9,Leafy Greens Cafe,1626 Central Ave,9EV3,San Petersburgo,33730,27.7708615624,-82.6555204405,4.0,"Soup, Gluten-Free, Breakfast & Brunch, Vegetarian, Vegan, Restaurants",3.5,2009,1.0
+7a3c,Tomo Sushi,216 E Bearss Ave,RGTW,Tampa,33664,28.089478,-82.4588701,4.0,"Sushi Bars, Restaurants, Japanese",1.0,2009,0.5
+7a40,Dunedin Brewery,937 Douglas Ave,L2T6,Dunedin,34698,28.0139804694,-82.7877538767,4.0,"Arts & Entertainment, Nightlife, Music Venues, Breweries, American (Traditional), Food, Restaurants",4.8,2009,1.0
+7a77,Nuevo Vallarta Authentic Mexican Food,9359 US Hwy 19 N,SJ01,Pinellas Park,33782,27.8731105739,-82.7721415598,4.2,"Event Planning & Services, Chicken Wings, Latin American, Caterers, Restaurants, Mexican, Tacos, New Mexican Cuisine, Seafood, Salad",4.5,2009,1.0
+7ab7,Nickel City Sushi & Sports Bar,7658 Park Blvd N,SJ01,Pinellas Park,33782,27.8387636,-82.7440222,3.5,"Thai, Sports Bars, Asian Fusion, Vietnamese, American (Traditional), Restaurants, Bars, Sushi Bars, Nightlife",1.0,2009,1.0
+7b10,Frenchy's Saltwater Cafe,419 Poinsettia Ave,EXHF,Clearwater Beach,33767,27.978968,-82.826326,4.0,"Seafood, Nightlife, American (New), Restaurants, Wraps, Mexican, Tacos, Bars, Sandwiches",4.5,2009,1.0
+7bd7,Let Them Eat Cake,"3805 S West Shore Blvd, Ste B",RGTW,Tampa,33664,27.9083039,-82.5272462,3.5,"Food, Bakeries, Restaurants",5.0,2009,1.0
+7bf1,Lucky Dill Deli,33180 US 19 N,IKXB,Palm Harbor,34685,28.0739331799,-82.7397437681,3.5,"Coffee & Tea, Restaurants, Desserts, Food, American (New), Sandwiches, Breakfast & Brunch, Delis",3.0,2009,1.0
+7c03,Deeya Indian Cuisine,5166 E Bay Dr,MCCU,Clearwater,33769,27.9164043,-82.7332593,3.5,"Restaurants, Indian",4.5,2009,1.0
+7cd4,Bern's Steak House,1208 S Howard Ave,RGTW,Tampa,33664,27.9318624,-82.4827004,4.5,"Arts & Entertainment, Steakhouses, Restaurants",4.6,2009,1.0
+7d42,Crispers,"100 Main St, Ste 101",B8F4,Safety Harbor,34695,28.003078469966667,-82.50706249016666,3.3,"Soup, Desserts, Food, Sandwiches, Salad, Restaurants",3.0,2009,1.0
+7d7c,The Press Box,222 S Dale Mabry Hwy,RGTW,Tampa,33664,27.94236,-82.5051469,3.5,"American (Traditional), Nightlife, Sports Bars, Bars, Restaurants",4.7,2009,0.5
+7d89,The Colonnade Restaurant,3401 Bayshore Bvld,RGTW,Tampa,33664,27.9123133,-82.4916655,3.0,"Seafood, American (New), Restaurants",3.8,2009,1.0
+7e69,China Wok,11212 E Dr Mrtn Lthr Kng Jr,JIN0,Seffner,33584,27.983064,-82.309266,3.5,"Chinese, Restaurants",2.0,2009,1.0
+7e87,Caribbean Sandwich Shop,8240 W Waters Ave,RGTW,Tampa,33664,28.0255061,-82.5737261,4.5,"Caribbean, Restaurants, Sandwiches",5.0,2009,1.0
+7eb7,The Cheesecake Factory,"2223 N West Shore Blvd, Ste B201, International Plaza",RGTW,Tampa,33664,27.95564166487273,-82.46774697534545,3.5,"Salad, Desserts, Food, Restaurants, American (Traditional), American (New), Seafood",3.9,2009,1.0
+7edb,365 Caffe Italiano,"28210 Paseo Dr, Ste 100, Shops At Wiregrass",CQ72,Wesley Chapel,33545,28.187946572,-82.3500558385,4.5,"Breakfast & Brunch, Coffee & Tea, Food, Ice Cream & Frozen Yogurt, Creperies, Gelato, Comfort Food, Sandwiches, Restaurants, Cafes",4.3,2009,1.0
+7f28,Bua Luang Thai,608 Mandalay Ave,MCCU,Clearwater,33769,27.9860504,-82.8267195,3.5,"Thai, Restaurants",3.5,2009,1.0
+7f74,La Pequeña Colombia,6312 N Armenia Ave,RGTW,Tampa,33664,28.004715,-82.4847094,4.0,"Food, Restaurants, Colombian, Empanadas, Latin American, Venues & Event Spaces, Bars, Event Planning & Services, Nightlife",5.0,2009,1.0
+7f75,Bavaro's Pizza Napoletana & Pastaria,514 N Franklin St,RGTW,Tampa,33664,27.95038453125,-82.4929757625,4.0,"Italian, Restaurants, Pizza",3.7,2009,1.0
+7f7b,The Olympic Cafe,5011 W Hillsborough Ave,RGTW,Tampa,33664,27.9967843,-82.5279433,4.0,"Breakfast & Brunch, Restaurants, American (Traditional), Greek",5.0,2009,1.0
+7fcb,Shep's Food Mart,2001 4th St N,9EV3,San Petersburgo,33730,27.7909036,-82.6382366,4.5,"Grocery, Delis, Food, Beer, Wine & Spirits, Restaurants",4.5,2009,1.0
+800d,Simply Thai Restaurant,875 E Bloomingdale Ave,W2W7,Brandon,33511,27.8916011,-82.2725105,4.5,"Restaurants, Thai",2.5,2009,1.0
+806f,Osteria Natalina,3215 S MacDill Ave,RGTW,Tampa,33664,27.916779,-82.494288,4.5,"Italian, Restaurants",5.0,2009,1.0
+8088,Chopstix,1441 E Fletcher Ave,RGTW,Tampa,33664,28.0688469,-82.4437504,3.0,"Restaurants, Chinese, Seafood",3.5,2009,1.0
+8147,Cafe Dufrain,707 Harbour Post Dr,RGTW,Tampa,33664,27.939717,-82.4518049,3.5,"Restaurants, Venues & Event Spaces, Event Planning & Services, Asian Fusion, American (New), Southern, Cafes",5.0,2009,1.0
+81c2,L'Eden Cafe & Bar,500 N Tampa St,RGTW,Tampa,33664,27.9482012,-82.4594548,3.5,"French, Creperies, Greek, Restaurants, Breakfast & Brunch, American (Traditional), Mediterranean, Modern European",4.0,2009,1.0
+81eb,Varsity Club Sports Bar Clearwater,24091 US Highway 19 N,MCCU,Clearwater,33769,27.9910654209,-82.72877343,4.0,"Burgers, Bars, Cafes, Restaurants, Chicken Wings, Nightlife, Sports Bars, American (Traditional), American (New)",4.0,2009,1.0
+8273,Pacific Wave,211 2nd St S,9EV3,San Petersburgo,33730,27.7693413,-82.6355183,4.0,Restaurants,3.8,2009,1.0
+8282,Sandbar Grill,2602 Bayshore Blvd,L2T6,Dunedin,34698,28.0499496074,-82.7809771101,3.5,"Restaurants, Seafood",3.0,2009,1.0
+8299,Ai Mei Thai Restaurant,4200 34th St S,9EV3,San Petersburgo,33730,27.729857,-82.678614,2.0,"Thai, Restaurants",2.0,2009,0.5
+8300,Jolli Mons Grill,941 Huntley Ave,L2T6,Dunedin,34698,28.0145759,-82.7890048,3.0,"Restaurants, American (Traditional), Seafood",4.0,2009,1.0
+8355,The Bungalow Tampa,2202 W Kennedy Blvd,RGTW,Tampa,33664,27.9445198,-82.4821729,3.0,"Seafood, American (New), Nightlife, Breakfast & Brunch, Sports Bars, Restaurants, Bars, Caribbean, Cuban",2.8,2009,1.0
+83b9,Tara's Roti Shop,10006 N 30th St,RGTW,Tampa,33664,28.0402911,-82.4266172,3.5,"Caribbean, Restaurants, Imported Food, Ethnic Food, Food, Specialty Food",3.0,2009,1.0
+8459,Thai Spice Restaurant,"2475 McMullen Booth Rd, Ste B",MCCU,Clearwater,33769,28.011366,-82.71115,4.0,"Thai, Restaurants",3.0,2009,1.0
+84a0,Fushia Asian Bistro & Hot Pot Buffet,15317 Amberly Dr,RGTW,Tampa,33664,28.0892554,-82.4044118,4.0,"Hot Pot, Restaurants, Shanghainese, Dim Sum, Buffets, Chinese, Szechuan, Asian Fusion",4.0,2009,1.0
+84f7,Eddie & Sam's NY Pizza,203 E Twiggs St,RGTW,Tampa,33664,27.948891,-82.459164,4.5,"Salad, Food, Pizza, Restaurants, Desserts, Ice Cream & Frozen Yogurt, Gelato",4.5,2009,1.0
+84f8,Pierogi Grill,1535 Gulf To Bay Blvd,MCCU,Clearwater,33769,27.9605077111,-82.7734411527,4.0,"Polish, American (Traditional), Sandwiches, Restaurants",3.7,2009,1.0
+85d4,Muzzie's Ice Cream & Sandwich Shop,700 S Pinellas Ave,3IGC,Tarpon Springs,34689,28.1403001,-82.757406,4.5,"American (Traditional), Ice Cream & Frozen Yogurt, Food, Sandwiches, Restaurants",4.0,2009,1.0
+8612,Tijuana Flats,10019 N. Dale Mabry Hwy.,RGTW,Tampa,33664,27.93353295882857,-82.57596744508571,3.6,"Restaurants, Tex-Mex, Mexican",3.9,2009,1.0
+863e,Tum Rub Thai,32716 US Hwy 19 N,IKXB,Palm Harbor,34685,28.0694373,-82.7409459,4.0,"Sushi Bars, Thai, Restaurants",4.5,2009,1.0
+867b,Ichiban Japanese Cuisine & Sushi Bar,"2786 E Fowler Ave, Ste A",RGTW,Tampa,33664,28.0555039,-82.4273789,3.5,"Japanese, Gluten-Free, Restaurants, Asian Fusion, Sushi Bars",3.0,2009,1.0
+86a3,The Original Crabby Bills,401 Gulf Blvd,SOWC,Indian Rocks Beach,33785,27.8827737,-82.850187,4.0,"Food, Seafood Markets, Seafood, Nightlife, Sandwiches, Salad, Specialty Food, Restaurants, Bars, Fish & Chips, Breakfast & Brunch",3.2,2009,1.0
+86df,Five Guys Famous Burgers & Fries,13149 N Dale Mabry Hwy,RGTW,Tampa,33664,28.0660629,-82.5018964,4.0,"Burgers, Restaurants",5.0,2009,1.0
+86e6,Crazy Buffet,2702 N Dale Mabry Hwy,RGTW,Tampa,33664,27.964708,-82.506439,2.5,"Asian Fusion, Restaurants, Sushi Bars, Buffets",2.8,2009,1.0
+8718,Milk & Honey Tea Room,2092 W Busch Blvd,RGTW,Tampa,33664,28.033355,-82.4798181,3.0,"Flowers & Gifts, Tea Rooms, Restaurants, Coffee & Tea, Shopping, Food",5.0,2009,1.0
+8733,Joia Fabulous Pizza & Martini Bar,10475 Gibsonton Dr,TC12,Riverview,33579,27.8547046,-82.3281056,3.5,"Nightlife, Restaurants, Food, Pizza, Bars, Seafood",4.0,2009,1.0
+8745,Origami Sushi,3615 W Hillsborough Ave,RGTW,Tampa,33664,28.01669461353333,-82.5358919743,4.0,"Japanese, Sushi Bars, Restaurants",4.3,2009,1.0
+8803,Crab Shack Restaurant,11400 Gandy Blvd N,9EV3,San Petersburgo,33730,27.8697602,-82.6162438,3.5,"Seafood, Restaurants",2.8,2009,1.0
+8808,Grass Root,4334 S Manhattan Ave,RGTW,Tampa,33664,27.9020003,-82.5184251,3.5,"Vegan, Restaurants, Live/Raw Food, Food, Vegetarian, Juice Bars & Smoothies",4.0,2009,1.0
+8864,Cafe Kili,5731 E Fowler Ave,RGTW,Tampa,33664,28.0543048,-82.3921874,4.5,"Restaurants, Coffee & Tea, Food, Sandwiches",4.7,2009,1.0
+88f8,Ban Thai and Sushi Restaurant,"2519 N McMullen Booth Rd, Ste 505",MCCU,Clearwater,33769,28.0129483806,-82.7082768002,4.0,"Thai, Sushi Bars, Restaurants",4.0,2009,1.0
+893d,Bagel Queen,9037 Little Rd,3IHW,New Port Richey,34655,28.2886830582,-82.6771301067,3.0,"Restaurants, Food, Hot Dogs, Bagels, Sandwiches",4.0,2009,1.0
+89f1,Sabor A Mexico,706 E Brandon Blvd,W2W7,Brandon,33511,27.938059,-82.274836,3.5,"Bars, Nightlife, Restaurants, Mexican",2.0,2009,1.0
+8a3e,Señor Taco,"6447 Park Blvd N, Ste 2",SJ01,Pinellas Park,33782,27.8395858,-82.7246405,4.5,"Restaurants, Mexican, Tex-Mex, Latin American, Food, Tacos, Bars, Nightlife",4.7,2009,1.0
+8ac8,Sake House,5106 E Fowler Ave,RGTW,Tampa,33664,28.055212,-82.399374,3.0,"Restaurants, Sushi Bars, Japanese",4.2,2009,1.0
+8ace,La Cabana Restaurant,5302 N Armenia Ave,RGTW,Tampa,33664,27.9957131857,-82.4846954271,4.0,"Colombian, Latin American, Restaurants",5.0,2009,1.0
+8ad7,Stone Soup Cafe,4122 16th St N,9EV3,San Petersburgo,33730,27.8097878,-82.6552734,4.0,"Nightlife, Sandwiches, Soup, Salad, Restaurants, Bars, Food, Beer Bar, Pubs, Beer, Wine & Spirits, British",5.0,2009,1.0
+8b02,Paracas Tampa,3602 N Armenia Ave,RGTW,Tampa,33664,27.9712651,-82.4851324,2.0,"Lounges, Bars, Arts & Entertainment, Music Venues, Restaurants, Nightlife, Dance Clubs",1.0,2009,1.0
+8b6b,Pita's Republic,8412 W Hillsborough Ave,RGTW,Tampa,33664,27.9275380064,-82.3732613854,4.2,"Restaurants, Fast Food, Middle Eastern",4.0,2009,1.0
+8bd3,Philly Phlava,"5537 Sheldon Rd, Ste X",RGTW,Tampa,33664,27.9988339,-82.5827288,3.5,"American (New), Hot Dogs, Breakfast & Brunch, Salad, Burgers, Restaurants, Cheesesteaks, Sandwiches",4.0,2009,1.0
+8be5,Florida Subs & Gyros,2017 Gulf To Bay Blvd,MCCU,Clearwater,33769,27.9600935,-82.7534613,4.5,"Restaurants, Greek, Mexican, American (Traditional)",4.0,2009,1.0
+8c4e,Fleming’s Prime Steakhouse & Wine Bar,4322 W Boy Scout Blvd,RGTW,Tampa,33664,27.9621936621,-82.5159262215,4.0,"Restaurants, Breakfast & Brunch, Wine Bars, Seafood, Bars, Steakhouses, Nightlife",5.0,2009,1.0
+8ca8,Kojaks House of Ribs,1809 South Parsons Ave,JIN0,Seffner,33584,27.979688300000003,-82.2862119,4.0,"Barbeque, Restaurants",4.0,2009,1.0
+8cd4,Tucson's Southwest Grill,13563 Icot Blvd,MCCU,Clearwater,33769,27.8950021,-82.7150719,3.5,Restaurants,3.0,2009,1.0
+8cde,MacDinton's Soho,405 S Howard Ave,RGTW,Tampa,33664,27.9405328457,-82.4831670086,3.0,"Nightlife, Irish Pub, Sports Bars, Bars, Pubs, Irish, Restaurants",3.4,2009,1.0
+8d19,Gogos Greek Grill,4616 W Kennedy Blvd,RGTW,Tampa,33664,27.9445508,-82.5228301,3.5,"Mediterranean, Restaurants, Greek, Sandwiches",3.5,2009,1.0
+8d5f,Morae's Cafe,"1441 E Fletcher Ave, Ste 123",RGTW,Tampa,33664,28.0689015,-82.4431821,3.5,"Restaurants, Middle Eastern",5.0,2009,1.0
+8d62,Moxie's Too Cafe & Deli,"6202 Benjamin Rd, Ste 100",RGTW,Tampa,33664,28.0046698134,-82.5424599206,3.5,"Delis, Cafes, Restaurants, Sandwiches",4.0,2009,1.0
+8d97,China Buffet,1245 E Fowler Ave,RGTW,Tampa,33664,28.0538162,-82.4464434,2.0,"Restaurants, Chinese",3.5,2009,1.0
+8dc0,Mi Pueblito,5802 N Armenia Ave,RGTW,Tampa,33664,28.0000757,-82.4848159,4.0,"Breakfast & Brunch, Food, Bakeries, Restaurants",4.0,2009,1.0
+8e5e,Johnson's Barbeque,1401 W Dr Mrtn Lthr Kng Jr,7QXG,Plant City,33567,28.0115825687,-82.1377236145,4.5,"Fruits & Veggies, Barbeque, Specialty Food, Restaurants, Food",3.0,2009,1.0
+8e8f,Forlini's Restaurant,435 Mandalay Ave,EXHF,Clearwater Beach,33767,27.9798029,-82.8269718,3.5,"Nightlife, Bars, Restaurants, Seafood, Wine Bars, Cocktail Bars, Italian",1.0,2009,1.0
+8ea4,Sub Port Giant New Jersey Submarine Sandwiches,14294 Dale Mabry N,RGTW,Tampa,33664,28.0763167,-82.5069443,4.5,"Sandwiches, Restaurants",4.0,2009,1.0
+8eea,Sonic Drive-In,10033 Balm Riverview Rd,TC12,Riverview,33579,27.89647665,-82.28980355,2.5,"Ice Cream & Frozen Yogurt, Restaurants, Burgers, Food, Fast Food",3.0,2009,1.0
+8eec,Jimbo's Pit Bar B-Q - Tampa,4103 W Kennedy Blvd,RGTW,Tampa,33664,27.9451443753,-82.5122690797,3.5,"Event Planning & Services, Salad, Sandwiches, Restaurants, Caterers, Barbeque",3.6,2009,1.0
+8f59,Whistle Stop Gourmet Coffee Shop,102 S Collins St,7QXG,Plant City,33567,28.0151277298,-82.1230073435,4.0,"Food, Specialty Food, American (Traditional), Restaurants, Coffee & Tea, Sandwiches",5.0,2009,1.0
+8f5e,Antojitos Latin Cravings,2302 W Columbus Dr,RGTW,Tampa,33664,27.9664211,-82.4831081,4.0,"Colombian, Latin American, Cuban, Restaurants",4.0,2009,1.0
+8f64,Kahuna's Bar And Grill,10515 Gandy Blvd N,9EV3,San Petersburgo,33730,27.8670147,-82.6285708,3.5,"Burgers, Sports Bars, Mexican, Nightlife, Restaurants, Bars",3.0,2009,1.0
+8fb5,Cha Cha Coconuts Tropical Bar & Grill,800 Second Avenue NE,9EV3,San Petersburgo,33730,27.773918,-82.622729,2.0,"Restaurants, Caribbean",1.3,2009,1.0
+8fe1,Royal Super Buffet,"9550 US Hwy 19, Ste 1",9LT4,Port Richey,34668,28.296089,-82.706495,2.0,"Buffets, Japanese, Chinese, Asian Fusion, Restaurants",3.0,2009,1.0
+900b,India Grill,409 Central Ave,9EV3,San Petersburgo,33730,27.7714668,-82.6389732,3.0,"Pakistani, Restaurants, Indian",2.7,2009,1.0
+9047,The Original Mama Maria's Greek Cuisine,503 N Pinellas Ave,3IGC,Tarpon Springs,34689,28.1509282123,-82.7571827282,4.0,"Mediterranean, Restaurants, Seafood, Greek",4.0,2009,1.0
+90ef,Mandalay Grill,395 Mandalay Ave,MCCU,Clearwater,33769,27.9784215,-82.8273124,3.0,"Restaurants, Seafood",4.5,2009,1.0
+90f2,Mama Fu's,"2689 Gulf to Bay Blvd, Ste 1860",MCCU,Clearwater,33769,27.960089,-82.727512,3.0,"Asian Fusion, Restaurants",3.0,2009,1.0
+9119,Gumby's Pizza and Wings,2770 University Square Dr,RGTW,Tampa,33664,28.0573437,-82.4297485,3.0,"Chicken Wings, Pizza, Restaurants",4.0,2009,1.0
+916d,Sunset Sub,23688 US Hwy 19 N,MCCU,Clearwater,33769,27.989968,-82.732456,3.5,"Restaurants, Sandwiches",4.0,2009,1.0
+920c,P J's Oyster Bar,500 1st St,SOWC,Indian Rocks Beach,33785,27.8845027,-82.8495749,3.5,"Nightlife, Seafood, Bars, Restaurants",3.7,2009,1.0
+92f4,Breakfast Club of Seven Hills,148 Mariner Blvd,I0WF,Spring Hill,34610,28.435232,-82.5465883,4.0,"Restaurants, Diners, Breakfast & Brunch",4.5,2009,1.0
+9414,Maggie Mae's Sunrise Cafe,1261 Gulf Blvd,EXHF,Clearwater Beach,33767,27.9521442258,-82.8294737702,4.0,"Restaurants, Breakfast & Brunch",4.0,2009,1.0
+9419,Bruce's Chicago Grill & Dog House,"7733 Ulmerton Rd, Ste 3",LIFE,Largo,33778,27.8949347803,-82.7447035394,4.0,"Food, American (Traditional), Specialty Food, Ethnic Food, Restaurants, Hot Dogs, Delis",3.8,2009,1.0
+9428,Ploy Thai,1941 W Brandon Blvd,W2W7,Brandon,33511,27.936798,-82.3161294,4.0,"Thai, Sushi Bars, Restaurants",3.7,2009,1.0
+9495,Mema's Alaskan Tacos,1724 E 8th Ave,RGTW,Tampa,33664,27.9611266,-82.43931860000001,3.5,"Specialty Food, Mexican, Ethnic Food, Restaurants, Food",4.1,2009,1.0
+94f5,Ocean Prime,2205 N Westshore Blvd,RGTW,Tampa,33664,27.9611296,-82.523091,4.5,"Steakhouses, Seafood, Restaurants, Desserts, American (New), Food",3.4,2009,1.0
+94fb,CDB'S Italian,5104 E Fowler Ave,RGTW,Tampa,33664,28.0552205,-82.3996736,2.5,"Restaurants, Italian, Pizza",5.0,2009,1.0
+9549,Hyde Park Cafe,1806 W Platt St,RGTW,Tampa,33664,27.9416592,-82.4781736,3.0,"Pizza, Restaurants, Nightlife, Lounges, Event Planning & Services, Venues & Event Spaces, Dance Clubs, Bars",2.8,2009,1.0
+959e,Red Lobster,2604 West Brandon Blvd,W2W7,Brandon,33511,27.940752,-82.325452,2.5,"Restaurants, Seafood, American (Traditional)",3.5,2009,1.0
+95a0,Bob Evans,10119 Horace Ave,RGTW,Tampa,33664,27.89090669668333,-82.50602584148334,3.2,"Restaurants, Breakfast & Brunch, Comfort Food, American (Traditional), Hotels & Travel, Salad, Bed & Breakfast",3.0,2009,1.0
+95a2,Greek City Cafe,3125 Commercial Way,I0WF,Spring Hill,34610,28.4764510988,-82.6139315278,4.0,"Greek, Restaurants, Food",4.0,2009,1.0
+9643,Maryland Fried Chicken,315 N Alexander St,7QXG,Plant City,33567,28.0166956,-82.1387445,4.0,"Restaurants, Seafood, Chicken Wings, Chicken Shop",3.0,2009,1.0
+965b,La Terrazza Ristorante Italiano,1727 E 7th Ave,RGTW,Tampa,33664,27.960278,-82.4395096,4.5,"Restaurants, Italian, Seafood",4.0,2009,1.0
+9680,The Crab Shack,5430 Baylea Ave,9LT4,Port Richey,34668,28.269548800000003,-82.7243892,3.5,"Restaurants, Seafood",3.8,2009,1.0
+96bd,Kaiko Sushi Bar & Japanese Restaurant,"2475 N McMullen Booth Rd, Ste F",MCCU,Clearwater,33769,28.011405,-82.710931,3.5,"Sushi Bars, Japanese, Restaurants",5.0,2009,1.0
+96e5,Mad Dogs & Englishmen,4115 S Macdill Ave,RGTW,Tampa,33664,27.9046781,-82.4941124,4.0,"Restaurants, British, American (New)",3.2,2009,1.0
+9702,Thai Thani,615 Channelside Dr,RGTW,Tampa,33664,27.943195,-82.447127,3.5,"Restaurants, Chinese, Asian Fusion, Thai",3.7,2009,1.0
+973d,G Peppers Grill & Tavern,8745 Gunn Hwy,L60Q,Odessa,33556,28.0921362,-82.5785736,4.0,"Restaurants, Mexican, American (Traditional)",3.0,2009,1.0
+9792,New Bamboo Express,5322 Kelly Rd,RGTW,Tampa,33664,27.9957913,-82.5651459,3.5,"American (New), Japanese, Restaurants, Chinese",3.0,2009,1.0
+97ce,Buca di Beppo,11105 Causeway Blvd,W2W7,Brandon,33511,27.9225355,-82.3263043,3.5,"Caterers, Restaurants, Italian, Event Planning & Services",3.8,2009,1.0
+97d3,Ginza Japanese Steakhouse,8104 W Waters Ave,RGTW,Tampa,33664,28.025503,-82.570526,3.5,"Korean, Japanese, Restaurants, Steakhouses",3.0,2009,1.0
+989d,Hooks Sushi Bar & Thai Food,1210 9th St N,9EV3,San Petersburgo,33730,27.7837466,-82.6468773,3.5,"Chinese, Japanese, Sushi Bars, Restaurants, Thai",4.0,2009,1.0
+98dc,Pincho Y Pincho,10 Beach Dr,9EV3,San Petersburgo,33730,27.7714391,-82.6335459,4.0,"Spanish, Basque, Restaurants, Tapas Bars",3.5,2009,1.0
+98ff,Zen Bistro Grill + Sushi,9620 Linebaugh Ave,RGTW,Tampa,33664,28.0428945,-82.5932128,3.5,"Sushi Bars, Restaurants, American (New), Asian Fusion, American (Traditional)",4.2,2009,1.0
+9930,City Fish Grill,4022 Tampa Rd,96OP,Oldsmar,34677,28.035485,-82.654868,3.5,"American (New), Caribbean, Salad, Restaurants, Steakhouses, Seafood",3.5,2009,1.0
+99a6,Cantina Laredo,"2000 Piazza Ave, Ste 170",CQ72,Wesley Chapel,33545,28.187483,-82.348707,3.5,"Mexican, Restaurants",3.0,2009,1.0
+99dc,Steak ’n Shake,2567 E State Rd 60,HGEX,Valrico,33596,27.9142597889,-82.38452813924,2.1,"American (New), Burgers, Food, Fast Food, Breakfast & Brunch, Restaurants, Ice Cream & Frozen Yogurt, Steakhouses, American (Traditional)",2.4,2009,1.0
+99e3,Schakolad Chocolate Factory,401 Central Ave,9EV3,San Petersburgo,33730,27.7714113,-82.6387028,4.5,"Food, Coffee & Tea, Specialty Food, Chocolatiers & Shops, Restaurants, Desserts",4.0,2009,1.0
+99e8,Crispy's Pizza and Wings,3424 S Dale Mabry,RGTW,Tampa,33664,27.9120596,-82.5057677,3.0,"Pizza, Chicken Wings, Restaurants",4.5,2009,1.0
+9a30,Dio Modern Mediteranean,519 N Franklin St,RGTW,Tampa,33664,27.9491200666,-82.458398826,4.0,"Greek, Restaurants, Mediterranean",4.5,2009,1.0
+9a3d,Kazu's Sushi,5706 Main St,3IHW,New Port Richey,34655,28.2499748,-82.7201444,4.0,"Restaurants, Japanese, Sushi Bars",3.8,2009,1.0
+9bf4,Matoi Sushi,602 N Dale Mabry Hwy,RGTW,Tampa,33664,27.949494,-82.506132,4.0,"Korean, Sushi Bars, Restaurants, Japanese",4.0,2009,1.0
+9c2d,Yoko's,3217 S MacDill Ave,RGTW,Tampa,33664,27.916662,-82.4942858,4.0,"Japanese, Restaurants, Sushi Bars",3.8,2009,1.0
+9cbe,Eco-Bean Organic Coffee House,501 N Pinellas Ave,3IGC,Tarpon Springs,34689,28.15083,-82.7571953,4.5,"Breakfast & Brunch, Food, Juice Bars & Smoothies, Restaurants, Coffee & Tea",2.0,2009,1.0
+9cdf,Golden Corral Buffet & Grill,6942 West Hillsborough Avenue,RGTW,Tampa,33664,28.0262011481,-82.47536242634999,2.2,"Restaurants, American (Traditional), Buffets",2.5,2009,1.0
+9d0f,Chubby's Super Subs & Pizza,5023 Bayshore Blvd,RGTW,Tampa,33664,27.8913753993,-82.4858343601,3.5,"Wine Bars, Pizza, Sandwiches, Nightlife, Italian, Bars, Restaurants",2.0,2009,0.5
+9d34,Joans Ann Bakery,"2705 54th Ave N, Ste 14",9EV3,San Petersburgo,33730,27.8215649,-82.6704468,3.5,"Bakeries, Food, Restaurants",3.0,2009,1.0
+9d49,Auntie Anne's Pretzels,459 Brandon Town Ctr,W2W7,Brandon,33511,27.933395,-82.326078,3.0,"Restaurants, Pretzels, Food, Fast Food, Desserts",5.0,2009,1.0
+9d6d,The Rack,1809 W Platt St,RGTW,Tampa,33664,27.9418723,-82.4781554,3.5,"Restaurants, American (Traditional), Pool Halls, Sushi Bars, Nightlife",4.7,2009,1.0
+9d76,California Tacos To Go,1450 Skipper Rd,RGTW,Tampa,33664,28.081645,-82.443725,4.0,"Mexican, Food Stands, Restaurants",4.0,2009,1.0
+9e00,Panchero's Mexican Grill,2510 22nd Ave N,9EV3,San Petersburgo,33730,27.7919406,-82.667635,3.0,"Restaurants, Mexican",3.5,2009,1.0
+9e15,Cheap,309 S Howard Ave,RGTW,Tampa,33664,27.941332,-82.483224,3.5,"Tapas Bars, Sports Bars, Sushi Bars, Restaurants, Lounges, Bars, American (New), Nightlife",3.5,2009,1.0
+9e37,Gallery Eclectic Bistro,2223 N West Shore Blvd,RGTW,Tampa,33664,27.9640468,-82.5216049,2.5,"American (New), Restaurants",3.0,2009,1.0
+9f9b,The Bamboo Club,2223 N Westshore Blvd,RGTW,Tampa,33664,27.9634228,-82.5206719,3.0,"Restaurants, Asian Fusion",2.5,2009,1.0
+9fb9,Safety Harbor Resort & Spa Trademark Collection,105 N Bayshore Drive,B8F4,Safety Harbor,34695,27.990771,-82.687441,3.0,"Restaurants, Hotels & Travel, Hotels, Beauty & Spas, American (New), Day Spas, Event Planning & Services, Resorts",3.0,2009,1.0
+9fec,Snookers Grill,606 N Pinellas Ave,3IGC,Tarpon Springs,34689,28.152121,-82.7565429,3.5,"Sushi Bars, Restaurants",4.0,2009,1.0
+a021,Kissin' Cuzzins,951 34th St N,9EV3,San Petersburgo,33730,27.7815469,-82.6790769,4.5,"Restaurants, Breakfast & Brunch, Diners, Sandwiches, Wraps",3.5,2009,1.0
+a07b,Chez Bryce,238 E Davis Blvd,RGTW,Tampa,33664,27.926247,-82.45353,3.0,"Food, Restaurants",2.8,2009,1.0
+a11b,YaYa's Flame Broiled Chicken,26988 US Hwy 19 N,MCCU,Clearwater,33769,28.019218,-82.738779,2.5,"Restaurants, American (New)",2.0,2009,1.0
+a12c,Munch's Sundries & Restaurant,3920 6th St S,9EV3,San Petersburgo,33730,27.732997,-82.6405157,4.0,"Sandwiches, Restaurants, Breakfast & Brunch",3.0,2009,1.0
+a1a4,The Wine Exchange,1609 W Snow Ave,RGTW,Tampa,33664,27.936103,-82.476242,3.5,"Restaurants, Bars, Seafood, Beer, Wine & Spirits, Food, Pizza, Nightlife, American (New), Wine Bars, Cocktail Bars",3.6,2009,1.0
+a1b5,Juan's Black Beans Cafe,5706 Main St,3IHW,New Port Richey,34655,28.2500853,-82.7201641,2.5,"Cafes, Food, Cuban, Restaurants",3.0,2009,1.0
+a1c2,Georgie's Alibi,3100 3rd Ave N,9EV3,San Petersburgo,33730,27.7745155,-82.6754958,3.5,"Dance Clubs, Cafes, Bars, Nightlife, Restaurants, Sports Bars, American (Traditional), Gastropubs, Burgers",4.0,2009,1.0
+a1f7,The Vine,17667 N Dale Mabry Hwy,1GQ7,Lutz,33559,28.1229258,-82.5023196,3.5,"Modern European, Tapas Bars, Beer, Wine & Spirits, Food, Restaurants, American (New)",3.5,2009,1.0
+a2b0,International Plaza and Bay Street,2223 N Westshore Blvd,RGTW,Tampa,33664,27.960874357,-82.5230889022,4.5,"Shopping, Nightlife, Shopping Centers, Bars, Restaurants, American (Traditional), Department Stores, Fashion",4.9,2009,1.0
+a2e8,Dagwoods Sports Tavern,8458 Sheldon Rd,RGTW,Tampa,33664,28.0273266,-82.5840666,3.0,"Restaurants, Bars, Nightlife, American (Traditional), Dive Bars, Sports Bars",4.0,2009,1.0
+a301,Ranch House Restaurant,7706 W Hillsborough Ave,RGTW,Tampa,33664,27.996253500000005,-82.5670403,3.5,"Restaurants, Food, Coffee & Tea, Breakfast & Brunch, American (Traditional), Diners",3.7,2009,1.0
+a3a2,The Dubliner Irish Pub,2307 W Azeele St,RGTW,Tampa,33664,27.9412694,-82.4834397,4.0,"Pubs, Restaurants, Beer, Wine & Spirits, Nightlife, Bars, Food, Irish",4.0,2009,1.0
+a3d5,Alessi Bakery,2909 W Cypress St,RGTW,Tampa,33664,27.9523562,-82.4899485,4.0,"Cuban, Food, Caterers, Event Planning & Services, Sandwiches, Bakeries, Delis, Restaurants",3.5,2009,1.0
+a3e0,Ozona Pizza,404 Orange St,IKXB,Palm Harbor,34685,28.0705747,-82.7759921,3.5,"Restaurants, Pizza, Vegan, Desserts, Food, Gluten-Free",5.0,2009,1.0
+a3f2,Pacific Grill,3452 Lithia Pinecrest Rd,HGEX,Valrico,33596,27.8908342,-82.2411142,4.0,"Chinese, Restaurants, Japanese, Korean",3.0,2009,1.0
+a43c,Armani's,"2900 Bayport Dr, Fl 14",RGTW,Tampa,33664,27.965423,-82.550117,4.0,"Restaurants, Wine Bars, Italian, Nightlife, Bars, Lounges",3.7,2009,1.0
+a449,Pizza Mania,1734 Bruce B Downs Blvd,CQ72,Wesley Chapel,33545,28.1824915,-82.3508896,4.0,"Pizza, Restaurants",5.0,2009,1.0
+a4a7,The Sports Bar and Grill,9685 Bay Pines Blvd,8ZKX,Seminole,33777,27.8146522,-82.7736037,3.5,"Restaurants, Bars, American (Traditional), Nightlife, Sports Bars",3.0,2009,1.0
+a51f,Udipi Cafe,14422 N Dale Mabry Hwy,RGTW,Tampa,33664,28.079296,-82.507915,3.5,"Vegetarian, Indian, Restaurants",4.0,2009,1.0
+a545,Grillsmith - Wesley Chapel,"2000 Piazza Ave, Ste 100",CQ72,Wesley Chapel,33545,28.1875440063,-82.3485336161,4.0,"American (Traditional), Gluten-Free, Steakhouses, Breakfast & Brunch, Restaurants, Seafood",5.0,2009,1.0
+a5c6,Sam Seltzer's Steakhouse,18409 US Hwy 19 N,MCCU,Clearwater,33769,27.9510278,-82.673557425,3.2,"Restaurants, Steakhouses",3.5,2009,1.0
+a671,Fitzgerald's Irish Tavern,5811 Nebraska Ave,3IHW,New Port Richey,34655,28.2499863,-82.7183244,4.0,"Cocktail Bars, Food, Beer, Wine & Spirits, Irish, Soup, Sports Bars, Bars, Nightlife, Irish Pub, Sandwiches, Restaurants",4.0,2009,1.0
+a75d,Toasted Pheasant,14445 N Dale Mabry Hwy,RGTW,Tampa,33664,28.0782099,-82.5067379,3.5,"American (New), Restaurants",4.7,2009,1.0
+a7b1,McAlister's Deli,11402 N. 30th Street,RGTW,Tampa,33664,28.0522815,-82.4266612,3.5,"Salad, Delis, Restaurants, Sandwiches",5.0,2009,1.0
+a8be,Thuy Cafe,"5944 34th St N, Ste 22",9EV3,San Petersburgo,33730,27.8257395637,-82.6799897374,4.0,"Bubble Tea, Vietnamese, Restaurants, Food, Sandwiches",4.2,2009,1.0
+a902,Cox's Seafood Market,6821 N Dale Mabry Hwy,RGTW,Tampa,33664,28.0098307,-82.5045666,4.5,"Books, Mags, Music & Video, Seafood Markets, Pets, Pet Stores, Specialty Food, Shopping, Food, Seafood, Restaurants, Sushi Bars",5.0,2009,1.0
+a93c,Pepo's Cafe,3879 Northdale Blvd,RGTW,Tampa,33664,28.0945318,-82.5059409,4.0,"Sandwiches, Cuban, Spanish, Restaurants, Cafes, Breakfast & Brunch",4.0,2009,1.0
+a95f,St. Pete Bagel Co.,7043 4th St N,9EV3,San Petersburgo,33730,27.8364616,-82.6382577,4.5,"Sandwiches, Restaurants, Bagels, Food, Donuts, Coffee & Tea",4.0,2009,1.0
+a9a7,Perkins Restaurant & Bakery,4685 Commercial Way,I0WF,Spring Hill,34610,28.4966942,-82.5952629,3.5,"Bakeries, American (Traditional), Breakfast & Brunch, Cafes, Restaurants, Food",3.0,2009,1.0
+abae,Cappy's Pizzeria,3200 W Bay-to-Bay Blvd,RGTW,Tampa,33664,27.919537900000005,-82.495474,4.0,"Pizza, Restaurants",4.0,2009,1.0
+abe7,Thai Kitchen,1126 62nd Ave N,9EV3,San Petersburgo,33730,27.82812,-82.650281,4.0,"Restaurants, Thai",5.0,2009,1.0
+ac4c,Olga's Restaurant,1449 S Belcher Rd,MCCU,Clearwater,33769,27.9557648237,-82.7589657281,4.5,"American (Traditional), Restaurants, American (New)",4.0,2009,1.0
+ad16,Keel Farms,5210 Thonotosassa Rd,7QXG,Plant City,33567,28.047491,-82.187768,4.0,"American (Traditional), Venues & Event Spaces, Event Planning & Services, Restaurants",4.0,2009,1.0
+add5,Pico Rojo,"2475 N Mcmullen Booth Rd, Ste E",MCCU,Clearwater,33769,28.011409,-82.711278,4.5,"Restaurants, Latin American, Fast Food, Salad, Vegetarian, Specialty Food, Food, Ethnic Food",4.0,2009,1.0
+ae5d,Mekenita Mexican Grille,17623 Dale Mabry Hwy N,1GQ7,Lutz,33559,28.1242989775,-82.500946261,4.0,"Mexican, Restaurants",4.2,2009,1.0
+aee4,Pajano's Pizza and Subs,1305 Gulf Blvd,SOWC,Indian Rocks Beach,33785,27.8960926,-82.8485196,4.0,"Restaurants, Pizza, Sandwiches",5.0,2009,1.0
+af24,Green Springs Bistro,156 4th Ave N,B8F4,Safety Harbor,34695,27.991604,-82.690918,4.5,"Arts & Entertainment, Restaurants, Music Venues, Steakhouses, Seafood, American (New), Nightlife, Cafes",3.0,2009,1.0
+af36,Greek Village Restaurant & Deli,"11125 Park Blvd, Ste 117",8ZKX,Seminole,33777,27.8407999303,-82.7925004886,3.5,"Restaurants, Greek",5.0,2009,1.0
+afe4,CMX CinéBistro Hyde Park,1609 W Swann Ave,RGTW,Tampa,33664,27.9377169,-82.4763757,4.0,"Bars, Restaurants, Lounges, Nightlife, Cinema, Arts & Entertainment, American (New)",5.0,2009,1.0
+b0cb,Columbia Restaurant,2117 E 7th Ave,RGTW,Tampa,33664,27.92155186333333,-82.53816774,3.9,"Latin American, Restaurants, Spanish, American (Traditional), Cuban",3.8,2009,1.0
+b1d3,Ella's Americana Folk Art Cafe,5119 N Nebraska Ave,RGTW,Tampa,33664,27.9936015,-82.4508818,4.0,"American (New), Cafes, Restaurants, Food",4.4,2009,1.0
+b26d,Ruth's Chris Steak House,1700 N Westshore Blvd,RGTW,Tampa,33664,27.9573809395,-82.5247961283,3.5,"American (Traditional), Restaurants, Bars, Steakhouses, Wine Bars, Seafood, Nightlife",3.3,2009,1.0
+b2fc,Kristina's Cafe,3590 34th St N,9EV3,San Petersburgo,33730,27.804424,-82.679719,4.0,"American (Traditional), Restaurants, Diners",4.5,2009,1.0
+b344,Dunkin',1346 W Brandon Blvd,W2W7,Brandon,33511,27.9382382,-82.3036177,2.5,"Donuts, Food, Coffee & Tea, Restaurants",3.5,2009,1.0
+b34e,Banyan Cafe & Catering,689-D Dr Martin Luther King Jr St N,9EV3,San Petersburgo,33730,27.779085,-82.646473,4.0,"Food, Breakfast & Brunch, Coffee & Tea, Restaurants",5.0,2009,1.0
+b3ae,Rick's On the River,2305 N Willow Ave,RGTW,Tampa,33664,27.962838,-82.473629,3.0,"Restaurants, Music Venues, American (New), Nightlife, Arts & Entertainment, Bars",4.0,2009,1.0
+b3fa,The Fox Jazz Cafe,5401 W Kennedy Blvd,RGTW,Tampa,33664,27.9455407,-82.5345948,2.5,"Jazz & Blues, Nightlife, Lounges, Arts & Entertainment, Bars, Music Venues, Restaurants, American (New)",3.5,2009,1.0
+b470,Donatello Restaurant,232 N Dale Mabry Hwy,RGTW,Tampa,33664,27.946975,-82.5059832,4.0,"Restaurants, Italian",5.0,2009,1.0
+b492,Da Sesto Italiano Ristorante e Vino,7201 66th St N,SJ01,Pinellas Park,33782,27.8382481,-82.7282048,4.5,"Food, Desserts, Wine Bars, Cocktail Bars, Bars, Nightlife, Restaurants, Event Planning & Services, Italian, Caterers",3.0,2009,0.5
+b4d2,Coffee Mill,12199 Indian Rocks Rd,LIFE,Largo,33778,27.8837395,-82.832071,4.5,"Coffee & Tea, Food, Restaurants",3.0,2009,1.0
+b52f,Cold Stone Creamery,"100 Main St, Ste 102",B8F4,Safety Harbor,34695,27.9906145,-82.6890074,4.0,"Restaurants, Cupcakes, Ice Cream & Frozen Yogurt, Food, Custom Cakes",4.0,2009,1.0
+b56b,La Ideal Sandwich Shop,2924 W Tampa Bay Blvd,RGTW,Tampa,33664,27.9739027,-82.4908853,4.0,"Restaurants, Sandwiches, Soup, Cuban",4.0,2009,1.0
+b5e5,Streetcar Charlie's Bar & Grille,1811 N 15th St,RGTW,Tampa,33664,27.960719,-82.442749,3.0,"American (New), Nightlife, Bars, Restaurants",3.0,2009,1.0
+b60b,Chipotle Mexican Grill,3700 Park Blvd N,SJ01,Pinellas Park,33782,27.977706395757146,-82.52405762189998,2.6,"Mexican, Fast Food, Restaurants",4.4,2009,1.0
+b61e,Mahuffer's,19201 Gulf Blvd,SOWC,Indian Rocks Beach,33785,27.8462545,-82.842041,4.0,"Barbeque, Nightlife, Food, Tiki Bars, Bars, Restaurants, Beer, Wine & Spirits, Dive Bars",1.0,2009,1.0
+b64c,Jasmine Thai,1947 Wlumsden Rd,W2W7,Brandon,33511,27.9213164796,-82.3168221354,4.0,"Restaurants, Thai",4.2,2009,1.0
+b699,La Casona,5709 N Armenia Ave,RGTW,Tampa,33664,27.9994336,-82.4841383,3.5,"Seafood, Soup, Restaurants, Spanish, Puerto Rican, Caribbean",4.0,2009,1.0
+b6b9,Saigon Deli,3858 W Waters Ave,RGTW,Tampa,33664,28.0246937978,-82.5076236703,4.5,"Vietnamese, Delis, Soup, Coffee & Tea, Food, Restaurants",3.8,2009,1.0
+b6ed,Grillsmith - Countryside,"2539 Countryside Blvd, Ste 6",MCCU,Clearwater,33769,28.014423099500004,-82.7338134329,4.0,"Breakfast & Brunch, Restaurants, Seafood, Steakhouses, Gluten-Free, Food, American (Traditional), Desserts",2.3,2009,1.0
+b702,Rumba Island Bar & Grill,1800 Gulf To Bay Blvd,MCCU,Clearwater,33769,27.9614115,-82.7624166,4.0,"Bars, Nightlife, Restaurants, Barbeque, Caribbean, Seafood",3.3,2009,1.0
+b78b,Chiang Mai Thai & Sushi Bar,415 Cleveland St,MCCU,Clearwater,33769,27.965343,-82.800563,3.5,"Restaurants, Thai, Sushi Bars",4.0,2009,1.0
+b7a3,Acropol Inn Restaurant,2552 Sunset Pt Rd,MCCU,Clearwater,33769,27.9912391,-82.7313785,4.0,"Greek, Restaurants",4.7,2009,1.0
+b835,Shells,551 Gulf Blvd,MCCU,Clearwater,33769,27.9658746,-82.8222774,4.0,"Restaurants, Seafood",5.0,2009,1.0
+b8be,The Boston Cooker Restaurant & Oyster Bar,5375 Spring Hill Dr,I0WF,Spring Hill,34610,28.459314,-82.624682,3.0,"American (Traditional), Seafood, Restaurants, Bars, Nightlife",4.0,2009,1.0
+b8db,Bobby's Bistro & Wine Bar,447 Mandalay Ave,EXHF,Clearwater Beach,33767,27.980152503,-82.8268117048,3.5,"American (New), Restaurants, Nightlife, Wine Bars, Bars",1.7,2009,1.0
+b8fa,Naviera Coffee Mills,2012 E 7th Ave,RGTW,Tampa,33664,27.9604795,-82.436308,4.0,"Restaurants, Food, Coffee & Tea",4.0,2009,1.0
+b9ad,Boston's Restaurant & Sports Bar,9316 Anderson Road,RGTW,Tampa,33664,28.0345574,-82.5421367,3.5,"Sports Bars, American (New), Restaurants, Nightlife, Bars, Pizza",4.0,2009,1.0
+b9e4,Outback Steakhouse,"2020 Brandon Blvd, Ste 190",W2W7,Brandon,33511,27.9727365608875,-82.44138887860001,3.4,"Restaurants, Steakhouses",3.5,2009,1.0
+ba7d,Malio's Prime Steakhouse,400 N Ashley Dr,RGTW,Tampa,33664,27.947549600300004,-82.4602517705,3.5,"Steakhouses, Restaurants",3.7,2009,1.0
+babe,Fred's Southern Kitchen,1401 W Dr Martin Luther King Blvd,7QXG,Plant City,33567,28.0115175,-82.1368103,4.5,"Restaurants, Buffets, Southern",3.7,2009,1.0
+bad9,Cuban Delight Cafe,2950 49th St N,9EV3,San Petersburgo,33730,27.7986323,-82.700056,3.5,"Cuban, Restaurants",3.0,2009,1.0
+bc01,Times Square Pizza Company,927 E Bloomingdale Ave,W2W7,Brandon,33511,27.8937241,-82.2695446,3.5,"Food, Restaurants, Pizza, Desserts, Salad, Italian",3.0,2009,1.0
+bc12,International Beer Garten,"16540 Pointe Village Dr, Ste 102",1GQ7,Lutz,33559,28.1894162291,-82.5406694412,3.0,"Breweries, Pubs, Bars, Restaurants, Food, Beer, Wine & Spirits, Nightlife",4.0,2009,1.0
+bccd,East Lake Woodlands Country Club,1055 East Lake Woodlands Parkway,96OP,Oldsmar,34677,28.0610914,-82.6949694,2.5,"Venues & Event Spaces, Swimming Pools, Sporting Goods, Golf, Tennis, Shopping, Arts & Entertainment, Event Planning & Services, Restaurants, Active Life, Country Clubs",1.0,2009,1.0
+bd33,Philly's Famous Cheese Steaks,4375 E Bay Dr,MCCU,Clearwater,33769,27.91601,-82.7414677,3.0,"Pizza, Cheesesteaks, Restaurants, Sandwiches",4.0,2009,1.0
+bdfe,Chili's,25987 US Hwy 19 N,MCCU,Clearwater,33769,28.133764137425,-82.5882780566,2.6,"Restaurants, Bars, Nightlife, Tex-Mex, American (Traditional)",2.2,2009,0.5
+be31,Sea Sea Riders Restaurant,221 Main St,L2T6,Dunedin,34698,28.01201,-82.790703,3.0,"Nightlife, Restaurants, Bars, Seafood",1.0,2009,0.5
+be49,Babalu,9246 4th St N,9EV3,San Petersburgo,33730,27.8563458,-82.6391062,3.0,"Nightlife, Burgers, Bars, American (Traditional), Restaurants",2.0,2009,0.5
+be74,The Ozona Pig,311 Orange St,IKXB,Palm Harbor,34685,28.0693234,-82.776405,4.0,"Barbeque, Bars, Food, Seafood, Southern, Restaurants, Breakfast & Brunch, Desserts, Gay Bars, Nightlife, American (New), Chicken Wings",3.0,2009,1.0
+bece,Della's Cafe & Bistro,608 Oakfield Dr,W2W7,Brandon,33511,27.9346427626,-82.2918930029,4.0,"Nightlife, Arts & Entertainment, Mediterranean, French, Jazz & Blues, American (New), Breakfast & Brunch, Cafes, Italian, Restaurants, Sandwiches",5.0,2009,1.0
+bf26,Mike's Smokehouse BBQ & Grill,7117 N Us Hwy 301,RGTW,Tampa,33664,28.012430299999995,-82.354019,4.0,"Barbeque, Restaurants, American (Traditional)",4.0,2009,1.0
+bf33,Campanella's Italian Restaurant & Pizza,7420 49th St,SJ01,Pinellas Park,33782,27.839665,-82.701343,3.0,"Restaurants, Breakfast & Brunch, Italian, Pizza",4.5,2009,1.0
+bfdf,East Coast Pizza,13340 Lincoln Rd,TC12,Riverview,33579,27.7903607117,-82.3429241835,4.0,"Nightlife, Salad, Bars, Restaurants, Caterers, Chicken Wings, Sandwiches, Event Planning & Services, Pizza, Italian",5.0,2009,1.0
+c028,Cafe Bohemia,937 Central Ave,9EV3,San Petersburgo,33730,27.7713532,-82.6477425,3.5,"Coffee & Tea, Art Galleries, Arts & Entertainment, Restaurants, Shopping, Beer, Wine & Spirits, Food",4.0,2009,1.0
+c058,Casa Bacardi,5507 W Spruce St,RGTW,Tampa,33664,27.9601835438,-82.5339255,3.0,"Restaurants, Food Stands",4.0,2009,1.0
+c075,First Watch,520 Tampa St,RGTW,Tampa,33664,28.02143715,-82.5321493,4.0,"Cafes, Restaurants, American (Traditional), Breakfast & Brunch",4.1,2009,1.0
+c237,Guppys on the Beach,1701 Gulf Blvd,SOWC,Indian Rocks Beach,33785,27.90008,-82.847977,4.5,"Sandwiches, Restaurants, American (New), Seafood",4.4,2009,1.0
+c2ae,Sweet Tomatoes,1902 N Dale Mabry Hwy,RGTW,Tampa,33664,27.97505622,-82.51882800000001,3.5,"Salad, Buffets, Soup, Vegetarian, Restaurants, Sandwiches",3.6,2009,1.0
+c2fe,Samurai Blue Sushi and Sake Bar,12950 Race Track Rd,RGTW,Tampa,33664,28.0694857,-82.6338282,3.5,"Sushi Bars, Restaurants",2.7,2009,1.0
+c35f,China City Restaurant,1221 4th St N,9EV3,San Petersburgo,33730,27.7846206,-82.6383517,2.5,"Restaurants, Chinese",1.0,2009,0.5
+c37d,Ivory Mandarin Bistro,2192 Main St,L2T6,Dunedin,34698,28.0198391,-82.749349,3.0,"Restaurants, Seafood, Barbeque, Cantonese, Chinese",2.5,2009,1.0
+c390,Fish Tail Willys,2543 Countryside Blvd,MCCU,Clearwater,33769,28.014905,-82.7350876,4.0,"Seafood, Restaurants",4.0,2009,1.0
+c3d5,Hellas Restaurant,785 Dodecanese Blvd,3IGC,Tarpon Springs,34689,28.1553911,-82.761866723,4.5,"Food, Bakeries, Greek, Restaurants, Soup",4.2,2009,1.0
+c3dd,Monty's Pizza,2170 Nursery Rd,MCCU,Clearwater,33769,27.942483,-82.747147,4.0,"Pizza, Italian, Restaurants",4.0,2009,1.0
+c424,Charlie & Millie's Pizza House,10953 Seminole Blvd,LIFE,Largo,33778,27.8721957,-82.7867664,4.0,"Restaurants, Pizza",3.0,2009,1.0
+c4a7,Seaside Inn,5330 Tread Way Dr,3IHW,New Port Richey,34655,28.2733478,-82.7264741,3.0,"Nightlife, Seafood, American (Traditional), Sports Bars, Bars, Restaurants",5.0,2009,1.0
+c5f9,Queen's Pizza & Restaurant,40949 US Hwy 19 N,3IGC,Tarpon Springs,34689,28.039945,-82.744639,3.3,"Food, Food Delivery Services, Italian, Restaurants, Pizza",3.7,2009,1.0
+c622,Cracker Barrel Old Country Store,2151 54th Ave N,9EV3,San Petersburgo,33730,27.89129258333333,-82.61123408333334,3.5,"Comfort Food, Caterers, Breakfast & Brunch, Southern, American (Traditional), Event Planning & Services, Restaurants",4.0,2009,1.0
+c629,I ai Sushi,3691 W Waters Ave,RGTW,Tampa,33664,28.026399000000005,-82.5026947,4.0,"Sushi Bars, Ramen, Asian Fusion, Restaurants, Japanese",4.4,2009,1.0
+c693,Primi Urban Cafe,27 4th St N,9EV3,San Petersburgo,33730,27.7717286,-82.6383171,3.5,"Italian, Nightlife, Restaurants, Piano Bars",4.2,2009,1.0
+c6c0,Cuenelli's Peruvian Restaurant,4801 W Hillsborough Ave,RGTW,Tampa,33664,27.9966052,-82.5243863,4.0,"Peruvian, Restaurants, Latin American",5.0,2009,1.0
+c6ff,Ruben's Cubans,"4941 E Busch Blvd, Ste 140",RGTW,Tampa,33664,28.0320361,-82.402878,3.5,"Coffee & Tea, Cafes, Cuban, Restaurants, Food, Breakfast & Brunch, Delis",4.0,2009,1.0
+c72b,Chris' Kitchen Icot,13501 Icot Blvd,MCCU,Clearwater,33769,27.894676,-82.7145662,3.0,"Restaurants, Delis",3.0,2009,1.0
+c72c,Cafe Vienna,5625 4th St N,9EV3,San Petersburgo,33730,27.8236221,-82.6382577,4.0,"Breakfast & Brunch, German, Austrian, Restaurants",4.5,2009,1.0
+c75d,Alex's,5362 W Village Dr,RGTW,Tampa,33664,28.081871499999995,-82.5392313,4.0,"Barbeque, American (Traditional), Restaurants",4.0,2009,1.0
+c770,Beachwood BBQ & Burger,6300 Gulf Blvd,9EV3,San Petersburgo,33730,27.7342456,-82.7467568,4.0,"Burgers, Restaurants, Barbeque",5.0,2009,1.0
+c78c,Sushi Ninja - Brandon,903 E Bloomingdale Ave,W2W7,Brandon,33511,27.891307,-82.272529,4.0,"Restaurants, Chinese, Sushi Bars, Japanese",4.7,2009,1.0
+c796,Old World Cheese Shop,11001 N 56th St,RGTW,Tampa,33664,28.0488738,-82.3935456,4.0,"Restaurants, Food, Sandwiches, Delis, Specialty Food",5.0,2009,1.0
+c7d5,Thai Pan Alley,"2300 Gulf Blvd, Ste 1",SOWC,Indian Rocks Beach,33785,27.9052031,-82.8475288,3.5,"Thai, Restaurants",5.0,2009,1.0
+c7d6,The Strawberry Hut,1505 N Wheeler St,7QXG,Plant City,33567,28.0285888,-82.1260224,4.5,"Restaurants, Sandwiches",3.0,2009,1.0
+c7de,Tampa Bay Brewing Company,1600 E 8th Ave,RGTW,Tampa,33664,27.961543,-82.441147,4.0,"Restaurants, Food, Breweries, American (Traditional), Pets, Brasseries",3.5,2009,1.0
+c820,Joey Brooklyn's Famous Pizza Kitchen,210 1st Ave N,9EV3,San Petersburgo,33730,27.771945,-82.6358835,4.0,"Sandwiches, Pizza, Restaurants, Salad",3.0,2009,1.0
+c917,Vallartas Mexican Restaurant,13731 N Dale Mabry Hwy,RGTW,Tampa,33664,28.0708904,-82.505456,3.0,"Restaurants, Mexican",3.0,2009,1.0
+c943,Lighthouse Doughnuts,215 Gulf Blvd,SOWC,Indian Rocks Beach,33785,27.8802756,-82.8501584,3.5,"Food, Donuts, Restaurants, Coffee & Tea",4.5,2009,1.0
+c98a,Roy's Restaurant,4342 W Boy Scout Blvd,RGTW,Tampa,33664,27.961599190000005,-82.51687288,4.0,"Restaurants, Seafood, Hawaiian, Asian Fusion, Sushi Bars, Steakhouses",3.4,2009,1.0
+c9b4,Miguel's Mexican Seafood & Grill,3035 W Kennedy Blvd,RGTW,Tampa,33664,27.9449042,-82.4930315,4.0,"Seafood, Party & Event Planning, Event Planning & Services, Restaurants, Mexican",4.1,2009,1.0
+c9cc,Han Il Kwan Korean Restaurant,8104 W Waters Ave,RGTW,Tampa,33664,28.025503,-82.570526,3.5,"Korean, Sushi Bars, Restaurants",3.0,2009,1.0
+c9fa,Gondolier Italian Restaurant and Pizza,674 S Gulfview Blvd,MCCU,Clearwater,33769,27.9667959,-82.8244885,4.0,"Italian, Restaurants, Pizza",3.5,2009,1.0
+ca08,Palm Pavilion Beachside Grill & Bar,10 Bay Esplanade,EXHF,Clearwater Beach,33767,27.9851915,-82.8277504,3.5,"Restaurants, Seafood, American (New), Food, Beer, Wine & Spirits",4.0,2009,1.0
+ca37,Brunchery Restaurant & Catering,"3225 S MacDill Ave, Ste 109",RGTW,Tampa,33664,27.9159014862,-82.4947635731,3.5,"Restaurants, Caterers, Sandwiches, Burgers, Event Planning & Services, Breakfast & Brunch, American (Traditional)",3.0,2009,1.0
+ca54,Cafe Japon,2223 N West Shore Blvd,RGTW,Tampa,33664,27.9627932,-82.5206709,3.5,"Restaurants, Japanese",3.0,2009,1.0
+cc38,Cali Shack,8595 Seminole Blvd,8ZKX,Seminole,33777,27.85029,-82.786745,3.5,"Burgers, American (New), Restaurants",4.0,2009,1.0
+cc59,Toula's Trailside Cafe,11 S Safford Ave,3IGC,Tarpon Springs,34689,28.1458327,-82.7544092,4.5,"Restaurants, Breakfast & Brunch",4.0,2009,1.0
+cc7f,Reservations Bistro,4703 N Nebraska Ave,RGTW,Tampa,33664,27.9881134,-82.4510034,4.5,"Delis, Sushi Bars, Do-It-Yourself Food, Food, Italian, American (New), Restaurants",2.0,2009,1.0
+ccc6,Burrito Boarder,17 3rd St N,9EV3,San Petersburgo,33730,27.771693500000005,-82.6369356,3.0,"Food, Restaurants, Specialty Food, Mexican",3.8,2009,1.0
+cd29,Gateway Pizza and Pasta,1156 94th Ave N,9EV3,San Petersburgo,33730,27.8569043,-82.6501931,3.0,"Italian, Restaurants, Pizza",1.0,2009,0.5
+cd55,Thai Lotus Restaurant,13336 66th St,LIFE,Largo,33778,27.8935692,-82.7304948,3.5,"Thai, Restaurants",3.8,2009,1.0
+cd5a,Pelagia Trattoria,4200 Jim Walter Blvd,RGTW,Tampa,33664,27.965508,-82.520126,4.0,"Italian, Bars, Nightlife, Restaurants",4.3,2009,1.0
+cd5b,IL Terrazzo,700 S Florida Ave,RGTW,Tampa,33664,27.9416361,-82.4541165,3.0,"Restaurants, Italian",4.0,2009,1.0
+cd85,La Guaguita - CLOSED,5919 West Linebaugh Ave,RGTW,Tampa,33664,27.9978875998,-82.5825762749,4.5,"Spanish, Caterers, Food, Event Planning & Services, Restaurants, Food Stands",4.5,2009,1.0
+cdae,Stump's Supper Club & Howl At the Moon,615 Channelside Dr,RGTW,Tampa,33664,27.9435498,-82.4476798,3.0,"Restaurants, American (Traditional)",4.0,2009,1.0
+cf19,Indochinois Restaurant,1912 S Dale Mabry Hwy,RGTW,Tampa,33664,27.9271791,-82.5054546,3.0,"Vietnamese, Restaurants",3.0,2009,1.0
+cfe2,Nicki's Omelette & Grill,6805 W Hillsborough Ave,RGTW,Tampa,33664,27.9968321,-82.5550403,4.0,"Restaurants, Breakfast & Brunch",4.0,2009,1.0
+d18b,Gourmet Pizza Company,"610 S Armenia Ave, Ste 101",RGTW,Tampa,33664,27.937948,-82.484684,4.0,"Pizza, Restaurants, Gluten-Free, Vegan",3.0,2009,1.0
+d1d9,Thirsty Marlin,351 W Bay Dr,LIFE,Largo,33778,27.9163128821,-82.7919325349,3.0,"Seafood, Food, Restaurants",3.0,2009,1.0
+d27c,Wholly Smoke Bar-B Que,6803 N Armenia Ave,RGTW,Tampa,33664,28.0098802,-82.4840305,3.5,"Barbeque, Restaurants",5.0,2009,1.0
+d288,Einstein Bros. Bagels,"5395 E Bay Dr, Ste 104",MCCU,Clearwater,33769,27.8652122084,-82.7731559832,2.3,"Bagels, Breakfast & Brunch, Food, Sandwiches, Coffee & Tea, Restaurants",4.0,2009,1.0
+d433,Tilted Kilt Pub & Eatery,2571 Drew St.,MCCU,Clearwater,33769,27.967388,-82.731082,3.0,"Burgers, Chicken Wings, Bars, Sports Bars, Restaurants, Pubs, American (Traditional), Nightlife",4.5,2009,1.0
+d4c3,Abe's Place Tap & Grill,1250 S Missouri Ave,MCCU,Clearwater,33769,27.9521870933,-82.7879929097,4.0,"Restaurants, Sports Bars, Chicken Wings, American (Traditional), Nightlife, Bars, Burgers",4.5,2009,1.0
+d518,Iavarone's Steakhouse & Italian Grill,3617 W Humphrey St,RGTW,Tampa,33664,28.029299,-82.5015116,4.0,"Restaurants, Steakhouses, Bars, Italian, Nightlife",5.0,2009,1.0
+d524,Los Mariachis Mexican Restaurant,9100 Ulmerton Rd,LIFE,Largo,33778,27.8939983,-82.765424,3.0,"Restaurants, Mexican, Tex-Mex",5.0,2009,1.0
+d543,Delco's Original Steak & Hoagies,1737 Main St,L2T6,Dunedin,34698,28.0184642,-82.7572796,4.5,"Steakhouses, American (Traditional), Restaurants, Sandwiches",4.7,2009,1.0
+d5bc,Cooters Restaurant & Bar,423 Poinsettia Ave,EXHF,Clearwater Beach,33767,27.979194,-82.826166,3.5,"American (Traditional), American (New), Sports Bars, Restaurants, Burgers, Chicken Wings, Sandwiches, Seafood, Local Flavor, Bars, Nightlife",3.6,2009,1.0
+d5d7,Zudar's Bourbon St  Bar & Grill,201 W Platt St,RGTW,Tampa,33664,27.9418442,-82.4611863,3.5,"American (Traditional), Event Planning & Services, Sandwiches, Burgers, Caterers, Bars, Restaurants, Breakfast & Brunch, Cajun/Creole, Delis, Nightlife, Diners",4.0,2009,1.0
+d639,Biff Burger & Buffy's BBQ,3939 49th St N,9EV3,San Petersburgo,33730,27.807849600000004,-82.6996818,2.5,"Burgers, Restaurants, Nightlife, Barbeque, Bars",3.2,2009,1.0
+d6c5,Daily Eats,901 S Howard Ave,RGTW,Tampa,33664,27.9349501184,-82.4831813201,4.0,"Cafes, American (New), Breakfast & Brunch, Diners, Restaurants",3.8,2009,1.0
+d700,QDOBA Mexican Eats,5001 E Fowler Ave,RGTW,Tampa,33664,28.053669,-82.4015376,3.5,"Fast Food, Caterers, Mexican, Event Planning & Services, Restaurants",3.0,2009,0.5
+d720,Taj Indian Cuisine,2734 E Fowler Ave,RGTW,Tampa,33664,28.0558865,-82.4293019,3.5,"Restaurants, Indian",4.2,2009,1.0
+d746,Ho Ho Choy,"1441 E Fletcher Ave, Ste 125",RGTW,Tampa,33664,28.0689129774,-82.4437806791,3.5,"Dim Sum, Chinese, Sushi Bars, Japanese, Restaurants, Seafood",3.8,2009,1.0
+d796,Gaspar's Grotto,1805 E 7th Ave,RGTW,Tampa,33664,27.9601002,-82.4389551,3.5,"Music Venues, Restaurants, Breakfast & Brunch, Arts & Entertainment, Nightlife, Local Flavor, Bars, Cuban, American (Traditional), American (New)",3.0,2009,1.0
+d7f3,The View at CK's,"Tampa International Airport, 5503 W Spruce St",RGTW,Tampa,33664,27.9816518245,-82.5346171345,2.5,"Seafood, Sushi Bars, Restaurants",2.0,2009,1.0
+d83d,Waffle House,509 Westshore Plz,RGTW,Tampa,33664,27.974726266666664,-82.542301,3.5,"Diners, Breakfast & Brunch, Chicken Shop, Restaurants, Waffles, American (Traditional)",4.7,2009,1.0
+d88f,Cafe Ponte,"13505 Icot Blvd, Ste 214",MCCU,Clearwater,33769,27.8948541,-82.7137001,4.5,"American (New), Cafes, Restaurants",4.0,2009,1.0
+d8a3,O'Keefe's Tavern,1219 S Fort Harrison Ave,MCCU,Clearwater,33769,27.952873,-82.7997141,4.0,"American (Traditional), Irish, Restaurants, Food",5.0,2009,1.0
+d915,Post Corner Pizza & Restaurant,431 S Gulfview Blvd,EXHF,Clearwater Beach,33767,27.970123,-82.829587,3.5,"Restaurants, Pizza, Seafood, Greek",5.0,2009,1.0
+d9e5,Angelo's Deli Cafe,"6800 N Dale Mabry Hwy, Ste 190",RGTW,Tampa,33664,28.0097573,-82.5055642,4.0,"Restaurants, Cuban, Delis",4.5,2009,1.0
+da18,Bellini Restaurant & Lounge,487 Main St,L2T6,Dunedin,34698,28.011994,-82.78599,4.5,"Restaurants, Italian",4.0,2009,1.0
+da28,Grillsmith,1108 S Dale Mabry Hwy,RGTW,Tampa,33664,27.932513,-82.505245,4.0,"Restaurants, American (New)",3.6,2009,1.0
+da60,Boizao,4606 Boy Scout Blvd,RGTW,Tampa,33664,27.981046916666667,-82.55904063333334,3.5,"Steakhouses, Brazilian, Restaurants, Food",3.7,2009,1.0
+da63,Thai Market & Kitchen,3325 S Dale Mabry Hwy,RGTW,Tampa,33664,27.913744,-82.506311,3.5,"Food, Grocery, Restaurants, Thai",3.0,2009,1.0
+dad4,Caracolillo Coffee Mills,4419 N Hesperides St,RGTW,Tampa,33664,27.9832257,-82.5193025,4.0,"Coffee & Tea, Food, Restaurants",5.0,2009,1.0
+db7d,Charley's Grilled Subs,"2223 N West Shore Blvd, Ste Fc201",RGTW,Tampa,33664,27.9651160784,-82.5212047678,2.5,"Fast Food, Restaurants",1.0,2009,0.5
+db8e,Pit Boss Bar-B-Q,4221 Little Rd,3IHW,New Port Richey,34655,28.302158233333333,-82.65096003333333,3.3,"Restaurants, Barbeque",3.7,2009,1.0
+dbd1,The James Joyce Irish Pub,1704 E 7th Ave,RGTW,Tampa,33664,27.960502900000005,-82.4401933,3.5,"Restaurants, Irish",3.5,2009,1.0
+dc36,Art of Sushi,1163 Dr Martin Luther King Jr St N,9EV3,San Petersburgo,33730,27.783709,-82.64666,3.0,"Restaurants, Sushi Bars, Asian Fusion, Japanese, Steakhouses",4.0,2009,1.0
+dc3f,Panera Bread,504 Brandon Town Center Mall,W2W7,Brandon,33511,28.00167756821818,-82.43759913208181,3.0,"Salad, Food, Restaurants, Breakfast & Brunch, Bagels, Soup, Sandwiches",3.5,2009,1.0
+dc52,The Capital Grille,2223 NW Shore Blvd,RGTW,Tampa,33664,27.9656056982,-82.5211192025,4.0,"Seafood, Restaurants, American (Traditional), Wine Bars, Bars, Steakhouses, Nightlife",4.1,2009,1.0
+dc6a,"JO-EL'S Kosher Deli, Market & Café",2619 23rd Ave N,9EV3,San Petersburgo,33730,27.793192712,-82.6698043952,4.5,"Restaurants, Sandwiches, Food, Kosher, Delis, Food Delivery Services",3.0,2009,1.0
+dcf8,Lee Roy Selmon's Restaurant,4302 W Boy Scout Blvd,RGTW,Tampa,33664,27.9628169,-82.5154185,3.5,"American (New), Barbeque, Nightlife, Restaurants, Bars, Sports Bars",3.7,2009,1.0
+dd13,Taste Safety Harbor,500 Main St,B8F4,Safety Harbor,34695,27.990724,-82.6925137,3.5,"Restaurants, Vegan, Delis, Bagels, Music Venues, Desserts, Diners, Food, Local Flavor, Ice Cream & Frozen Yogurt, American (New), Caterers, Middle Eastern, Nightlife, Arts & Entertainment, American (Traditional), Event Planning & Services, Sandwiches, Greek, Vegetarian, Bakeries, Coffee & Tea",5.0,2009,1.0
+ddce,Datz,2616 S MacDill Ave,RGTW,Tampa,33664,27.921942,-82.4932535,4.0,"Burgers, Bars, Restaurants, American (Traditional), Vegan, Asian Fusion, Cocktail Bars, Breakfast & Brunch, Soul Food, Sandwiches, American (New), Gastropubs, Comfort Food, Nightlife, Wine Bars, Delis",4.4,2009,1.0
+de3e,Black Forest Cottage Restaurant,"1120 Pinellas Bayway S, Ste 114",9EV3,San Petersburgo,33730,27.6748667,-82.7265357,4.5,"Food, Bakeries, German, Restaurants, Ice Cream & Frozen Yogurt",5.0,2009,1.0
+de70,The Pizza Joint,6723 49th St N,SJ01,Pinellas Park,33782,27.8331875,-82.6996186,3.5,"Italian, Cheesesteaks, Restaurants, Pizza",3.0,2009,1.0
+df43,Buffalo Wild Wings,2055 Badlands Dr,W2W7,Brandon,33511,27.9633501378,-82.42950460586667,2.5,"Sports Bars, American (Traditional), Nightlife, Bars, Restaurants, Chicken Wings",3.0,2009,1.0
+df68,Mugs 'N Jugs,14100 US Hwy 19 N,MCCU,Clearwater,33769,27.8995938,-82.727891,3.0,"Nightlife, Sports Bars, American (Traditional), Bars, Restaurants",2.0,2009,1.0
+dfd0,Marco's Pizza,"2508 McMullen Booth Rd, Ste D",MCCU,Clearwater,33769,28.01246,-82.71156,2.5,"Restaurants, Pizza",4.0,2009,1.0
+dff8,Kelly's For Just About Anything,319 Main,MCCU,Clearwater,33769,28.0116750414,-82.7883693274,4.0,Restaurants,4.0,2009,1.0
+e042,Capogna's Dugout,1653 Gulf To Bay Blvd,MCCU,Clearwater,33769,27.9595987,-82.7686445,3.5,"Bars, Restaurants, Pizza, Nightlife, Sports Bars, Italian",3.7,2009,1.0
+e054,Pattaya Thai & Sushi,2794 Gulf To Bay Blvd,MCCU,Clearwater,33769,27.961229,-82.721955,3.5,"Thai, Sushi Bars, Asian Fusion, Restaurants",3.5,2009,1.0
+e05f,Greek Islands Restaurant,1501 Clearwater Largo Rd N,LIFE,Largo,33778,27.9308955,-82.7959035,4.0,"Greek, Restaurants",4.0,2009,1.0
+e1d4,Carmelita's Mexican Restaurant,5042 E Bay Dr,MCCU,Clearwater,33769,27.8732982,-82.74566693333334,3.4,"Restaurants, Mexican",3.2,2009,1.0
+e1d9,Cajun Cafe On the Bayou,8260 66th St N,SJ01,Pinellas Park,33782,27.8470217,-82.7289792,4.0,"Restaurants, Cajun/Creole",4.0,2009,1.0
+e245,Catch Twenty Three,10103 Montague St,RGTW,Tampa,33664,28.0433568,-82.5970998,4.0,"Restaurants, Latin American, Caribbean, Sushi Bars, Seafood",5.0,2009,1.0
+e269,Giordano's,401 N Dale Mabry Hwy,RGTW,Tampa,33664,28.043146,-82.50921828571428,3.1,"Restaurants, Pizza",4.4,2009,1.0
+e2de,Jai Ho Indian Cuisine,2311 E Fowler Ave,RGTW,Tampa,33664,28.0533005,-82.4328365,3.5,"Restaurants, Buffets, Indian",4.5,2009,1.0
+e337,Shephard's Ocean Flame,619 S Gulfview Blvd,EXHF,Clearwater Beach,33767,27.967142,-82.826874,3.0,"Restaurants, Event Planning & Services, Hotels, Seafood, Buffets, American (New), Resorts, Hotels & Travel, Sushi Bars, Breakfast & Brunch",2.5,2009,1.0
+e3b4,Yanny's Restaurant,1258 S Highland Ave,MCCU,Clearwater,33769,27.9513845,-82.7751792,4.0,"Breakfast & Brunch, American (Traditional), Restaurants",4.0,2009,1.0
+e46e,Golden Bear,12540 Starkey Rd,LIFE,Largo,33778,27.8863631,-82.7627913,4.5,"Diners, American (Traditional), Breakfast & Brunch, Restaurants",4.0,2009,1.0
+e486,Starbucks,9222 Anderson Rd,RGTW,Tampa,33664,28.0525822,-82.64043000000001,3.2,"Coffee & Tea, Restaurants, Food",5.0,2009,1.0
+e4d7,Santorini Seafood & Grill,698 Dodecanese Blvd,3IGC,Tarpon Springs,34689,28.1556772,-82.7598727,3.0,"Restaurants, Mediterranean",3.0,2009,1.0
+e54a,Keith's Oaks Bar & Grill,108 Lithia Pinecrest Rd,W2W7,Brandon,33511,27.9369722778,-82.281604732,3.0,"Restaurants, Seafood",2.0,2009,1.0
+e587,Hattricks,107 S Franklin St,RGTW,Tampa,33664,27.9448659,-82.4569758,4.0,"Bars, American (Traditional), Nightlife, Sports Bars, Restaurants, Chicken Wings",4.2,2009,1.0
+e673,Splash An Ocean Grill,3973 Van Dyke Rd,1GQ7,Lutz,33559,28.1293079771,-82.5050096843,3.5,"Seafood, Restaurants",4.5,2009,1.0
+e6b9,Taps Restaurant Bar & Lounge,777 North Ashley Dr,RGTW,Tampa,33664,27.9501068,-82.4602853,3.5,"Food, American (New), Tapas/Small Plates, Mexican, Wine Bars, Restaurants, Gastropubs, Nightlife, Bars, Beer, Wine & Spirits, Tacos, Sandwiches, Cocktail Bars",4.0,2009,1.0
+e6bc,Mythos Greek Taverna,"13575 58th St N, Ste 111",MCCU,Clearwater,33769,27.9044695894,-82.7224331323,4.0,"Greek, Mediterranean, Restaurants",4.7,2009,1.0
+e6c8,Avanzare,2 Tampa City Ctr,RGTW,Tampa,33664,27.9463601084,-82.4581325054,2.5,"Restaurants, American (New), Delis, Italian",1.5,2009,1.0
+e722,Nature's Food Patch Market & Café,1225 Cleveland St,MCCU,Clearwater,33769,27.9644465,-82.786234,4.5,"Seafood Markets, Delis, Restaurants, Health Markets, Food, Specialty Food, Cafes, Grocery",4.7,2009,1.0
+e76b,Mom's Place,4816 N Dale Mabry Hwy,RGTW,Tampa,33664,27.989883,-82.5058352,4.0,"Restaurants, Diners",5.0,2009,1.0
+e788,Fresh Mouth,"1600 E 8th Ave, Ste D101",RGTW,Tampa,33664,27.9607074,-82.4418209,3.5,"Restaurants, Burgers",2.0,2009,1.0
+e83b,China Gate Take Out Restaurant,14957 N Florida Ave,RGTW,Tampa,33664,28.086521,-82.459133,2.5,"Restaurants, Chinese, Chicken Shop, Seafood",2.0,2009,1.0
+e8d6,Andy's On the Bay,472 Douglas Rd E,96OP,Oldsmar,34677,28.0419252,-82.6527745,4.0,"Cuban, Restaurants",4.0,2009,1.0
+e915,Angelina's Fine Italian Cuisine,4351 Lynx Paw Trl,HGEX,Valrico,33596,27.8763209,-82.2226691,2.5,"Italian, Restaurants",4.0,2009,1.0
+e93d,Cody's Original Roadhouse,11270 4th St N,9EV3,San Petersburgo,33730,28.104504016666667,-82.67675086666667,2.8,"Pubs, Restaurants, Steakhouses, Nightlife, American (Traditional), Bars",3.5,2009,1.0
+e95a,Cafe de Paris Bakery,2300 Gulf Blvd,SOWC,Indian Rocks Beach,33785,27.9051434,-82.8473201,4.5,"French, Food, Bakeries, Restaurants",5.0,2009,1.0
+e998,Eli's Bar B Que,360 Skinner Blvd,L2T6,Dunedin,34698,28.016086,-82.788527,4.0,"Restaurants, Soul Food, Barbeque, American (New)",4.5,2009,1.0
+e9a6,Keegan's Seafood Grille,1519 Gulf Blvd,SOWC,Indian Rocks Beach,33785,27.8986647,-82.8478654,4.0,"American (Traditional), Restaurants, American (New), Seafood",4.6,2009,1.0
+e9b3,Pach's Place,2909 W Bay To Bay Blvd,RGTW,Tampa,33664,27.920060081,-82.4922255629,4.0,"Restaurants, Breakfast & Brunch, Diners",3.0,2009,1.0
+ea12,Saigon Corner,518 Oakfield Dr,W2W7,Brandon,33511,27.934039,-82.291602,4.0,"Vietnamese, Restaurants",3.5,2009,1.0
+ea5f,Mellow Mushroom - Brandon,10959 Causeway Blvd,W2W7,Brandon,33511,27.9222603996,-82.3286704227,4.0,"Bars, Pizza, Sandwiches, Nightlife, Restaurants",4.5,2009,1.0
+eab3,Vetture's Pizzeria and Restaurant,36137 E Lake Rd,IKXB,Palm Harbor,34685,28.1011715,-82.6925762,3.5,"Pizza, Restaurants, Italian",5.0,2009,1.0
+eac4,Embassy Suites by Hilton Tampa Downtown Convention Center,513 S Florida Ave,RGTW,Tampa,33664,27.9423153,-82.4547605,2.5,"Cafes, Hotels & Travel, Hotels, Restaurants, Event Planning & Services",3.2,2009,1.0
+ead1,Mecafresh,3235 Tampa Rd,IKXB,Palm Harbor,34685,28.0675269,-82.7250507,3.5,"Restaurants, Sandwiches",4.3,2009,1.0
+eb48,O' Bistro,6661 Central Ave,9EV3,San Petersburgo,33730,27.7713607,-82.7297829,4.0,"American (New), Restaurants",3.7,2009,1.0
+ebaa,Quaker Steak & Lube,10400 49th St N,MCCU,Clearwater,33769,27.8668175979,-82.7009019256,3.5,"Chicken Wings, Restaurants, American (Traditional), Burgers",2.5,2009,1.0
+ec9f,Thai Nana Restaurant,1458 Us-19 Alt,IKXB,Palm Harbor,34685,28.081277,-82.766829,3.5,"Thai, Restaurants",2.0,2009,1.0
+ed09,The Thirsty Marlin,1023 Florida Ave,IKXB,Palm Harbor,34685,28.078297,-82.766384,4.0,"Restaurants, Food, Seafood, Sushi Bars, American (New)",4.0,2009,1.0
+edca,Village Pizza,4070 Deltona Blvd,I0WF,Spring Hill,34610,28.4869153,-82.5726859,3.5,"Restaurants, Food, Italian, Food Delivery Services, Pizza",3.0,2009,1.0
+edd8,Acropol Family Restaurant,1170 Starkey Rd,LIFE,Largo,33778,27.9058877,-82.7629882,4.0,"Restaurants, Greek, Diners, Breakfast & Brunch",4.0,2009,1.0
+ee37,McDivot's Wings and Raw Bar,10706 Countryway Blvd,RGTW,Tampa,33664,28.0569426267,-82.6238414614,3.5,"American (Traditional), Restaurants, Chicken Wings",4.0,2009,1.0
+eec4,China Yuan Restaurant,"8502 N Armenia Ave, Ste 1A",RGTW,Tampa,33664,28.0275678,-82.4852451,4.0,"Barbeque, Restaurants, Seafood, Chinese, Dim Sum",4.7,2009,1.0
+eed9,Byblos Pitas,2734 University Square Dr,RGTW,Tampa,33664,28.0572685,-82.4300663,3.5,"Specialty Food, Food, Restaurants, Greek, Mediterranean, Ethnic Food",4.0,2009,1.0
+eee9,China One,4316 6th St S,9EV3,San Petersburgo,33730,27.8800563,-82.4972252,3.0,"Restaurants, Chinese",3.5,2009,1.0
+eeea,That's Amore Restaurant,700 Harbour Post Dr,RGTW,Tampa,33664,27.9397303212,-82.4517257614,3.0,"Restaurants, Jazz & Blues, Italian, Nightlife, Arts & Entertainment",1.0,2009,1.0
+eefa,China Star Restaurant,6925 US Highway 301 S,TC12,Riverview,33579,27.880501,-82.327835,2.5,"Chinese, Restaurants",2.0,2009,0.5
+ef4f,Yogomisu,2816 E Bearss Ave,RGTW,Tampa,33664,28.0804861,-82.4282029,3.0,"Restaurants, Creperies, Food, Ice Cream & Frozen Yogurt",3.0,2009,1.0
+ef92,The Brunchery,4389 Lynx Paw Trl,HGEX,Valrico,33596,27.8763887,-82.2228214,4.0,"American (New), Restaurants, Breakfast & Brunch",4.0,2009,1.0
+efc6,Wok N Roll,2802 W Kennedy Blvd,RGTW,Tampa,33664,27.9445005,-82.4893886,3.5,"Chinese, Restaurants",3.0,2009,1.0
+f001,Chihuahua Mexican Grill,4101 S Macdill Ave,RGTW,Tampa,33664,27.9051033,-82.4939813,4.0,"Mexican, Restaurants",4.3,2009,1.0
+f02a,Tokyo Japanese Steakhouse & Sushi Bar,13420 Boyette Rd,TC12,Riverview,33579,27.8522324,-82.2679443,3.5,"Restaurants, Japanese",4.0,2009,1.0
+f099,Bin 27 Bistro,2702 W Kennedy Blvd,RGTW,Tampa,33664,27.9446,-82.4880364,3.5,"Restaurants, Asian Fusion, American (New)",3.5,2009,1.0
+f0f2,SideBern's,2208 W Morrison Ave,RGTW,Tampa,33664,27.9335369,-82.482729,4.0,"American (New), Nightlife, Cocktail Bars, Bars, Food, Restaurants",4.0,2009,1.0
+f1b7,Chick-fil-A,3423 Ulmerton Rd,MCCU,Clearwater,33769,27.9917818,-82.54101716666666,3.3,"Restaurants, Chicken Wings, Fast Food, Caterers, Chicken Shop, Event Planning & Services",4.3,2009,1.0
+f32a,Lodge Restaurant & Bar,516 S Howard Ave,RGTW,Tampa,33664,27.9387699,-82.4827424,3.5,"Bars, Nightlife, American (Traditional), Breakfast & Brunch, Restaurants, Food",4.0,2009,1.0
+f3ea,La Segunda Central Bakery,2512 N 15th St,RGTW,Tampa,33664,27.9658653,-82.443197,4.5,"Bakeries, Restaurants, Coffee & Tea, Food, Cuban",4.5,2009,1.0
+f40d,Sushi Hayashi,"5537 Sheldon Rd, Ste Q",RGTW,Tampa,33664,27.9987144,-82.5824838,3.5,"Sushi Bars, Japanese, Restaurants",4.0,2009,1.0
+f428,Moe's Southwest Grill,2338 W Brandon Blvd,W2W7,Brandon,33511,27.97065183305,-82.42685009435,2.6,"Restaurants, Tex-Mex, Mexican",2.8,2009,1.0
+f4ec,Village Inn Restaurant,215 N Dale Mabry Hwy,RGTW,Tampa,33664,27.9470100076,-82.5053148705,3.5,"Restaurants, Burgers, American (Traditional), Desserts, Breakfast & Brunch, Diners, Salad, Food",3.0,2009,1.0
+f5e1,Billy's Tarpon Turtle,1513 Lake Tarpon Ave,3IGC,Tarpon Springs,34689,28.146167,-82.728607,2.5,"Restaurants, American (Traditional), Seafood",4.5,2009,1.0
+f670,Antonio's Pasta Grill,2755 Ulmerton Rd,MCCU,Clearwater,33769,27.8944109,-82.6710453,4.0,"Italian, Restaurants",3.3,2009,1.0
+f672,Laziz,2475-J N McMullen Booth Rd,MCCU,Clearwater,33769,28.0113856338,-82.7110409649,3.5,"Pakistani, Restaurants, Indian",4.0,2009,1.0
+f6b9,Curriez Indian Cuisine,8556 Park Blvd,8ZKX,Seminole,33777,27.838804,-82.757272,2.0,"Restaurants, Pakistani, Indian",2.0,2009,1.0
+f6c4,Kim's Family,"2101 Starkey Rd, Units L4/L5",LIFE,Largo,33778,27.897247,-82.762016,4.5,"Waffles, Food, Beverage Store, Restaurants, Breakfast & Brunch",5.0,2009,1.0
+f712,Senor Loco's Mexican Grill & Cantina,2680 Gulf To Bay Blvd,MCCU,Clearwater,33769,27.9607507,-82.7265027,2.5,"Mexican, Restaurants",2.0,2009,1.0
+f803,Tinatapa's,615 Channelside Dr,RGTW,Tampa,33664,27.9434563,-82.4475968,3.0,"Restaurants, Tapas Bars",2.8,2009,1.0
+f88d,Babe's Pizza,107 N Kings Ave,W2W7,Brandon,33511,27.9385893,-82.2935769,3.5,"Pizza, Restaurants",4.0,2009,1.0
+f917,Love's Artifacts Bar and Grille,4914 S Macdill Ave,RGTW,Tampa,33664,27.8927742,-82.493599,3.5,"Barbeque, Restaurants, Food Stands",4.0,2009,1.0
+f9ba,Amarit Thai Restaurant,328 E Lake Rd,IKXB,Palm Harbor,34685,28.0615966583,-82.7086955757,4.0,"Restaurants, Thai, Sushi Bars",1.5,2009,1.0
+f9eb,Bar Louie - Tampa,2223 N Westshore Blvd,RGTW,Tampa,33664,27.96615,-82.52095,4.0,"Cocktail Bars, American (New), Restaurants, Burgers, Nightlife, Bars, Gastropubs, Pubs, Sports Bars",3.5,2009,1.0
+fa15,Piza Bella,138-A S Dale Mabry Hwy,RGTW,Tampa,33664,27.9433652,-82.505413,1.5,"Caterers, Pizza, Restaurants, Event Planning & Services",2.5,2009,1.0
+fa17,Jerk Hut Restaurant,1241 E Fowler Ave,RGTW,Tampa,33664,28.0538042,-82.4467522,3.5,"Soul Food, Restaurants, Caribbean, Latin American",3.2,2009,1.0
+faa0,Bella Italia Restaurant,"10801 Starkey Rd, Ste 7",LIFE,Largo,33778,27.8716229,-82.7603579,4.0,"Italian, Restaurants, Pizza",4.0,2009,1.0
+fafc,Amici Italian Eatery,"1901 W Bay Dr, Ste A1",LIFE,Largo,33778,27.9164121,-82.8070611,4.0,"Restaurants, Pizza, Italian",4.0,2009,1.0
+fb7f,Brady's BBQ,340 Main St,B8F4,Safety Harbor,34695,27.9906356,-82.6909103,3.0,"Southern, Barbeque, Restaurants",4.2,2009,1.0
+fb9d,Rosie's Clam Shack,6657 49th St,SJ01,Pinellas Park,33782,27.8325767,-82.6998243,3.0,"Restaurants, Seafood",3.0,2009,1.0
+fbb1,Shells Seafood Restaurant - South Tampa,202 S Dale Mabry Hwy,RGTW,Tampa,33664,27.9427456793,-82.5053379023,4.5,"Restaurants, Seafood",3.0,2009,1.0
+fbce,Flying J Travel Center,29933 State Road 52,3JZK,Dade City,33525,28.326346,-82.321755,3.5,"Restaurants, Convenience Stores, Food, Automotive, Gas Stations",5.0,2009,1.0
+fbcf,Mitchell's Fish Market,204 Westshore Plz,RGTW,Tampa,33664,27.9459674,-82.5264034,3.5,"Nightlife, Seafood, Restaurants, American (Traditional), Bars",4.0,2009,1.0
+fc0c,Thai Terrace,2055 N Dale Mabry Hwy,RGTW,Tampa,33664,27.9609950063,-82.5050753443,4.0,"Restaurants, Thai",3.8,2009,1.0
+fcdc,EVOS Feel Great Food-South Tampa,609 S Howard Ave,RGTW,Tampa,33664,27.9383165,-82.4831865,3.5,"Food, Organic Stores, Burgers, Restaurants, Vegetarian, Fast Food, American (Traditional), Salad",3.3,2009,1.0
+fd8f,Baluka Billiards & Lounge,2072 Badlands Dr,W2W7,Brandon,33511,27.927258500000004,-82.3158945,3.0,"Nightlife, Bars, Restaurants, Pool Halls, Gastropubs",3.3,2009,1.0
+fdcc,Breakfast Station,9141 Little Rd,3IHW,New Port Richey,34655,28.2906069,-82.6772985,4.0,"Breakfast & Brunch, Diners, Restaurants, American (New), American (Traditional)",4.0,2009,1.0
+fdd5,Mykonos,628 Dodecanese Blvd,3IGC,Tarpon Springs,34689,28.155413582700003,-82.7599114074,4.5,"Restaurants, Greek",3.3,2009,1.0
+fe64,Panda Express,10250 Bloomingdale Avenue,TC12,Riverview,33579,27.8943025,-82.3318546,3.0,"Fast Food, Restaurants, American (Traditional), Chinese",2.0,2009,0.5
+fe6c,Chart House,7616 W Courtney Campbell Causeway,RGTW,Tampa,33664,27.9660251,-82.5666463,3.0,"American (Traditional), Seafood, Steakhouses, Restaurants",2.7,2009,1.0
+feb0,Garden Restaurant,217 Central Ave,9EV3,San Petersburgo,33730,27.771380000000004,-82.6359247,3.0,"Food Delivery Services, Jazz & Blues, Food, American (Traditional), Arts & Entertainment, Mediterranean, Restaurants, Nightlife",3.7,2009,1.0
+ff04,Pho Quyen,8404 W Hillsborough Ave,RGTW,Tampa,33664,28.019564727694444,-82.52061897369444,3.8,"Restaurants, Vietnamese, Soup",3.8,2009,1.0
+ff41,TC Choy's Asian Bistro,301 S Howard Ave,RGTW,Tampa,33664,27.9417553,-82.4832164,3.5,"Chinese, Restaurants",3.0,2009,1.0
+ffd4,Frenchy's Original Cafe,41 Baymont St,EXHF,Clearwater Beach,33767,27.98204,-82.826436,4.0,"Seafood, Restaurants",4.0,2009,1.0
+ffe9,Linda's Crab Shack,202 E Reynolds St,7QXG,Plant City,33567,28.0167656,-82.1223958,3.0,"Beer, Wine & Spirits, Food, Seafood, Restaurants",4.0,2009,1.0
+ffec,Pearl in the Grove,31936 Saint Joe Rd,3JZK,Dade City,33525,28.375716,-82.2872906,4.5,"Restaurants, Southern, American (Traditional), Steakhouses, American (New)",5.0,2009,1.0
