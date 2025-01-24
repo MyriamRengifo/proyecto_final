@@ -25,12 +25,12 @@ cols = {
 # Cargar los datos
 @st.cache_data
 def load_yearly():
-    yearly = pd.read_parquet(r'https://github.com/JorgeLuisSR/testing_streamlit_discardable/raw/refs/heads/main/Datasets/florida_yearly.parquet')
+    yearly = pd.read_parquet(r'https://github.com/MyriamRengifo/proyecto_final/raw/refs/heads/Main/ml_pipeline/datasets/florida_yearly.parquet')
     return yearly
 
 @st.cache_data
 def load_restaurants():
-    restaurants = pd.read_parquet('https://github.com/JorgeLuisSR/testing_streamlit_discardable/raw/refs/heads/main/Datasets/florida_restaurants.parquet')
+    restaurants = pd.read_parquet('https://github.com/MyriamRengifo/proyecto_final/raw/refs/heads/Main/ml_pipeline/datasets/florida_restaurants.parquet')
     return restaurants
 
 @st.cache_data
