@@ -61,7 +61,7 @@ En el  mismo podemos visualizar:
 - Distribución de los datos
 - Media de los datos año a año
 
-# . IV) Conclusiones: 
+# 📊 IV) Conclusiones: 
   **Análisis de Puntuaciones y Oportunidades de Mercado**
 
 1. **KPI de Puntuaciones**
