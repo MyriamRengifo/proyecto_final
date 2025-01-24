@@ -1,0 +1,1307 @@
+condado,ciudad,cantidad_restaurantes,categoria_cantidad_restaurantes,anio,puntuacion_promedio,categoria_puntuacion
+Alachua,Alachua,8,Rango Medio,2024,4.6,Excelente
+Alachua,Archer,3,Pocos Restaurantes,2024,3.5,Regular
+Alachua,Gainesville,236,Alta concentración,2024,4.2,Buena
+Alachua,High Springs,14,Rango Medio,2024,4.1,Buena
+Alachua,Jonesville,5,Pocos Restaurantes,2024,4.3,Buena
+Alachua,Newberry,26,Rango Medio,2024,4.3,Buena
+Alachua,Waldo,2,Pocos Restaurantes,2024,4.5,Excelente
+Alachua,gainesville,144,Alta concentración,2023,4.3,Buena
+Alachua,gainesville,144,Alta concentración,2024,4.3,Buena
+Baker,Macclenny,24,Rango Medio,2024,4.2,Buena
+Bay,Callaway,6,Rango Medio,2024,3.8,Regular
+Bay,Lynn Haven,11,Rango Medio,2024,4.2,Buena
+Bay,Mexico Beach,2,Pocos Restaurantes,2024,4.6,Excelente
+Bay,Panama City,112,Alta concentración,2024,4.3,Buena
+Bay,Panama City Beach,75,Alta concentración,2024,4.3,Buena
+Bay,Southport,6,Rango Medio,2024,3.8,Regular
+Bradford,Lawtey,3,Pocos Restaurantes,2024,4.6,Excelente
+Bradford,Starke,3,Pocos Restaurantes,2024,4.1,Buena
+Brevard,Cape Canaveral,8,Rango Medio,2024,4.3,Buena
+Brevard,Cocoa,77,Alta concentración,2024,4.4,Buena
+Brevard,Cocoa Beach,15,Rango Medio,2024,4.4,Buena
+Brevard,Indialantic,6,Rango Medio,2024,4.1,Buena
+Brevard,Indian Harbour Beach,8,Rango Medio,2024,4.4,Buena
+Brevard,Malabar,3,Pocos Restaurantes,2024,4.1,Buena
+Brevard,Melbourne,154,Alta concentración,2024,4.2,Buena
+Brevard,Melbourne Beach,5,Pocos Restaurantes,2024,4.0,Buena
+Brevard,Melbourne Village,3,Pocos Restaurantes,2024,4.0,Buena
+Brevard,Merritt Island,60,Rango Medio,2024,4.4,Buena
+Brevard,Micco,2,Pocos Restaurantes,2024,4.5,Excelente
+Brevard,Mims,4,Pocos Restaurantes,2024,4.4,Buena
+Brevard,Palm Bay,53,Rango Medio,2024,4.3,Buena
+Brevard,Palm Shores,2,Pocos Restaurantes,2024,4.8,Excelente
+Brevard,Port Canaveral,3,Pocos Restaurantes,2024,4.8,Excelente
+Brevard,Rockledge,51,Rango Medio,2024,4.2,Buena
+Brevard,Satellite Beach,25,Rango Medio,2024,4.5,Excelente
+Brevard,Titusville,34,Rango Medio,2024,4.1,Buena
+Brevard,West Melbourne,13,Rango Medio,2024,3.8,Regular
+Brevard,mims,337,Alta concentración,2023,4.2,Buena
+Brevard,mims,337,Alta concentración,2024,4.3,Buena
+Broward,Coconut Creek,27,Rango Medio,2024,4.3,Buena
+Broward,Cooper City,21,Rango Medio,2024,4.5,Buena
+Broward,Coral Springs,126,Alta concentración,2024,4.3,Buena
+Broward,Dania Beach,19,Rango Medio,2024,4.3,Buena
+Broward,Davie,135,Alta concentración,2024,4.2,Buena
+Broward,Deerfield Beach,68,Rango Medio,2024,4.2,Buena
+Broward,Fort Lauderdale,338,Alta concentración,2024,4.2,Buena
+Broward,Hallandale Beach,57,Rango Medio,2024,4.4,Buena
+Broward,Hollywood,199,Alta concentración,2024,4.3,Buena
+Broward,Lauderdale Lakes,20,Rango Medio,2024,4.1,Buena
+Broward,Lauderhill,70,Alta concentración,2024,4.4,Buena
+Broward,Lighthouse Point,6,Rango Medio,2024,3.3,Regular
+Broward,Margate,52,Rango Medio,2024,4.3,Buena
+Broward,Miramar,72,Alta concentración,2024,4.2,Buena
+Broward,North Lauderdale,30,Rango Medio,2024,4.3,Buena
+Broward,Oakland Park,42,Rango Medio,2024,4.6,Excelente
+Broward,Parkland,3,Pocos Restaurantes,2024,4.5,Excelente
+Broward,Pembroke Park,9,Rango Medio,2024,4.0,Buena
+Broward,Pembroke Pines,154,Alta concentración,2024,4.2,Buena
+Broward,Plantation,75,Alta concentración,2024,4.2,Buena
+Broward,Pompano Beach,137,Alta concentración,2024,4.2,Buena
+Broward,Sea Ranch Lakes,3,Pocos Restaurantes,2024,3.7,Regular
+Broward,Southwest Ranches,8,Rango Medio,2024,4.4,Buena
+Broward,Sunrise,95,Alta concentración,2024,4.2,Buena
+Broward,Tamarac,35,Rango Medio,2024,4.4,Buena
+Broward,West Park,15,Rango Medio,2024,4.1,Buena
+Broward,Weston,27,Rango Medio,2024,4.1,Buena
+Broward,Wilton Manors,30,Rango Medio,2024,4.4,Buena
+Calhoun,Blountstown,3,Pocos Restaurantes,2024,3.9,Regular
+Charlotte,Placida,3,Pocos Restaurantes,2024,3.8,Regular
+Charlotte,Port Charlotte,78,Alta concentración,2024,4.2,Buena
+Charlotte,Punta Gorda,45,Rango Medio,2024,4.4,Buena
+Charlotte,placida,66,Rango Medio,2023,4.3,Buena
+Charlotte,placida,66,Rango Medio,2024,4.3,Buena
+Citrus,Beverly Hills,3,Pocos Restaurantes,2024,3.9,Regular
+Citrus,Crystal River,21,Rango Medio,2024,4.4,Buena
+Citrus,Floral City,8,Rango Medio,2024,4.5,Buena
+Citrus,Hernando,15,Rango Medio,2024,4.5,Buena
+Citrus,Homosassa,10,Rango Medio,2024,4.3,Buena
+Citrus,Inverness,24,Rango Medio,2024,3.9,Regular
+Citrus,Lecanto,4,Pocos Restaurantes,2024,4.8,Excelente
+Citrus,crystal river,46,Rango Medio,2023,4.3,Buena
+Citrus,crystal river,46,Rango Medio,2024,4.3,Buena
+Clay,Fleming Island,17,Rango Medio,2024,4.3,Buena
+Clay,Green Cove Springs,11,Rango Medio,2024,4.6,Excelente
+Clay,Keystone Heights,8,Rango Medio,2024,3.8,Regular
+Clay,Middleburg,20,Rango Medio,2024,3.9,Regular
+Clay,Orange Park,68,Rango Medio,2024,4.2,Buena
+Collier,Ave Maria,2,Pocos Restaurantes,2024,4.6,Excelente
+Collier,Everglades City,10,Rango Medio,2024,4.2,Buena
+Collier,Goodland,2,Pocos Restaurantes,2024,3.7,Regular
+Collier,Immokalee,16,Rango Medio,2024,4.0,Buena
+Collier,Marco Island,39,Rango Medio,2024,4.3,Buena
+Collier,Naples,277,Alta concentración,2024,4.2,Buena
+Collier,Ochopee,3,Pocos Restaurantes,2024,2.8,Regular
+Collier,naples,265,Alta concentración,2023,4.2,Buena
+Collier,naples,265,Alta concentración,2024,4.3,Buena
+Columbia,Lake City,50,Rango Medio,2024,4.2,Buena
+Columbia,lake city,28,Rango Medio,2023,4.2,Buena
+Columbia,lake city,28,Rango Medio,2024,4.3,Buena
+DeSoto,Arcadia,25,Rango Medio,2024,4.2,Buena
+Dixie,Cross City,3,Pocos Restaurantes,2024,4.1,Buena
+Dixie,Old Town,2,Pocos Restaurantes,2024,4.8,Excelente
+Dixie,cross city,2,Pocos Restaurantes,2023,4.1,Buena
+Dixie,cross city,2,Pocos Restaurantes,2024,4.3,Buena
+Duval,Atlantic Beach,26,Rango Medio,2024,4.3,Buena
+Duval,Jacksonville,816,Alta concentración,2024,4.2,Buena
+Duval,Jacksonville Beach,67,Rango Medio,2024,4.2,Buena
+Duval,Mayport,3,Pocos Restaurantes,2024,3.9,Regular
+Duval,Neptune Beach,9,Rango Medio,2024,4.2,Buena
+Duval,jacksonville,394,Alta concentración,2023,4.3,Buena
+Duval,jacksonville,394,Alta concentración,2024,4.3,Buena
+Escambia,Cantonment,8,Rango Medio,2024,4.3,Buena
+Escambia,Molino,3,Pocos Restaurantes,2024,4.8,Excelente
+Escambia,Pensacola,303,Alta concentración,2024,4.3,Buena
+Escambia,Pensacola Beach,11,Rango Medio,2024,4.5,Buena
+Escambia,pensacola,205,Alta concentración,2023,4.3,Buena
+Escambia,pensacola,205,Alta concentración,2024,4.3,Buena
+Flagler,Bunnell,25,Rango Medio,2024,4.6,Excelente
+Flagler,Flagler Beach,31,Rango Medio,2024,4.6,Excelente
+Flagler,Palm Coast,53,Rango Medio,2024,4.2,Buena
+Flagler,bunnell,53,Rango Medio,2023,4.1,Buena
+Flagler,bunnell,53,Rango Medio,2024,4.3,Buena
+Franklin,Apalachicola,10,Rango Medio,2024,4.4,Buena
+Franklin,Carrabelle,6,Rango Medio,2024,4.5,Excelente
+Franklin,Eastpoint,4,Pocos Restaurantes,2024,4.6,Excelente
+Franklin,St George Island,3,Pocos Restaurantes,2024,4.8,Excelente
+Franklin,apalachicola,27,Rango Medio,2023,4.4,Buena
+Franklin,apalachicola,27,Rango Medio,2024,4.3,Buena
+Gadsden,Greensboro,3,Pocos Restaurantes,2024,4.4,Buena
+Gadsden,Havana,6,Rango Medio,2024,4.6,Excelente
+Gadsden,Quincy,19,Rango Medio,2024,4.3,Buena
+Gadsden,chattahoochee,8,Rango Medio,2023,4.1,Buena
+Gadsden,chattahoochee,8,Rango Medio,2024,4.3,Buena
+Gilchrist,Bell,3,Pocos Restaurantes,2024,4.6,Excelente
+Gilchrist,Trenton,5,Pocos Restaurantes,2024,4.2,Buena
+Gilchrist,bell,6,Rango Medio,2023,4.4,Buena
+Gilchrist,bell,6,Rango Medio,2024,4.3,Buena
+Glades,Moore Haven,2,Pocos Restaurantes,2024,4.4,Buena
+Glades,Palmdale,2,Pocos Restaurantes,2024,4.7,Excelente
+Glades,moore haven,1,Pocos Restaurantes,2024,4.3,Buena
+Gulf,Port St Joe,3,Pocos Restaurantes,2024,3.2,Regular
+Hamilton,jasper,1,Pocos Restaurantes,2024,4.3,Buena
+Hardee,Bowling Green,5,Pocos Restaurantes,2024,4.4,Buena
+Hardee,Wauchula,14,Rango Medio,2024,4.6,Excelente
+Hardee,Zolfo Springs,6,Rango Medio,2024,4.2,Buena
+Hardee,bowling green,3,Pocos Restaurantes,2023,4.6,Excelente
+Hardee,bowling green,3,Pocos Restaurantes,2024,4.3,Buena
+Hendry,Clewiston,16,Rango Medio,2024,4.2,Buena
+Hendry,LaBelle,4,Pocos Restaurantes,2024,4.6,Excelente
+Hendry,clewiston,10,Rango Medio,2023,4.3,Buena
+Hendry,clewiston,10,Rango Medio,2024,4.3,Buena
+Hernando,Brooksville,25,Rango Medio,2024,4.1,Buena
+Hernando,Hernando Beach,56,Rango Medio,2010,4.0,Buena
+Hernando,Hernando Beach,56,Rango Medio,2011,4.0,Buena
+Hernando,Hernando Beach,56,Rango Medio,2012,4.0,Buena
+Hernando,Hernando Beach,56,Rango Medio,2013,4.0,Buena
+Hernando,Hernando Beach,56,Rango Medio,2014,4.0,Buena
+Hernando,Hernando Beach,56,Rango Medio,2015,3.8,Regular
+Hernando,Hernando Beach,56,Rango Medio,2016,4.0,Buena
+Hernando,Hernando Beach,56,Rango Medio,2017,4.0,Buena
+Hernando,Hernando Beach,56,Rango Medio,2018,4.0,Buena
+Hernando,Hernando Beach,56,Rango Medio,2019,4.1,Buena
+Hernando,Hernando Beach,56,Rango Medio,2020,4.1,Buena
+Hernando,Hernando Beach,56,Rango Medio,2021,3.8,Regular
+Hernando,Hernando Beach,56,Rango Medio,2022,4.2,Buena
+Hernando,Masaryktown,10,Rango Medio,2011,4.5,Excelente
+Hernando,Masaryktown,10,Rango Medio,2012,4.5,Excelente
+Hernando,Masaryktown,10,Rango Medio,2013,4.5,Excelente
+Hernando,Masaryktown,10,Rango Medio,2014,4.5,Excelente
+Hernando,Masaryktown,10,Rango Medio,2015,4.5,Excelente
+Hernando,Masaryktown,10,Rango Medio,2016,4.5,Excelente
+Hernando,Masaryktown,10,Rango Medio,2017,4.5,Excelente
+Hernando,Masaryktown,10,Rango Medio,2018,4.5,Excelente
+Hernando,Masaryktown,10,Rango Medio,2019,4.5,Excelente
+Hernando,Masaryktown,10,Rango Medio,2020,4.5,Excelente
+Hernando,Spring Hill,653,Alta concentración,2010,3.6,Regular
+Hernando,Spring Hill,653,Alta concentración,2011,3.6,Regular
+Hernando,Spring Hill,653,Alta concentración,2012,3.6,Regular
+Hernando,Spring Hill,653,Alta concentración,2013,3.6,Regular
+Hernando,Spring Hill,653,Alta concentración,2014,3.6,Regular
+Hernando,Spring Hill,653,Alta concentración,2015,3.7,Regular
+Hernando,Spring Hill,653,Alta concentración,2016,3.8,Regular
+Hernando,Spring Hill,653,Alta concentración,2017,3.7,Regular
+Hernando,Spring Hill,653,Alta concentración,2018,3.8,Regular
+Hernando,Spring Hill,653,Alta concentración,2019,3.8,Regular
+Hernando,Spring Hill,653,Alta concentración,2020,3.9,Regular
+Hernando,Spring Hill,653,Alta concentración,2021,3.8,Regular
+Hernando,Spring Hill,653,Alta concentración,2022,3.7,Regular
+Hernando,Spring Hill,653,Alta concentración,2024,4.6,Excelente
+Hernando,brooksville,69,Rango Medio,2023,4.1,Buena
+Hernando,brooksville,69,Rango Medio,2024,4.3,Buena
+Highlands,Avon Park,14,Rango Medio,2024,4.2,Buena
+Highlands,Lake Placid,13,Rango Medio,2024,4.6,Excelente
+Highlands,Sebring,21,Rango Medio,2024,4.5,Excelente
+Highlands,avon park,86,Alta concentración,2023,4.2,Buena
+Highlands,avon park,86,Alta concentración,2024,4.3,Buena
+Hillsborough,Apollo Beach,203,Alta concentración,2010,3.5,Regular
+Hillsborough,Apollo Beach,203,Alta concentración,2011,3.2,Regular
+Hillsborough,Apollo Beach,203,Alta concentración,2012,3.3,Regular
+Hillsborough,Apollo Beach,203,Alta concentración,2013,3.4,Regular
+Hillsborough,Apollo Beach,203,Alta concentración,2014,3.4,Regular
+Hillsborough,Apollo Beach,203,Alta concentración,2015,3.6,Regular
+Hillsborough,Apollo Beach,203,Alta concentración,2016,3.7,Regular
+Hillsborough,Apollo Beach,203,Alta concentración,2017,3.7,Regular
+Hillsborough,Apollo Beach,203,Alta concentración,2018,3.7,Regular
+Hillsborough,Apollo Beach,203,Alta concentración,2019,3.8,Regular
+Hillsborough,Apollo Beach,203,Alta concentración,2020,3.9,Regular
+Hillsborough,Apollo Beach,203,Alta concentración,2021,3.9,Regular
+Hillsborough,Apollo Beach,203,Alta concentración,2022,4.2,Buena
+Hillsborough,Apollo Beach,203,Alta concentración,2024,4.4,Buena
+Hillsborough,Brandon,1463,Alta concentración,2010,3.6,Regular
+Hillsborough,Brandon,1463,Alta concentración,2011,3.6,Regular
+Hillsborough,Brandon,1463,Alta concentración,2012,3.6,Regular
+Hillsborough,Brandon,1463,Alta concentración,2013,3.6,Regular
+Hillsborough,Brandon,1463,Alta concentración,2014,3.6,Regular
+Hillsborough,Brandon,1463,Alta concentración,2015,3.7,Regular
+Hillsborough,Brandon,1463,Alta concentración,2016,3.7,Regular
+Hillsborough,Brandon,1463,Alta concentración,2017,3.9,Regular
+Hillsborough,Brandon,1463,Alta concentración,2018,3.9,Regular
+Hillsborough,Brandon,1463,Alta concentración,2019,4.0,Regular
+Hillsborough,Brandon,1463,Alta concentración,2020,3.9,Regular
+Hillsborough,Brandon,1463,Alta concentración,2021,4.0,Regular
+Hillsborough,Brandon,1463,Alta concentración,2022,3.7,Regular
+Hillsborough,Brandon,1463,Alta concentración,2024,4.2,Buena
+Hillsborough,Carrollwood,1,Pocos Restaurantes,2010,3.5,Regular
+Hillsborough,Dover,14,Rango Medio,2014,4.0,Buena
+Hillsborough,Dover,14,Rango Medio,2016,4.2,Buena
+Hillsborough,Dover,14,Rango Medio,2017,4.5,Excelente
+Hillsborough,Dover,14,Rango Medio,2018,4.0,Buena
+Hillsborough,Dover,14,Rango Medio,2020,3.2,Regular
+Hillsborough,Dover,14,Rango Medio,2021,4.2,Buena
+Hillsborough,Dover,14,Rango Medio,2024,4.5,Excelente
+Hillsborough,Gibsonton,96,Alta concentración,2013,3.8,Regular
+Hillsborough,Gibsonton,96,Alta concentración,2014,4.1,Buena
+Hillsborough,Gibsonton,96,Alta concentración,2015,3.5,Regular
+Hillsborough,Gibsonton,96,Alta concentración,2016,4.1,Buena
+Hillsborough,Gibsonton,96,Alta concentración,2017,4.1,Buena
+Hillsborough,Gibsonton,96,Alta concentración,2018,4.2,Buena
+Hillsborough,Gibsonton,96,Alta concentración,2019,3.8,Regular
+Hillsborough,Gibsonton,96,Alta concentración,2020,4.2,Buena
+Hillsborough,Gibsonton,96,Alta concentración,2021,4.2,Buena
+Hillsborough,Gibsonton,96,Alta concentración,2022,4.2,Buena
+Hillsborough,Gibsonton,96,Alta concentración,2024,4.5,Excelente
+Hillsborough,Lithia,79,Alta concentración,2010,3.0,Regular
+Hillsborough,Lithia,79,Alta concentración,2011,3.3,Regular
+Hillsborough,Lithia,79,Alta concentración,2012,3.5,Regular
+Hillsborough,Lithia,79,Alta concentración,2013,3.5,Regular
+Hillsborough,Lithia,79,Alta concentración,2014,3.6,Regular
+Hillsborough,Lithia,79,Alta concentración,2015,3.6,Regular
+Hillsborough,Lithia,79,Alta concentración,2016,3.6,Regular
+Hillsborough,Lithia,79,Alta concentración,2017,3.8,Regular
+Hillsborough,Lithia,79,Alta concentración,2018,3.8,Regular
+Hillsborough,Lithia,79,Alta concentración,2019,3.8,Regular
+Hillsborough,Lithia,79,Alta concentración,2020,3.8,Regular
+Hillsborough,Lithia,79,Alta concentración,2021,3.8,Regular
+Hillsborough,Lithia,79,Alta concentración,2022,2.5,Regular
+Hillsborough,Lutz,717,Alta concentración,2010,3.6,Regular
+Hillsborough,Lutz,717,Alta concentración,2011,3.6,Regular
+Hillsborough,Lutz,717,Alta concentración,2012,3.7,Regular
+Hillsborough,Lutz,717,Alta concentración,2013,3.7,Regular
+Hillsborough,Lutz,717,Alta concentración,2014,3.7,Regular
+Hillsborough,Lutz,717,Alta concentración,2015,3.8,Regular
+Hillsborough,Lutz,717,Alta concentración,2016,3.7,Regular
+Hillsborough,Lutz,717,Alta concentración,2017,3.8,Regular
+Hillsborough,Lutz,717,Alta concentración,2018,3.9,Regular
+Hillsborough,Lutz,717,Alta concentración,2019,3.9,Regular
+Hillsborough,Lutz,717,Alta concentración,2020,4.0,Buena
+Hillsborough,Lutz,717,Alta concentración,2021,4.0,Buena
+Hillsborough,Lutz,717,Alta concentración,2022,3.8,Regular
+Hillsborough,Lutz,717,Alta concentración,2024,4.2,Buena
+Hillsborough,Mango,7,Rango Medio,2011,3.0,Regular
+Hillsborough,Mango,7,Rango Medio,2012,3.0,Regular
+Hillsborough,Mango,7,Rango Medio,2013,3.0,Regular
+Hillsborough,Mango,7,Rango Medio,2014,3.0,Regular
+Hillsborough,Mango,7,Rango Medio,2015,3.0,Regular
+Hillsborough,Mango,7,Rango Medio,2016,3.0,Regular
+Hillsborough,Mango,7,Rango Medio,2017,3.0,Regular
+Hillsborough,Plant City,498,Alta concentración,2010,3.6,Regular
+Hillsborough,Plant City,498,Alta concentración,2011,4.0,Buena
+Hillsborough,Plant City,498,Alta concentración,2012,3.9,Regular
+Hillsborough,Plant City,498,Alta concentración,2013,3.8,Regular
+Hillsborough,Plant City,498,Alta concentración,2014,3.8,Regular
+Hillsborough,Plant City,498,Alta concentración,2015,3.8,Regular
+Hillsborough,Plant City,498,Alta concentración,2016,3.8,Regular
+Hillsborough,Plant City,498,Alta concentración,2017,3.8,Regular
+Hillsborough,Plant City,498,Alta concentración,2018,3.8,Regular
+Hillsborough,Plant City,498,Alta concentración,2019,3.9,Regular
+Hillsborough,Plant City,498,Alta concentración,2020,3.8,Regular
+Hillsborough,Plant City,498,Alta concentración,2021,3.9,Regular
+Hillsborough,Plant City,498,Alta concentración,2022,4.2,Buena
+Hillsborough,Plant City,498,Alta concentración,2024,4.4,Buena
+Hillsborough,Riverview,709,Alta concentración,2010,3.5,Regular
+Hillsborough,Riverview,709,Alta concentración,2011,3.7,Regular
+Hillsborough,Riverview,709,Alta concentración,2012,3.8,Regular
+Hillsborough,Riverview,709,Alta concentración,2013,3.7,Regular
+Hillsborough,Riverview,709,Alta concentración,2014,3.7,Regular
+Hillsborough,Riverview,709,Alta concentración,2015,3.8,Regular
+Hillsborough,Riverview,709,Alta concentración,2016,3.8,Regular
+Hillsborough,Riverview,709,Alta concentración,2017,3.9,Regular
+Hillsborough,Riverview,709,Alta concentración,2018,4.0,Regular
+Hillsborough,Riverview,709,Alta concentración,2019,3.9,Regular
+Hillsborough,Riverview,709,Alta concentración,2020,3.9,Regular
+Hillsborough,Riverview,709,Alta concentración,2021,3.9,Regular
+Hillsborough,Riverview,709,Alta concentración,2022,3.8,Regular
+Hillsborough,Riverview,709,Alta concentración,2024,4.4,Buena
+Hillsborough,Ruskin,287,Alta concentración,2010,3.7,Regular
+Hillsborough,Ruskin,287,Alta concentración,2011,3.7,Regular
+Hillsborough,Ruskin,287,Alta concentración,2012,3.8,Regular
+Hillsborough,Ruskin,287,Alta concentración,2013,3.7,Regular
+Hillsborough,Ruskin,287,Alta concentración,2014,3.7,Regular
+Hillsborough,Ruskin,287,Alta concentración,2015,3.8,Regular
+Hillsborough,Ruskin,287,Alta concentración,2016,3.8,Regular
+Hillsborough,Ruskin,287,Alta concentración,2017,3.8,Regular
+Hillsborough,Ruskin,287,Alta concentración,2018,3.7,Regular
+Hillsborough,Ruskin,287,Alta concentración,2019,3.8,Regular
+Hillsborough,Ruskin,287,Alta concentración,2020,3.7,Regular
+Hillsborough,Ruskin,287,Alta concentración,2021,3.8,Regular
+Hillsborough,Ruskin,287,Alta concentración,2022,4.0,Buena
+Hillsborough,Ruskin,287,Alta concentración,2024,4.3,Buena
+Hillsborough,Seffner,160,Alta concentración,2010,3.8,Regular
+Hillsborough,Seffner,160,Alta concentración,2011,3.7,Regular
+Hillsborough,Seffner,160,Alta concentración,2012,3.6,Regular
+Hillsborough,Seffner,160,Alta concentración,2013,3.7,Regular
+Hillsborough,Seffner,160,Alta concentración,2014,3.6,Regular
+Hillsborough,Seffner,160,Alta concentración,2015,3.6,Regular
+Hillsborough,Seffner,160,Alta concentración,2016,3.7,Regular
+Hillsborough,Seffner,160,Alta concentración,2017,3.8,Regular
+Hillsborough,Seffner,160,Alta concentración,2018,3.8,Regular
+Hillsborough,Seffner,160,Alta concentración,2019,3.8,Regular
+Hillsborough,Seffner,160,Alta concentración,2020,3.8,Regular
+Hillsborough,Seffner,160,Alta concentración,2021,3.9,Regular
+Hillsborough,Seffner,160,Alta concentración,2022,3.5,Regular
+Hillsborough,Seffner,160,Alta concentración,2024,4.4,Buena
+Hillsborough,Sun City Center,55,Rango Medio,2010,4.0,Buena
+Hillsborough,Sun City Center,55,Rango Medio,2011,3.8,Regular
+Hillsborough,Sun City Center,55,Rango Medio,2012,2.8,Regular
+Hillsborough,Sun City Center,55,Rango Medio,2013,3.2,Regular
+Hillsborough,Sun City Center,55,Rango Medio,2014,3.6,Regular
+Hillsborough,Sun City Center,55,Rango Medio,2015,3.2,Regular
+Hillsborough,Sun City Center,55,Rango Medio,2016,3.4,Regular
+Hillsborough,Sun City Center,55,Rango Medio,2017,3.2,Regular
+Hillsborough,Sun City Center,55,Rango Medio,2018,3.1,Regular
+Hillsborough,Sun City Center,55,Rango Medio,2019,3.4,Regular
+Hillsborough,Sun City Center,55,Rango Medio,2020,3.4,Regular
+Hillsborough,Sun City Center,55,Rango Medio,2021,3.6,Regular
+Hillsborough,Sun City Center,55,Rango Medio,2022,1.5,Regular
+Hillsborough,Sun City Center,55,Rango Medio,2024,3.4,Regular
+Hillsborough,Tampa,15817,Alta concentración,2010,3.6,Regular
+Hillsborough,Tampa,15817,Alta concentración,2011,3.6,Regular
+Hillsborough,Tampa,15817,Alta concentración,2012,3.7,Regular
+Hillsborough,Tampa,15817,Alta concentración,2013,3.7,Regular
+Hillsborough,Tampa,15817,Alta concentración,2014,3.7,Regular
+Hillsborough,Tampa,15817,Alta concentración,2015,3.7,Regular
+Hillsborough,Tampa,15817,Alta concentración,2016,3.8,Regular
+Hillsborough,Tampa,15817,Alta concentración,2017,3.8,Regular
+Hillsborough,Tampa,15817,Alta concentración,2018,3.9,Regular
+Hillsborough,Tampa,15817,Alta concentración,2019,3.9,Regular
+Hillsborough,Tampa,15817,Alta concentración,2020,3.9,Regular
+Hillsborough,Tampa,15817,Alta concentración,2021,4.0,Regular
+Hillsborough,Tampa,15817,Alta concentración,2022,4.0,Buena
+Hillsborough,Tampa,15817,Alta concentración,2024,4.3,Buena
+Hillsborough,Temple Terrace,253,Alta concentración,2010,3.5,Regular
+Hillsborough,Temple Terrace,253,Alta concentración,2011,3.7,Regular
+Hillsborough,Temple Terrace,253,Alta concentración,2012,3.7,Regular
+Hillsborough,Temple Terrace,253,Alta concentración,2013,3.7,Regular
+Hillsborough,Temple Terrace,253,Alta concentración,2014,3.8,Regular
+Hillsborough,Temple Terrace,253,Alta concentración,2015,3.7,Regular
+Hillsborough,Temple Terrace,253,Alta concentración,2016,3.7,Regular
+Hillsborough,Temple Terrace,253,Alta concentración,2017,3.9,Regular
+Hillsborough,Temple Terrace,253,Alta concentración,2018,4.0,Buena
+Hillsborough,Temple Terrace,253,Alta concentración,2019,4.1,Buena
+Hillsborough,Temple Terrace,253,Alta concentración,2020,4.1,Buena
+Hillsborough,Temple Terrace,253,Alta concentración,2021,4.2,Buena
+Hillsborough,Temple Terrace,253,Alta concentración,2022,4.1,Buena
+Hillsborough,Temple Terrace,253,Alta concentración,2024,4.3,Buena
+Hillsborough,Thonotosassa,18,Rango Medio,2011,4.5,Excelente
+Hillsborough,Thonotosassa,18,Rango Medio,2012,4.5,Excelente
+Hillsborough,Thonotosassa,18,Rango Medio,2013,4.5,Excelente
+Hillsborough,Thonotosassa,18,Rango Medio,2014,4.2,Buena
+Hillsborough,Thonotosassa,18,Rango Medio,2015,4.2,Buena
+Hillsborough,Thonotosassa,18,Rango Medio,2016,4.2,Buena
+Hillsborough,Thonotosassa,18,Rango Medio,2018,4.2,Buena
+Hillsborough,Thonotosassa,18,Rango Medio,2019,3.8,Regular
+Hillsborough,Thonotosassa,18,Rango Medio,2021,4.5,Excelente
+Hillsborough,Thonotosassa,18,Rango Medio,2022,4.5,Excelente
+Hillsborough,Thonotosassa,18,Rango Medio,2024,4.3,Buena
+Hillsborough,Valrico,280,Alta concentración,2010,3.5,Regular
+Hillsborough,Valrico,280,Alta concentración,2011,3.5,Regular
+Hillsborough,Valrico,280,Alta concentración,2012,3.7,Regular
+Hillsborough,Valrico,280,Alta concentración,2013,3.5,Regular
+Hillsborough,Valrico,280,Alta concentración,2014,3.6,Regular
+Hillsborough,Valrico,280,Alta concentración,2015,3.6,Regular
+Hillsborough,Valrico,280,Alta concentración,2016,3.7,Regular
+Hillsborough,Valrico,280,Alta concentración,2017,3.8,Regular
+Hillsborough,Valrico,280,Alta concentración,2018,3.9,Regular
+Hillsborough,Valrico,280,Alta concentración,2019,3.8,Regular
+Hillsborough,Valrico,280,Alta concentración,2020,4.0,Regular
+Hillsborough,Valrico,280,Alta concentración,2021,3.9,Regular
+Hillsborough,Valrico,280,Alta concentración,2022,4.0,Buena
+Hillsborough,Valrico,280,Alta concentración,2024,4.4,Buena
+Hillsborough,Wimauma,35,Rango Medio,2012,4.5,Excelente
+Hillsborough,Wimauma,35,Rango Medio,2013,4.2,Buena
+Hillsborough,Wimauma,35,Rango Medio,2014,4.5,Excelente
+Hillsborough,Wimauma,35,Rango Medio,2015,4.6,Excelente
+Hillsborough,Wimauma,35,Rango Medio,2016,4.5,Excelente
+Hillsborough,Wimauma,35,Rango Medio,2017,4.8,Excelente
+Hillsborough,Wimauma,35,Rango Medio,2018,4.2,Buena
+Hillsborough,Wimauma,35,Rango Medio,2019,4.0,Buena
+Hillsborough,Wimauma,35,Rango Medio,2020,4.6,Excelente
+Hillsborough,Wimauma,35,Rango Medio,2021,4.8,Excelente
+Hillsborough,Wimauma,35,Rango Medio,2022,4.5,Excelente
+Hillsborough,Wimauma,35,Rango Medio,2024,4.3,Buena
+Hillsborough,Ybor City,14,Rango Medio,2012,4.0,Buena
+Hillsborough,Ybor City,14,Rango Medio,2013,4.0,Buena
+Hillsborough,Ybor City,14,Rango Medio,2014,4.0,Buena
+Hillsborough,Ybor City,14,Rango Medio,2015,4.0,Buena
+Hillsborough,Ybor City,14,Rango Medio,2016,4.0,Buena
+Hillsborough,Ybor City,14,Rango Medio,2017,4.0,Buena
+Hillsborough,Ybor City,14,Rango Medio,2018,4.0,Buena
+Hillsborough,Ybor City,14,Rango Medio,2019,4.0,Buena
+Hillsborough,Ybor City,14,Rango Medio,2020,4.0,Buena
+Hillsborough,Ybor City,14,Rango Medio,2021,4.0,Buena
+Hillsborough,Ybor City,14,Rango Medio,2022,4.0,Buena
+Hillsborough,Ybor City,14,Rango Medio,2024,2.8,Regular
+Hillsborough,brandon,759,Alta concentración,2023,4.3,Buena
+Hillsborough,brandon,759,Alta concentración,2024,4.3,Buena
+Hillsborough,wimauma,2,Pocos Restaurantes,2017,4.5,Excelente
+Hillsborough,wimauma,2,Pocos Restaurantes,2020,4.5,Excelente
+Holmes,Bonifay,4,Pocos Restaurantes,2024,4.8,Excelente
+Holmes,bonifay,4,Pocos Restaurantes,2023,4.6,Excelente
+Holmes,bonifay,4,Pocos Restaurantes,2024,4.3,Buena
+Indian River,Sebastian,23,Rango Medio,2024,4.5,Buena
+Indian River,Vero Beach,69,Rango Medio,2024,4.3,Buena
+Indian River,fellsmere,77,Alta concentración,2023,4.2,Buena
+Indian River,fellsmere,77,Alta concentración,2024,4.3,Buena
+Jackson,Alford,3,Pocos Restaurantes,2024,4.4,Buena
+Jackson,Malone,2,Pocos Restaurantes,2024,5.0,Excelente
+Jackson,Marianna,12,Rango Medio,2024,4.2,Buena
+Jackson,alford,12,Rango Medio,2023,4.4,Buena
+Jackson,alford,12,Rango Medio,2024,4.3,Buena
+Jefferson,Monticello,5,Pocos Restaurantes,2024,4.2,Buena
+Jefferson,lamont,14,Rango Medio,2023,4.5,Buena
+Jefferson,lamont,14,Rango Medio,2024,4.3,Buena
+Lafayette,mayo,2,Pocos Restaurantes,2024,4.3,Buena
+Lake,Astor,3,Pocos Restaurantes,2024,4.5,Excelente
+Lake,Clermont,71,Alta concentración,2024,4.4,Buena
+Lake,Eustis,22,Rango Medio,2024,4.4,Buena
+Lake,Fruitland Park,3,Pocos Restaurantes,2024,4.2,Buena
+Lake,Groveland,12,Rango Medio,2024,4.2,Buena
+Lake,Lady Lake,23,Rango Medio,2024,4.1,Buena
+Lake,Leesburg,48,Rango Medio,2024,4.0,Buena
+Lake,Mascotte,3,Pocos Restaurantes,2024,3.9,Regular
+Lake,Minneola,8,Rango Medio,2024,4.7,Excelente
+Lake,Montverde,5,Pocos Restaurantes,2024,4.9,Excelente
+Lake,Mt Dora,41,Rango Medio,2024,4.4,Buena
+Lake,Sorrento,5,Pocos Restaurantes,2024,4.6,Excelente
+Lake,Tavares,35,Rango Medio,2024,4.4,Buena
+Lake,astor,101,Alta concentración,2023,4.1,Buena
+Lake,astor,101,Alta concentración,2024,4.3,Buena
+Lee,Alva,2,Pocos Restaurantes,2024,3.6,Regular
+Lee,Boca Grande,2,Pocos Restaurantes,2024,4.8,Excelente
+Lee,Bokeelia,9,Rango Medio,2024,4.3,Buena
+Lee,Bonita Springs,41,Rango Medio,2024,4.3,Buena
+Lee,Cape Coral,145,Alta concentración,2024,4.4,Buena
+Lee,Captiva,6,Rango Medio,2024,4.4,Buena
+Lee,Estero,18,Rango Medio,2024,4.1,Buena
+Lee,Fort Myers,289,Alta concentración,2024,4.2,Buena
+Lee,Fort Myers Beach,14,Rango Medio,2024,4.6,Excelente
+Lee,Lehigh Acres,31,Rango Medio,2024,4.4,Buena
+Lee,North Fort Myers,31,Rango Medio,2024,4.3,Buena
+Lee,Sanibel,12,Rango Medio,2024,4.4,Buena
+Lee,St James City,3,Pocos Restaurantes,2024,4.1,Buena
+Lee,fort myers,333,Alta concentración,2023,4.2,Buena
+Lee,fort myers,333,Alta concentración,2024,4.3,Buena
+Leon,Tallahassee,256,Alta concentración,2024,4.2,Buena
+Leon,tallahassee,407,Alta concentración,2023,4.2,Buena
+Leon,tallahassee,407,Alta concentración,2024,4.3,Buena
+Levy,Bronson,2,Pocos Restaurantes,2024,4.8,Excelente
+Levy,Cedar Key,8,Rango Medio,2024,4.2,Buena
+Levy,Chiefland,8,Rango Medio,2024,3.9,Regular
+Levy,Inglis,6,Rango Medio,2024,4.4,Buena
+Levy,Williston,11,Rango Medio,2024,4.0,Buena
+Levy,Yankeetown,3,Pocos Restaurantes,2024,4.6,Excelente
+Levy,bronson,23,Rango Medio,2023,4.3,Buena
+Levy,bronson,23,Rango Medio,2024,4.3,Buena
+Madison,Madison,8,Rango Medio,2024,4.2,Buena
+Madison,lee,2,Pocos Restaurantes,2023,3.6,Regular
+Madison,lee,2,Pocos Restaurantes,2024,4.3,Buena
+Manatee,Anna Maria,6,Rango Medio,2024,4.4,Buena
+Manatee,Bradenton,163,Alta concentración,2024,4.2,Buena
+Manatee,Bradenton Beach,12,Rango Medio,2024,4.2,Buena
+Manatee,Cortez,3,Pocos Restaurantes,2024,4.5,Excelente
+Manatee,Ellenton,15,Rango Medio,2024,3.8,Regular
+Manatee,Holmes Beach,8,Rango Medio,2024,4.6,Excelente
+Manatee,Lakewood Ranch,16,Rango Medio,2024,4.3,Buena
+Manatee,Longboat Key,3,Pocos Restaurantes,2024,4.6,Excelente
+Manatee,Myakka City,3,Pocos Restaurantes,2024,4.6,Excelente
+Manatee,Palmetto,65,Rango Medio,2011,3.8,Regular
+Manatee,Palmetto,65,Rango Medio,2012,3.7,Regular
+Manatee,Palmetto,65,Rango Medio,2013,3.7,Regular
+Manatee,Palmetto,65,Rango Medio,2014,3.7,Regular
+Manatee,Palmetto,65,Rango Medio,2015,3.6,Regular
+Manatee,Palmetto,65,Rango Medio,2016,3.6,Regular
+Manatee,Palmetto,65,Rango Medio,2017,3.6,Regular
+Manatee,Palmetto,65,Rango Medio,2018,3.6,Regular
+Manatee,Palmetto,65,Rango Medio,2019,3.6,Regular
+Manatee,Palmetto,65,Rango Medio,2020,3.7,Regular
+Manatee,Palmetto,65,Rango Medio,2021,3.6,Regular
+Manatee,Palmetto,65,Rango Medio,2022,4.0,Buena
+Manatee,Palmetto,65,Rango Medio,2024,4.1,Buena
+Manatee,Parrish,6,Rango Medio,2024,4.7,Excelente
+Manatee,Terra Ceia,9,Rango Medio,2011,5.0,Excelente
+Manatee,Terra Ceia,9,Rango Medio,2012,5.0,Excelente
+Manatee,Terra Ceia,9,Rango Medio,2013,5.0,Excelente
+Manatee,Terra Ceia,9,Rango Medio,2014,5.0,Excelente
+Manatee,Terra Ceia,9,Rango Medio,2015,5.0,Excelente
+Manatee,Terra Ceia,9,Rango Medio,2016,5.0,Excelente
+Manatee,Terra Ceia,9,Rango Medio,2017,5.0,Excelente
+Manatee,Terra Ceia,9,Rango Medio,2020,5.0,Excelente
+Manatee,Terra Ceia,9,Rango Medio,2021,5.0,Excelente
+Manatee,bradenton,144,Alta concentración,2023,4.4,Buena
+Manatee,bradenton,144,Alta concentración,2024,4.3,Buena
+Marion,Belleview,14,Rango Medio,2024,4.3,Buena
+Marion,Dunnellon,14,Rango Medio,2024,4.4,Buena
+Marion,Fort McCoy,8,Rango Medio,2024,4.2,Buena
+Marion,Ocala,171,Alta concentración,2024,4.3,Buena
+Marion,Ocklawaha,2,Pocos Restaurantes,2024,4.8,Excelente
+Marion,Reddick,2,Pocos Restaurantes,2024,4.3,Buena
+Marion,Salt Springs,2,Pocos Restaurantes,2024,4.6,Excelente
+Marion,Silver Springs,9,Rango Medio,2024,4.5,Excelente
+Marion,Summerfield,18,Rango Medio,2024,4.2,Buena
+Marion,The Villages,17,Rango Medio,2024,4.3,Buena
+Marion,Weirsdale,3,Pocos Restaurantes,2024,3.6,Regular
+Marion,citra,101,Alta concentración,2023,4.2,Buena
+Marion,citra,101,Alta concentración,2024,4.3,Buena
+Marion,the villages,13,Rango Medio,2023,4.4,Buena
+Marion,the villages,13,Rango Medio,2024,4.3,Buena
+Martin,Indiantown,4,Pocos Restaurantes,2024,4.2,Buena
+Martin,Jensen Beach,14,Rango Medio,2024,4.1,Buena
+Martin,Palm City,20,Rango Medio,2024,4.4,Buena
+Martin,Stuart,76,Alta concentración,2024,4.3,Buena
+Martin,hobe sound,105,Alta concentración,2023,4.3,Buena
+Martin,hobe sound,105,Alta concentración,2024,4.3,Buena
+Miami-Dade,Aventura,52,Rango Medio,2024,4.3,Buena
+Miami-Dade,Bay Harbor Islands,3,Pocos Restaurantes,2024,5.0,Excelente
+Miami-Dade,Coral Gables,97,Alta concentración,2024,4.5,Buena
+Miami-Dade,Cutler Bay,25,Rango Medio,2024,4.4,Buena
+Miami-Dade,Doral,182,Alta concentración,2024,4.3,Buena
+Miami-Dade,Florida City,13,Rango Medio,2024,4.0,Buena
+Miami-Dade,Goulds,6,Rango Medio,2024,4.6,Excelente
+Miami-Dade,Hialeah,246,Alta concentración,2024,4.5,Buena
+Miami-Dade,Hialeah Gardens,26,Rango Medio,2024,4.3,Buena
+Miami-Dade,Homestead,92,Alta concentración,2024,4.2,Buena
+Miami-Dade,Kendall,16,Rango Medio,2024,4.3,Buena
+Miami-Dade,Key Biscayne,20,Rango Medio,2024,4.2,Buena
+Miami-Dade,Medley,15,Rango Medio,2024,4.6,Excelente
+Miami-Dade,Miami,1620,Alta concentración,2024,4.3,Buena
+Miami-Dade,Miami Beach,266,Alta concentración,2024,4.1,Buena
+Miami-Dade,Miami Gardens,61,Rango Medio,2024,4.3,Buena
+Miami-Dade,Miami Lakes,27,Rango Medio,2024,4.4,Buena
+Miami-Dade,Miami Shores,7,Rango Medio,2024,4.5,Excelente
+Miami-Dade,Miami Springs,7,Rango Medio,2024,4.3,Buena
+Miami-Dade,Naranja,12,Rango Medio,2024,4.6,Excelente
+Miami-Dade,North Bay Village,13,Rango Medio,2024,4.2,Buena
+Miami-Dade,North Miami,78,Alta concentración,2024,4.3,Buena
+Miami-Dade,North Miami Beach,74,Alta concentración,2024,4.1,Buena
+Miami-Dade,Opa-locka,30,Rango Medio,2024,4.2,Buena
+Miami-Dade,Palmetto Bay,96,Alta concentración,2024,4.4,Buena
+Miami-Dade,Pinecrest,15,Rango Medio,2024,4.1,Buena
+Miami-Dade,Princeton,2,Pocos Restaurantes,2024,4.5,Excelente
+Miami-Dade,South Miami,216,Alta concentración,2024,4.2,Buena
+Miami-Dade,Sunny Isles Beach,28,Rango Medio,2024,4.1,Buena
+Miami-Dade,Surfside,2,Pocos Restaurantes,2024,4.9,Excelente
+Miami-Dade,University Park,15,Rango Medio,2024,4.5,Excelente
+Miami-Dade,Virginia Gardens,8,Rango Medio,2024,4.4,Buena
+Miami-Dade,West Miami,6,Rango Medio,2024,4.5,Excelente
+Miami-Dade,hialeah,1101,Alta concentración,2023,4.3,Buena
+Miami-Dade,hialeah,1101,Alta concentración,2024,4.3,Buena
+Monroe,Big Pine Key,3,Pocos Restaurantes,2024,4.6,Excelente
+Monroe,Duck Key,3,Pocos Restaurantes,2024,3.5,Regular
+Monroe,Islamorada,17,Rango Medio,2024,4.6,Excelente
+Monroe,Key Largo,21,Rango Medio,2024,4.5,Buena
+Monroe,Key West,65,Rango Medio,2024,4.4,Buena
+Monroe,Layton,3,Pocos Restaurantes,2024,4.3,Buena
+Monroe,Marathon,3,Pocos Restaurantes,2024,4.0,Buena
+Monroe,Summerland Key,2,Pocos Restaurantes,2024,3.6,Regular
+Monroe,Tavernier,4,Pocos Restaurantes,2024,4.8,Excelente
+Monroe,islamorada,177,Alta concentración,2023,4.3,Buena
+Monroe,islamorada,177,Alta concentración,2024,4.3,Buena
+Nassau,Callahan,12,Rango Medio,2024,4.3,Buena
+Nassau,Fernandina Beach,54,Rango Medio,2024,4.4,Buena
+Nassau,Hilliard,12,Rango Medio,2024,4.1,Buena
+Nassau,Yulee,8,Rango Medio,2024,3.8,Regular
+Nassau,bryceville,48,Rango Medio,2023,4.1,Buena
+Nassau,bryceville,48,Rango Medio,2024,4.3,Buena
+Okaloosa,Baker,3,Pocos Restaurantes,2024,4.1,Buena
+Okaloosa,Crestview,20,Rango Medio,2024,4.4,Buena
+Okaloosa,Destin,50,Rango Medio,2024,4.2,Buena
+Okaloosa,Fort Walton Beach,91,Alta concentración,2024,4.4,Buena
+Okaloosa,Hurlburt Field,3,Pocos Restaurantes,2024,4.1,Buena
+Okaloosa,Mary Esther,35,Rango Medio,2024,4.4,Buena
+Okaloosa,Niceville,14,Rango Medio,2024,4.2,Buena
+Okaloosa,Shalimar,2,Pocos Restaurantes,2024,4.9,Excelente
+Okaloosa,Valparaiso,7,Rango Medio,2024,3.9,Regular
+Okaloosa,baker,136,Alta concentración,2023,4.4,Buena
+Okaloosa,baker,136,Alta concentración,2024,4.3,Buena
+Okeechobee,Okeechobee,39,Rango Medio,2024,4.1,Buena
+Okeechobee,okeechobee,2,Pocos Restaurantes,2023,4.7,Excelente
+Okeechobee,okeechobee,2,Pocos Restaurantes,2024,4.3,Buena
+Orange,Apopka,30,Rango Medio,2024,4.5,Buena
+Orange,Lake Buena Vista,11,Rango Medio,2024,4.4,Buena
+Orange,Maitland,29,Rango Medio,2024,4.5,Excelente
+Orange,Oakland,3,Pocos Restaurantes,2024,4.1,Buena
+Orange,Ocoee,44,Rango Medio,2024,4.2,Buena
+Orange,Orlando,1083,Alta concentración,2024,4.2,Buena
+Orange,Pine Hills,10,Rango Medio,2024,4.3,Buena
+Orange,Windermere,11,Rango Medio,2024,4.0,Buena
+Orange,Winter Garden,39,Rango Medio,2024,4.1,Buena
+Orange,Winter Park,115,Alta concentración,2024,4.4,Buena
+Orange,apopka,1093,Alta concentración,2023,4.3,Buena
+Orange,apopka,1093,Alta concentración,2024,4.3,Buena
+Osceola,Buena Ventura Lakes,3,Pocos Restaurantes,2024,4.4,Buena
+Osceola,Celebration,6,Rango Medio,2024,4.4,Buena
+Osceola,Harmony,3,Pocos Restaurantes,2024,4.3,Buena
+Osceola,Kissimmee,268,Alta concentración,2024,4.1,Buena
+Osceola,St Cloud,29,Rango Medio,2024,4.3,Buena
+Osceola,kenansville,204,Alta concentración,2023,4.3,Buena
+Osceola,kenansville,204,Alta concentración,2024,4.3,Buena
+Palm Beach,Belle Glade,25,Rango Medio,2024,4.3,Buena
+Palm Beach,Boca Raton,267,Alta concentración,2024,4.3,Buena
+Palm Beach,Boynton Beach,108,Alta concentración,2024,4.2,Buena
+Palm Beach,Delray Beach,102,Alta concentración,2024,4.3,Buena
+Palm Beach,Greenacres,39,Rango Medio,2024,4.2,Buena
+Palm Beach,Juno Beach,4,Pocos Restaurantes,2024,4.8,Excelente
+Palm Beach,Jupiter,62,Rango Medio,2024,4.3,Buena
+Palm Beach,Lake Park,6,Rango Medio,2024,4.4,Buena
+Palm Beach,Lake Worth,104,Alta concentración,2024,4.3,Buena
+Palm Beach,Lantana,27,Rango Medio,2024,4.2,Buena
+Palm Beach,Loxahatchee,9,Rango Medio,2024,3.9,Regular
+Palm Beach,Loxahatchee Groves,3,Pocos Restaurantes,2024,4.0,Buena
+Palm Beach,Manalapan,3,Pocos Restaurantes,2024,4.6,Excelente
+Palm Beach,North Palm Beach,16,Rango Medio,2024,4.2,Buena
+Palm Beach,Pahokee,2,Pocos Restaurantes,2024,4.6,Excelente
+Palm Beach,Palm Beach,15,Rango Medio,2024,4.1,Buena
+Palm Beach,Palm Beach Gardens,53,Rango Medio,2024,4.1,Buena
+Palm Beach,Palm Springs,36,Rango Medio,2024,4.2,Buena
+Palm Beach,Riviera Beach,21,Rango Medio,2024,4.2,Buena
+Palm Beach,Royal Palm Beach,26,Rango Medio,2024,4.5,Buena
+Palm Beach,Singer Island,2,Pocos Restaurantes,2024,4.3,Buena
+Palm Beach,Tequesta,7,Rango Medio,2024,4.6,Excelente
+Palm Beach,Wellington,22,Rango Medio,2024,4.4,Buena
+Palm Beach,West Palm Beach,243,Alta concentración,2024,4.3,Buena
+Palm Beach,west palm beach,384,Alta concentración,2023,4.2,Buena
+Palm Beach,west palm beach,384,Alta concentración,2024,4.3,Buena
+Pasco,Dade City,41,Rango Medio,2010,4.5,Excelente
+Pasco,Dade City,41,Rango Medio,2011,4.0,Buena
+Pasco,Dade City,41,Rango Medio,2012,4.0,Buena
+Pasco,Dade City,41,Rango Medio,2013,4.0,Buena
+Pasco,Dade City,41,Rango Medio,2014,4.0,Buena
+Pasco,Dade City,41,Rango Medio,2015,4.0,Buena
+Pasco,Dade City,41,Rango Medio,2016,4.0,Buena
+Pasco,Dade City,41,Rango Medio,2017,3.5,Regular
+Pasco,Dade City,41,Rango Medio,2018,3.5,Regular
+Pasco,Dade City,41,Rango Medio,2019,3.5,Regular
+Pasco,Dade City,41,Rango Medio,2020,4.0,Buena
+Pasco,Dade City,41,Rango Medio,2021,4.0,Buena
+Pasco,Dade City,41,Rango Medio,2022,3.5,Regular
+Pasco,Dade City,41,Rango Medio,2024,4.6,Excelente
+Pasco,HUdson,2,Pocos Restaurantes,2017,3.5,Regular
+Pasco,HUdson,2,Pocos Restaurantes,2018,3.5,Regular
+Pasco,Holiday,199,Alta concentración,2010,4.0,Buena
+Pasco,Holiday,199,Alta concentración,2011,3.7,Regular
+Pasco,Holiday,199,Alta concentración,2012,3.5,Regular
+Pasco,Holiday,199,Alta concentración,2013,3.5,Regular
+Pasco,Holiday,199,Alta concentración,2014,3.7,Regular
+Pasco,Holiday,199,Alta concentración,2015,3.7,Regular
+Pasco,Holiday,199,Alta concentración,2016,3.7,Regular
+Pasco,Holiday,199,Alta concentración,2017,3.5,Regular
+Pasco,Holiday,199,Alta concentración,2018,3.6,Regular
+Pasco,Holiday,199,Alta concentración,2019,3.8,Regular
+Pasco,Holiday,199,Alta concentración,2020,3.8,Regular
+Pasco,Holiday,199,Alta concentración,2021,3.7,Regular
+Pasco,Holiday,199,Alta concentración,2022,3.9,Regular
+Pasco,Holiday,199,Alta concentración,2024,5.0,Excelente
+Pasco,Hudson,394,Alta concentración,2010,3.4,Regular
+Pasco,Hudson,394,Alta concentración,2011,3.5,Regular
+Pasco,Hudson,394,Alta concentración,2012,3.5,Regular
+Pasco,Hudson,394,Alta concentración,2013,3.5,Regular
+Pasco,Hudson,394,Alta concentración,2014,3.5,Regular
+Pasco,Hudson,394,Alta concentración,2015,3.5,Regular
+Pasco,Hudson,394,Alta concentración,2016,3.6,Regular
+Pasco,Hudson,394,Alta concentración,2017,3.6,Regular
+Pasco,Hudson,394,Alta concentración,2018,3.7,Regular
+Pasco,Hudson,394,Alta concentración,2019,3.7,Regular
+Pasco,Hudson,394,Alta concentración,2020,3.6,Regular
+Pasco,Hudson,394,Alta concentración,2021,3.8,Regular
+Pasco,Hudson,394,Alta concentración,2022,3.8,Regular
+Pasco,Hudson,394,Alta concentración,2024,4.2,Buena
+Pasco,Land O' Lakes,266,Alta concentración,2010,3.7,Regular
+Pasco,Land O' Lakes,266,Alta concentración,2011,3.4,Regular
+Pasco,Land O' Lakes,266,Alta concentración,2012,3.3,Regular
+Pasco,Land O' Lakes,266,Alta concentración,2013,3.4,Regular
+Pasco,Land O' Lakes,266,Alta concentración,2014,3.6,Regular
+Pasco,Land O' Lakes,266,Alta concentración,2015,3.8,Regular
+Pasco,Land O' Lakes,266,Alta concentración,2016,3.8,Regular
+Pasco,Land O' Lakes,266,Alta concentración,2017,3.8,Regular
+Pasco,Land O' Lakes,266,Alta concentración,2018,3.8,Regular
+Pasco,Land O' Lakes,266,Alta concentración,2019,3.9,Regular
+Pasco,Land O' Lakes,266,Alta concentración,2020,3.8,Regular
+Pasco,Land O' Lakes,266,Alta concentración,2021,3.8,Regular
+Pasco,Land O' Lakes,266,Alta concentración,2022,3.9,Regular
+Pasco,Land O' Lakes,266,Alta concentración,2024,4.3,Buena
+Pasco,"Land o' Lakes,",4,Pocos Restaurantes,2016,3.0,Regular
+Pasco,"Land o' Lakes,",4,Pocos Restaurantes,2017,3.0,Regular
+Pasco,"Land o' Lakes,",4,Pocos Restaurantes,2018,3.0,Regular
+Pasco,"Land o' Lakes,",4,Pocos Restaurantes,2019,3.0,Regular
+Pasco,NEW PORT RICHEY,9,Rango Medio,2013,2.5,Regular
+Pasco,NEW PORT RICHEY,9,Rango Medio,2014,2.5,Regular
+Pasco,NEW PORT RICHEY,9,Rango Medio,2015,2.5,Regular
+Pasco,NEW PORT RICHEY,9,Rango Medio,2016,2.5,Regular
+Pasco,NEW PORT RICHEY,9,Rango Medio,2017,2.5,Regular
+Pasco,NEW PORT RICHEY,9,Rango Medio,2018,2.5,Regular
+Pasco,NEW PORT RICHEY,9,Rango Medio,2019,2.5,Regular
+Pasco,NEW PORT RICHEY,9,Rango Medio,2020,2.5,Regular
+Pasco,NEW PORT RICHEY,9,Rango Medio,2021,2.5,Regular
+Pasco,New Port Richey,1064,Alta concentración,2010,3.4,Regular
+Pasco,New Port Richey,1064,Alta concentración,2011,3.5,Regular
+Pasco,New Port Richey,1064,Alta concentración,2012,3.5,Regular
+Pasco,New Port Richey,1064,Alta concentración,2013,3.6,Regular
+Pasco,New Port Richey,1064,Alta concentración,2014,3.6,Regular
+Pasco,New Port Richey,1064,Alta concentración,2015,3.7,Regular
+Pasco,New Port Richey,1064,Alta concentración,2016,3.7,Regular
+Pasco,New Port Richey,1064,Alta concentración,2017,3.7,Regular
+Pasco,New Port Richey,1064,Alta concentración,2018,3.8,Regular
+Pasco,New Port Richey,1064,Alta concentración,2019,3.8,Regular
+Pasco,New Port Richey,1064,Alta concentración,2020,3.8,Regular
+Pasco,New Port Richey,1064,Alta concentración,2021,3.9,Regular
+Pasco,New Port Richey,1064,Alta concentración,2022,3.9,Regular
+Pasco,New Port Richey,1064,Alta concentración,2024,4.5,Excelente
+Pasco,Odessa,137,Alta concentración,2010,2.5,Regular
+Pasco,Odessa,137,Alta concentración,2011,2.9,Regular
+Pasco,Odessa,137,Alta concentración,2012,3.2,Regular
+Pasco,Odessa,137,Alta concentración,2013,3.5,Regular
+Pasco,Odessa,137,Alta concentración,2014,3.5,Regular
+Pasco,Odessa,137,Alta concentración,2015,3.7,Regular
+Pasco,Odessa,137,Alta concentración,2016,4.2,Buena
+Pasco,Odessa,137,Alta concentración,2017,4.1,Buena
+Pasco,Odessa,137,Alta concentración,2018,4.2,Buena
+Pasco,Odessa,137,Alta concentración,2019,4.3,Buena
+Pasco,Odessa,137,Alta concentración,2020,4.3,Buena
+Pasco,Odessa,137,Alta concentración,2021,4.2,Buena
+Pasco,Odessa,137,Alta concentración,2022,4.2,Buena
+Pasco,Odessa,137,Alta concentración,2024,3.7,Regular
+Pasco,Port Richey,475,Alta concentración,2010,3.3,Regular
+Pasco,Port Richey,475,Alta concentración,2011,3.3,Regular
+Pasco,Port Richey,475,Alta concentración,2012,3.3,Regular
+Pasco,Port Richey,475,Alta concentración,2013,3.5,Regular
+Pasco,Port Richey,475,Alta concentración,2014,3.5,Regular
+Pasco,Port Richey,475,Alta concentración,2015,3.6,Regular
+Pasco,Port Richey,475,Alta concentración,2016,3.6,Regular
+Pasco,Port Richey,475,Alta concentración,2017,3.6,Regular
+Pasco,Port Richey,475,Alta concentración,2018,3.7,Regular
+Pasco,Port Richey,475,Alta concentración,2019,3.7,Regular
+Pasco,Port Richey,475,Alta concentración,2020,3.7,Regular
+Pasco,Port Richey,475,Alta concentración,2021,3.8,Regular
+Pasco,Port Richey,475,Alta concentración,2022,3.6,Regular
+Pasco,Port Richey,475,Alta concentración,2024,4.3,Buena
+Pasco,Saint Leo,7,Rango Medio,2013,3.5,Regular
+Pasco,Saint Leo,7,Rango Medio,2014,3.5,Regular
+Pasco,Saint Leo,7,Rango Medio,2015,3.5,Regular
+Pasco,Saint Leo,7,Rango Medio,2016,3.5,Regular
+Pasco,Saint Leo,7,Rango Medio,2017,3.5,Regular
+Pasco,Saint Leo,7,Rango Medio,2018,3.5,Regular
+Pasco,Saint Leo,7,Rango Medio,2019,3.5,Regular
+Pasco,San Antonio,48,Rango Medio,2010,4.5,Excelente
+Pasco,San Antonio,48,Rango Medio,2011,4.5,Excelente
+Pasco,San Antonio,48,Rango Medio,2012,4.5,Excelente
+Pasco,San Antonio,48,Rango Medio,2013,4.1,Buena
+Pasco,San Antonio,48,Rango Medio,2014,3.9,Regular
+Pasco,San Antonio,48,Rango Medio,2015,4.1,Buena
+Pasco,San Antonio,48,Rango Medio,2016,3.9,Regular
+Pasco,San Antonio,48,Rango Medio,2017,4.1,Buena
+Pasco,San Antonio,48,Rango Medio,2018,4.1,Buena
+Pasco,San Antonio,48,Rango Medio,2019,4.1,Buena
+Pasco,San Antonio,48,Rango Medio,2020,4.5,Excelente
+Pasco,San Antonio,48,Rango Medio,2021,4.2,Buena
+Pasco,San Antonio,48,Rango Medio,2022,4.2,Buena
+Pasco,San Antonio,48,Rango Medio,2024,4.5,Excelente
+Pasco,Trinity,138,Alta concentración,2010,3.6,Regular
+Pasco,Trinity,138,Alta concentración,2011,3.7,Regular
+Pasco,Trinity,138,Alta concentración,2012,3.7,Regular
+Pasco,Trinity,138,Alta concentración,2013,3.6,Regular
+Pasco,Trinity,138,Alta concentración,2014,3.8,Regular
+Pasco,Trinity,138,Alta concentración,2015,3.8,Regular
+Pasco,Trinity,138,Alta concentración,2016,3.7,Regular
+Pasco,Trinity,138,Alta concentración,2017,4.0,Regular
+Pasco,Trinity,138,Alta concentración,2018,4.0,Buena
+Pasco,Trinity,138,Alta concentración,2019,4.0,Buena
+Pasco,Trinity,138,Alta concentración,2020,4.0,Regular
+Pasco,Trinity,138,Alta concentración,2021,4.0,Buena
+Pasco,Trinity,138,Alta concentración,2022,4.1,Buena
+Pasco,Trinity,138,Alta concentración,2024,4.4,Buena
+Pasco,Wesley Chapel,674,Alta concentración,2010,3.4,Regular
+Pasco,Wesley Chapel,674,Alta concentración,2011,3.4,Regular
+Pasco,Wesley Chapel,674,Alta concentración,2012,3.3,Regular
+Pasco,Wesley Chapel,674,Alta concentración,2013,3.4,Regular
+Pasco,Wesley Chapel,674,Alta concentración,2014,3.4,Regular
+Pasco,Wesley Chapel,674,Alta concentración,2015,3.5,Regular
+Pasco,Wesley Chapel,674,Alta concentración,2016,3.7,Regular
+Pasco,Wesley Chapel,674,Alta concentración,2017,3.7,Regular
+Pasco,Wesley Chapel,674,Alta concentración,2018,3.8,Regular
+Pasco,Wesley Chapel,674,Alta concentración,2019,3.7,Regular
+Pasco,Wesley Chapel,674,Alta concentración,2020,3.8,Regular
+Pasco,Wesley Chapel,674,Alta concentración,2021,3.8,Regular
+Pasco,Wesley Chapel,674,Alta concentración,2022,3.8,Regular
+Pasco,Wesley Chapel,674,Alta concentración,2024,4.2,Buena
+Pasco,Wesley chapel,2,Pocos Restaurantes,2015,3.5,Regular
+Pasco,Wesley chapel,2,Pocos Restaurantes,2016,3.5,Regular
+Pasco,Zephyrhills,273,Alta concentración,2010,4.2,Buena
+Pasco,Zephyrhills,273,Alta concentración,2011,3.6,Regular
+Pasco,Zephyrhills,273,Alta concentración,2012,3.8,Regular
+Pasco,Zephyrhills,273,Alta concentración,2013,3.6,Regular
+Pasco,Zephyrhills,273,Alta concentración,2014,3.7,Regular
+Pasco,Zephyrhills,273,Alta concentración,2015,3.8,Regular
+Pasco,Zephyrhills,273,Alta concentración,2016,3.8,Regular
+Pasco,Zephyrhills,273,Alta concentración,2017,3.8,Regular
+Pasco,Zephyrhills,273,Alta concentración,2018,3.9,Regular
+Pasco,Zephyrhills,273,Alta concentración,2019,3.8,Regular
+Pasco,Zephyrhills,273,Alta concentración,2020,4.0,Buena
+Pasco,Zephyrhills,273,Alta concentración,2021,4.1,Buena
+Pasco,Zephyrhills,273,Alta concentración,2022,4.1,Buena
+Pasco,Zephyrhills,273,Alta concentración,2024,4.2,Buena
+Pasco,dade city,217,Alta concentración,2023,4.3,Buena
+Pasco,dade city,217,Alta concentración,2024,4.3,Buena
+Pinellas,Belleair Bluffs,100,Alta concentración,2010,3.8,Regular
+Pinellas,Belleair Bluffs,100,Alta concentración,2011,3.8,Regular
+Pinellas,Belleair Bluffs,100,Alta concentración,2012,3.8,Regular
+Pinellas,Belleair Bluffs,100,Alta concentración,2013,4.1,Buena
+Pinellas,Belleair Bluffs,100,Alta concentración,2014,4.1,Buena
+Pinellas,Belleair Bluffs,100,Alta concentración,2015,4.1,Buena
+Pinellas,Belleair Bluffs,100,Alta concentración,2016,4.2,Buena
+Pinellas,Belleair Bluffs,100,Alta concentración,2017,4.2,Buena
+Pinellas,Belleair Bluffs,100,Alta concentración,2018,4.1,Buena
+Pinellas,Belleair Bluffs,100,Alta concentración,2019,4.2,Buena
+Pinellas,Belleair Bluffs,100,Alta concentración,2020,4.0,Buena
+Pinellas,Belleair Bluffs,100,Alta concentración,2021,4.2,Buena
+Pinellas,Belleair Bluffs,100,Alta concentración,2022,4.0,Buena
+Pinellas,Clearwater,3342,Alta concentración,2010,3.6,Regular
+Pinellas,Clearwater,3342,Alta concentración,2011,3.7,Regular
+Pinellas,Clearwater,3342,Alta concentración,2012,3.7,Regular
+Pinellas,Clearwater,3342,Alta concentración,2013,3.7,Regular
+Pinellas,Clearwater,3342,Alta concentración,2014,3.8,Regular
+Pinellas,Clearwater,3342,Alta concentración,2015,3.8,Regular
+Pinellas,Clearwater,3342,Alta concentración,2016,3.9,Regular
+Pinellas,Clearwater,3342,Alta concentración,2017,3.9,Regular
+Pinellas,Clearwater,3342,Alta concentración,2018,4.0,Regular
+Pinellas,Clearwater,3342,Alta concentración,2019,4.0,Regular
+Pinellas,Clearwater,3342,Alta concentración,2020,4.0,Buena
+Pinellas,Clearwater,3342,Alta concentración,2021,4.0,Buena
+Pinellas,Clearwater,3342,Alta concentración,2022,4.0,Buena
+Pinellas,Clearwater,3342,Alta concentración,2024,4.3,Buena
+Pinellas,Clearwater Beach,602,Alta concentración,2010,3.5,Regular
+Pinellas,Clearwater Beach,602,Alta concentración,2011,3.6,Regular
+Pinellas,Clearwater Beach,602,Alta concentración,2012,3.4,Regular
+Pinellas,Clearwater Beach,602,Alta concentración,2013,3.5,Regular
+Pinellas,Clearwater Beach,602,Alta concentración,2014,3.5,Regular
+Pinellas,Clearwater Beach,602,Alta concentración,2015,3.6,Regular
+Pinellas,Clearwater Beach,602,Alta concentración,2016,3.6,Regular
+Pinellas,Clearwater Beach,602,Alta concentración,2017,3.7,Regular
+Pinellas,Clearwater Beach,602,Alta concentración,2018,3.7,Regular
+Pinellas,Clearwater Beach,602,Alta concentración,2019,3.8,Regular
+Pinellas,Clearwater Beach,602,Alta concentración,2020,3.8,Regular
+Pinellas,Clearwater Beach,602,Alta concentración,2021,3.8,Regular
+Pinellas,Clearwater Beach,602,Alta concentración,2022,4.0,Regular
+Pinellas,Clearwater Beach,602,Alta concentración,2024,4.3,Buena
+Pinellas,Dunedin,1188,Alta concentración,2010,3.7,Regular
+Pinellas,Dunedin,1188,Alta concentración,2011,3.8,Regular
+Pinellas,Dunedin,1188,Alta concentración,2012,3.7,Regular
+Pinellas,Dunedin,1188,Alta concentración,2013,3.7,Regular
+Pinellas,Dunedin,1188,Alta concentración,2014,3.8,Regular
+Pinellas,Dunedin,1188,Alta concentración,2015,3.8,Regular
+Pinellas,Dunedin,1188,Alta concentración,2016,3.9,Regular
+Pinellas,Dunedin,1188,Alta concentración,2017,3.9,Regular
+Pinellas,Dunedin,1188,Alta concentración,2018,4.0,Regular
+Pinellas,Dunedin,1188,Alta concentración,2019,4.1,Buena
+Pinellas,Dunedin,1188,Alta concentración,2020,4.1,Buena
+Pinellas,Dunedin,1188,Alta concentración,2021,4.1,Buena
+Pinellas,Dunedin,1188,Alta concentración,2022,4.2,Buena
+Pinellas,Dunedin,1188,Alta concentración,2024,4.4,Buena
+Pinellas,Gulfport,274,Alta concentración,2010,3.8,Regular
+Pinellas,Gulfport,274,Alta concentración,2011,3.8,Regular
+Pinellas,Gulfport,274,Alta concentración,2012,3.9,Regular
+Pinellas,Gulfport,274,Alta concentración,2013,3.8,Regular
+Pinellas,Gulfport,274,Alta concentración,2014,3.9,Regular
+Pinellas,Gulfport,274,Alta concentración,2015,3.9,Regular
+Pinellas,Gulfport,274,Alta concentración,2016,4.0,Regular
+Pinellas,Gulfport,274,Alta concentración,2017,3.9,Regular
+Pinellas,Gulfport,274,Alta concentración,2018,4.0,Buena
+Pinellas,Gulfport,274,Alta concentración,2019,4.0,Buena
+Pinellas,Gulfport,274,Alta concentración,2020,4.2,Buena
+Pinellas,Gulfport,274,Alta concentración,2021,4.2,Buena
+Pinellas,Gulfport,274,Alta concentración,2022,4.3,Buena
+Pinellas,Gulfport,274,Alta concentración,2024,4.6,Excelente
+Pinellas,Indian Rocks Beach,341,Alta concentración,2010,3.7,Regular
+Pinellas,Indian Rocks Beach,341,Alta concentración,2011,3.7,Regular
+Pinellas,Indian Rocks Beach,341,Alta concentración,2012,3.7,Regular
+Pinellas,Indian Rocks Beach,341,Alta concentración,2013,3.8,Regular
+Pinellas,Indian Rocks Beach,341,Alta concentración,2014,3.8,Regular
+Pinellas,Indian Rocks Beach,341,Alta concentración,2015,3.9,Regular
+Pinellas,Indian Rocks Beach,341,Alta concentración,2016,3.9,Regular
+Pinellas,Indian Rocks Beach,341,Alta concentración,2017,3.8,Regular
+Pinellas,Indian Rocks Beach,341,Alta concentración,2018,3.9,Regular
+Pinellas,Indian Rocks Beach,341,Alta concentración,2019,3.9,Regular
+Pinellas,Indian Rocks Beach,341,Alta concentración,2020,3.9,Regular
+Pinellas,Indian Rocks Beach,341,Alta concentración,2021,4.0,Buena
+Pinellas,Indian Rocks Beach,341,Alta concentración,2022,4.0,Regular
+Pinellas,Indian Rocks Beach,341,Alta concentración,2024,4.6,Excelente
+Pinellas,Indian Rocks Beach. ,3,Pocos Restaurantes,2017,4.5,Excelente
+Pinellas,Indian Rocks Beach. ,3,Pocos Restaurantes,2018,4.5,Excelente
+Pinellas,Indian Rocks Beach. ,3,Pocos Restaurantes,2019,4.5,Excelente
+Pinellas,Indian Shores,70,Alta concentración,2010,3.7,Regular
+Pinellas,Indian Shores,70,Alta concentración,2011,3.9,Regular
+Pinellas,Indian Shores,70,Alta concentración,2012,3.9,Regular
+Pinellas,Indian Shores,70,Alta concentración,2013,4.0,Buena
+Pinellas,Indian Shores,70,Alta concentración,2014,3.9,Regular
+Pinellas,Indian Shores,70,Alta concentración,2015,4.0,Buena
+Pinellas,Indian Shores,70,Alta concentración,2016,4.0,Buena
+Pinellas,Indian Shores,70,Alta concentración,2017,3.9,Regular
+Pinellas,Indian Shores,70,Alta concentración,2018,4.0,Buena
+Pinellas,Indian Shores,70,Alta concentración,2019,4.2,Buena
+Pinellas,Indian Shores,70,Alta concentración,2020,4.2,Buena
+Pinellas,Indian Shores,70,Alta concentración,2021,4.1,Buena
+Pinellas,Indian Shores,70,Alta concentración,2022,4.0,Buena
+Pinellas,Kenneth City,98,Alta concentración,2010,4.0,Buena
+Pinellas,Kenneth City,98,Alta concentración,2011,3.8,Regular
+Pinellas,Kenneth City,98,Alta concentración,2012,4.1,Buena
+Pinellas,Kenneth City,98,Alta concentración,2013,3.8,Regular
+Pinellas,Kenneth City,98,Alta concentración,2014,3.9,Regular
+Pinellas,Kenneth City,98,Alta concentración,2015,4.1,Buena
+Pinellas,Kenneth City,98,Alta concentración,2016,3.9,Regular
+Pinellas,Kenneth City,98,Alta concentración,2017,4.0,Buena
+Pinellas,Kenneth City,98,Alta concentración,2018,4.0,Buena
+Pinellas,Kenneth City,98,Alta concentración,2019,4.0,Buena
+Pinellas,Kenneth City,98,Alta concentración,2020,4.0,Buena
+Pinellas,Kenneth City,98,Alta concentración,2021,4.0,Buena
+Pinellas,Kenneth City,98,Alta concentración,2022,4.0,Buena
+Pinellas,Kenneth City,98,Alta concentración,2024,4.5,Buena
+Pinellas,LARGO,1,Pocos Restaurantes,2017,4.5,Excelente
+Pinellas,Largo,1578,Alta concentración,2010,3.6,Regular
+Pinellas,Largo,1578,Alta concentración,2011,3.6,Regular
+Pinellas,Largo,1578,Alta concentración,2012,3.7,Regular
+Pinellas,Largo,1578,Alta concentración,2013,3.7,Regular
+Pinellas,Largo,1578,Alta concentración,2014,3.7,Regular
+Pinellas,Largo,1578,Alta concentración,2015,3.7,Regular
+Pinellas,Largo,1578,Alta concentración,2016,3.8,Regular
+Pinellas,Largo,1578,Alta concentración,2017,3.8,Regular
+Pinellas,Largo,1578,Alta concentración,2018,3.8,Regular
+Pinellas,Largo,1578,Alta concentración,2019,3.9,Regular
+Pinellas,Largo,1578,Alta concentración,2020,3.9,Regular
+Pinellas,Largo,1578,Alta concentración,2021,4.0,Regular
+Pinellas,Largo,1578,Alta concentración,2022,4.1,Buena
+Pinellas,Largo,1578,Alta concentración,2024,4.1,Buena
+Pinellas,Madeira Beach,436,Alta concentración,2010,3.6,Regular
+Pinellas,Madeira Beach,436,Alta concentración,2011,3.6,Regular
+Pinellas,Madeira Beach,436,Alta concentración,2012,3.6,Regular
+Pinellas,Madeira Beach,436,Alta concentración,2013,3.6,Regular
+Pinellas,Madeira Beach,436,Alta concentración,2014,3.7,Regular
+Pinellas,Madeira Beach,436,Alta concentración,2015,3.8,Regular
+Pinellas,Madeira Beach,436,Alta concentración,2016,3.7,Regular
+Pinellas,Madeira Beach,436,Alta concentración,2017,3.8,Regular
+Pinellas,Madeira Beach,436,Alta concentración,2018,3.9,Regular
+Pinellas,Madeira Beach,436,Alta concentración,2019,3.9,Regular
+Pinellas,Madeira Beach,436,Alta concentración,2020,3.9,Regular
+Pinellas,Madeira Beach,436,Alta concentración,2021,3.9,Regular
+Pinellas,Madeira Beach,436,Alta concentración,2022,3.8,Regular
+Pinellas,Madeira Beach,436,Alta concentración,2024,4.5,Buena
+Pinellas,North Redington Beach,68,Rango Medio,2010,4.2,Buena
+Pinellas,North Redington Beach,68,Rango Medio,2011,4.1,Buena
+Pinellas,North Redington Beach,68,Rango Medio,2012,4.1,Buena
+Pinellas,North Redington Beach,68,Rango Medio,2013,4.1,Buena
+Pinellas,North Redington Beach,68,Rango Medio,2014,4.2,Buena
+Pinellas,North Redington Beach,68,Rango Medio,2015,4.2,Buena
+Pinellas,North Redington Beach,68,Rango Medio,2016,4.1,Buena
+Pinellas,North Redington Beach,68,Rango Medio,2017,4.2,Buena
+Pinellas,North Redington Beach,68,Rango Medio,2018,4.1,Buena
+Pinellas,North Redington Beach,68,Rango Medio,2019,4.0,Buena
+Pinellas,North Redington Beach,68,Rango Medio,2020,4.1,Buena
+Pinellas,North Redington Beach,68,Rango Medio,2021,4.1,Buena
+Pinellas,North Redington Beach,68,Rango Medio,2022,4.5,Excelente
+Pinellas,North Redington Beach,68,Rango Medio,2024,4.2,Buena
+Pinellas,Oldsmar,464,Alta concentración,2010,3.3,Regular
+Pinellas,Oldsmar,464,Alta concentración,2011,3.3,Regular
+Pinellas,Oldsmar,464,Alta concentración,2012,3.5,Regular
+Pinellas,Oldsmar,464,Alta concentración,2013,3.5,Regular
+Pinellas,Oldsmar,464,Alta concentración,2014,3.5,Regular
+Pinellas,Oldsmar,464,Alta concentración,2015,3.6,Regular
+Pinellas,Oldsmar,464,Alta concentración,2016,3.6,Regular
+Pinellas,Oldsmar,464,Alta concentración,2017,3.7,Regular
+Pinellas,Oldsmar,464,Alta concentración,2018,3.6,Regular
+Pinellas,Oldsmar,464,Alta concentración,2019,3.7,Regular
+Pinellas,Oldsmar,464,Alta concentración,2020,3.7,Regular
+Pinellas,Oldsmar,464,Alta concentración,2021,3.8,Regular
+Pinellas,Oldsmar,464,Alta concentración,2022,3.7,Regular
+Pinellas,Oldsmar,464,Alta concentración,2024,4.2,Buena
+Pinellas,Palm Harbor,1082,Alta concentración,2010,3.6,Regular
+Pinellas,Palm Harbor,1082,Alta concentración,2011,3.6,Regular
+Pinellas,Palm Harbor,1082,Alta concentración,2012,3.7,Regular
+Pinellas,Palm Harbor,1082,Alta concentración,2013,3.7,Regular
+Pinellas,Palm Harbor,1082,Alta concentración,2014,3.8,Regular
+Pinellas,Palm Harbor,1082,Alta concentración,2015,3.8,Regular
+Pinellas,Palm Harbor,1082,Alta concentración,2016,3.8,Regular
+Pinellas,Palm Harbor,1082,Alta concentración,2017,3.8,Regular
+Pinellas,Palm Harbor,1082,Alta concentración,2018,3.8,Regular
+Pinellas,Palm Harbor,1082,Alta concentración,2019,3.9,Regular
+Pinellas,Palm Harbor,1082,Alta concentración,2020,4.0,Regular
+Pinellas,Palm Harbor,1082,Alta concentración,2021,4.0,Buena
+Pinellas,Palm Harbor,1082,Alta concentración,2022,4.0,Buena
+Pinellas,Palm Harbor,1082,Alta concentración,2024,4.3,Buena
+Pinellas,Palm harbor,9,Rango Medio,2014,4.5,Excelente
+Pinellas,Palm harbor,9,Rango Medio,2015,4.5,Excelente
+Pinellas,Palm harbor,9,Rango Medio,2016,4.5,Excelente
+Pinellas,Palm harbor,9,Rango Medio,2017,4.5,Excelente
+Pinellas,Palm harbor,9,Rango Medio,2018,4.5,Excelente
+Pinellas,Palm harbor,9,Rango Medio,2019,4.5,Excelente
+Pinellas,Palm harbor,9,Rango Medio,2020,4.5,Excelente
+Pinellas,Palm harbor,9,Rango Medio,2021,4.5,Excelente
+Pinellas,Palm harbor,9,Rango Medio,2022,4.5,Excelente
+Pinellas,Pinellas Park,808,Alta concentración,2010,3.5,Regular
+Pinellas,Pinellas Park,808,Alta concentración,2011,3.6,Regular
+Pinellas,Pinellas Park,808,Alta concentración,2012,3.6,Regular
+Pinellas,Pinellas Park,808,Alta concentración,2013,3.7,Regular
+Pinellas,Pinellas Park,808,Alta concentración,2014,3.7,Regular
+Pinellas,Pinellas Park,808,Alta concentración,2015,3.8,Regular
+Pinellas,Pinellas Park,808,Alta concentración,2016,3.9,Regular
+Pinellas,Pinellas Park,808,Alta concentración,2017,3.9,Regular
+Pinellas,Pinellas Park,808,Alta concentración,2018,3.9,Regular
+Pinellas,Pinellas Park,808,Alta concentración,2019,3.9,Regular
+Pinellas,Pinellas Park,808,Alta concentración,2020,4.0,Regular
+Pinellas,Pinellas Park,808,Alta concentración,2021,4.0,Buena
+Pinellas,Pinellas Park,808,Alta concentración,2022,4.0,Buena
+Pinellas,Pinellas Park,808,Alta concentración,2024,4.4,Buena
+Pinellas,Pinellas park,1,Pocos Restaurantes,2015,4.0,Buena
+Pinellas,Redington Shores,96,Alta concentración,2010,3.8,Regular
+Pinellas,Redington Shores,96,Alta concentración,2011,3.8,Regular
+Pinellas,Redington Shores,96,Alta concentración,2012,3.8,Regular
+Pinellas,Redington Shores,96,Alta concentración,2013,3.8,Regular
+Pinellas,Redington Shores,96,Alta concentración,2014,4.0,Buena
+Pinellas,Redington Shores,96,Alta concentración,2015,3.9,Regular
+Pinellas,Redington Shores,96,Alta concentración,2016,3.9,Regular
+Pinellas,Redington Shores,96,Alta concentración,2017,3.9,Regular
+Pinellas,Redington Shores,96,Alta concentración,2018,4.0,Buena
+Pinellas,Redington Shores,96,Alta concentración,2019,4.1,Buena
+Pinellas,Redington Shores,96,Alta concentración,2020,4.1,Buena
+Pinellas,Redington Shores,96,Alta concentración,2021,4.1,Buena
+Pinellas,Redington Shores,96,Alta concentración,2022,3.9,Regular
+Pinellas,Redington Shores,96,Alta concentración,2024,4.5,Excelente
+Pinellas,Safety Harbor,350,Alta concentración,2010,3.4,Regular
+Pinellas,Safety Harbor,350,Alta concentración,2011,3.5,Regular
+Pinellas,Safety Harbor,350,Alta concentración,2012,3.8,Regular
+Pinellas,Safety Harbor,350,Alta concentración,2013,3.8,Regular
+Pinellas,Safety Harbor,350,Alta concentración,2014,3.8,Regular
+Pinellas,Safety Harbor,350,Alta concentración,2015,3.8,Regular
+Pinellas,Safety Harbor,350,Alta concentración,2016,4.0,Regular
+Pinellas,Safety Harbor,350,Alta concentración,2017,4.0,Regular
+Pinellas,Safety Harbor,350,Alta concentración,2018,4.0,Regular
+Pinellas,Safety Harbor,350,Alta concentración,2019,4.1,Buena
+Pinellas,Safety Harbor,350,Alta concentración,2020,4.0,Buena
+Pinellas,Safety Harbor,350,Alta concentración,2021,4.1,Buena
+Pinellas,Safety Harbor,350,Alta concentración,2022,4.0,Buena
+Pinellas,Safety Harbor,350,Alta concentración,2024,4.5,Excelente
+Pinellas,Seminole,534,Alta concentración,2010,3.6,Regular
+Pinellas,Seminole,534,Alta concentración,2011,3.7,Regular
+Pinellas,Seminole,534,Alta concentración,2012,3.6,Regular
+Pinellas,Seminole,534,Alta concentración,2013,3.7,Regular
+Pinellas,Seminole,534,Alta concentración,2014,3.8,Regular
+Pinellas,Seminole,534,Alta concentración,2015,3.8,Regular
+Pinellas,Seminole,534,Alta concentración,2016,3.9,Regular
+Pinellas,Seminole,534,Alta concentración,2017,3.9,Regular
+Pinellas,Seminole,534,Alta concentración,2018,4.0,Regular
+Pinellas,Seminole,534,Alta concentración,2019,3.9,Regular
+Pinellas,Seminole,534,Alta concentración,2020,3.9,Regular
+Pinellas,Seminole,534,Alta concentración,2021,4.0,Buena
+Pinellas,Seminole,534,Alta concentración,2022,4.2,Buena
+Pinellas,Seminole,534,Alta concentración,2024,4.3,Buena
+Pinellas,South Pasadena,110,Alta concentración,2010,4.0,Buena
+Pinellas,South Pasadena,110,Alta concentración,2011,3.8,Regular
+Pinellas,South Pasadena,110,Alta concentración,2012,3.7,Regular
+Pinellas,South Pasadena,110,Alta concentración,2013,3.7,Regular
+Pinellas,South Pasadena,110,Alta concentración,2014,3.6,Regular
+Pinellas,South Pasadena,110,Alta concentración,2015,3.6,Regular
+Pinellas,South Pasadena,110,Alta concentración,2016,3.8,Regular
+Pinellas,South Pasadena,110,Alta concentración,2017,3.7,Regular
+Pinellas,South Pasadena,110,Alta concentración,2018,3.7,Regular
+Pinellas,South Pasadena,110,Alta concentración,2019,3.6,Regular
+Pinellas,South Pasadena,110,Alta concentración,2020,3.8,Regular
+Pinellas,South Pasadena,110,Alta concentración,2021,3.8,Regular
+Pinellas,South Pasadena,110,Alta concentración,2022,4.3,Buena
+Pinellas,South Pasadena,110,Alta concentración,2024,3.7,Regular
+Pinellas,St Pete Beach,374,Alta concentración,2010,3.5,Regular
+Pinellas,St Pete Beach,374,Alta concentración,2011,3.6,Regular
+Pinellas,St Pete Beach,374,Alta concentración,2012,3.6,Regular
+Pinellas,St Pete Beach,374,Alta concentración,2013,3.6,Regular
+Pinellas,St Pete Beach,374,Alta concentración,2014,3.7,Regular
+Pinellas,St Pete Beach,374,Alta concentración,2015,3.8,Regular
+Pinellas,St Pete Beach,374,Alta concentración,2016,3.8,Regular
+Pinellas,St Pete Beach,374,Alta concentración,2017,3.8,Regular
+Pinellas,St Pete Beach,374,Alta concentración,2018,3.8,Regular
+Pinellas,St Pete Beach,374,Alta concentración,2019,4.0,Regular
+Pinellas,St Pete Beach,374,Alta concentración,2020,4.0,Buena
+Pinellas,St Pete Beach,374,Alta concentración,2021,4.0,Regular
+Pinellas,St Pete Beach,374,Alta concentración,2022,3.9,Regular
+Pinellas,St Pete Beach,374,Alta concentración,2024,4.3,Buena
+Pinellas,St. Pete Beach,627,Alta concentración,2010,3.5,Regular
+Pinellas,St. Pete Beach,627,Alta concentración,2011,3.6,Regular
+Pinellas,St. Pete Beach,627,Alta concentración,2012,3.7,Regular
+Pinellas,St. Pete Beach,627,Alta concentración,2013,3.7,Regular
+Pinellas,St. Pete Beach,627,Alta concentración,2014,3.7,Regular
+Pinellas,St. Pete Beach,627,Alta concentración,2015,3.8,Regular
+Pinellas,St. Pete Beach,627,Alta concentración,2016,3.8,Regular
+Pinellas,St. Pete Beach,627,Alta concentración,2017,3.8,Regular
+Pinellas,St. Pete Beach,627,Alta concentración,2018,3.8,Regular
+Pinellas,St. Pete Beach,627,Alta concentración,2019,3.8,Regular
+Pinellas,St. Pete Beach,627,Alta concentración,2020,3.8,Regular
+Pinellas,St. Pete Beach,627,Alta concentración,2021,3.8,Regular
+Pinellas,St. Pete Beach,627,Alta concentración,2022,3.9,Regular
+Pinellas,St. Petersburg,6347,Alta concentración,2010,3.6,Regular
+Pinellas,St. Petersburg,6347,Alta concentración,2011,3.5,Regular
+Pinellas,St. Petersburg,6347,Alta concentración,2012,3.6,Regular
+Pinellas,St. Petersburg,6347,Alta concentración,2013,3.6,Regular
+Pinellas,St. Petersburg,6347,Alta concentración,2014,3.7,Regular
+Pinellas,St. Petersburg,6347,Alta concentración,2015,3.8,Regular
+Pinellas,St. Petersburg,6347,Alta concentración,2016,3.8,Regular
+Pinellas,St. Petersburg,6347,Alta concentración,2017,3.9,Regular
+Pinellas,St. Petersburg,6347,Alta concentración,2018,3.9,Regular
+Pinellas,St. Petersburg,6347,Alta concentración,2019,4.0,Regular
+Pinellas,St. Petersburg,6347,Alta concentración,2020,4.0,Buena
+Pinellas,St. Petersburg,6347,Alta concentración,2021,4.0,Buena
+Pinellas,St. Petersburg,6347,Alta concentración,2022,4.1,Buena
+Pinellas,St. Petersburg,6347,Alta concentración,2023,4.3,Buena
+Pinellas,St. Petersburg,6347,Alta concentración,2024,4.3,Buena
+Pinellas,Tarpon Springs,808,Alta concentración,2010,3.7,Regular
+Pinellas,Tarpon Springs,808,Alta concentración,2011,3.7,Regular
+Pinellas,Tarpon Springs,808,Alta concentración,2012,3.7,Regular
+Pinellas,Tarpon Springs,808,Alta concentración,2013,3.8,Regular
+Pinellas,Tarpon Springs,808,Alta concentración,2014,3.8,Regular
+Pinellas,Tarpon Springs,808,Alta concentración,2015,3.9,Regular
+Pinellas,Tarpon Springs,808,Alta concentración,2016,3.9,Regular
+Pinellas,Tarpon Springs,808,Alta concentración,2017,3.9,Regular
+Pinellas,Tarpon Springs,808,Alta concentración,2018,4.0,Regular
+Pinellas,Tarpon Springs,808,Alta concentración,2019,4.0,Regular
+Pinellas,Tarpon Springs,808,Alta concentración,2020,4.1,Buena
+Pinellas,Tarpon Springs,808,Alta concentración,2021,4.0,Buena
+Pinellas,Tarpon Springs,808,Alta concentración,2022,4.0,Regular
+Pinellas,Tarpon Springs,808,Alta concentración,2024,4.2,Buena
+Pinellas,Tarpon springs,11,Rango Medio,2011,3.5,Regular
+Pinellas,Tarpon springs,11,Rango Medio,2012,3.5,Regular
+Pinellas,Tarpon springs,11,Rango Medio,2013,3.5,Regular
+Pinellas,Tarpon springs,11,Rango Medio,2014,3.5,Regular
+Pinellas,Tarpon springs,11,Rango Medio,2015,3.5,Regular
+Pinellas,Tarpon springs,11,Rango Medio,2016,3.5,Regular
+Pinellas,Tarpon springs,11,Rango Medio,2017,3.5,Regular
+Pinellas,Tarpon springs,11,Rango Medio,2018,3.5,Regular
+Pinellas,Tarpon springs,11,Rango Medio,2019,3.5,Regular
+Pinellas,Tarpon springs,11,Rango Medio,2020,3.5,Regular
+Pinellas,Tarpon springs,11,Rango Medio,2021,3.5,Regular
+Pinellas,Tierra Verde,86,Alta concentración,2010,3.0,Regular
+Pinellas,Tierra Verde,86,Alta concentración,2011,3.7,Regular
+Pinellas,Tierra Verde,86,Alta concentración,2012,3.9,Regular
+Pinellas,Tierra Verde,86,Alta concentración,2013,3.6,Regular
+Pinellas,Tierra Verde,86,Alta concentración,2014,3.9,Regular
+Pinellas,Tierra Verde,86,Alta concentración,2015,3.9,Regular
+Pinellas,Tierra Verde,86,Alta concentración,2016,3.8,Regular
+Pinellas,Tierra Verde,86,Alta concentración,2017,3.8,Regular
+Pinellas,Tierra Verde,86,Alta concentración,2018,4.1,Buena
+Pinellas,Tierra Verde,86,Alta concentración,2019,4.1,Buena
+Pinellas,Tierra Verde,86,Alta concentración,2020,4.1,Buena
+Pinellas,Tierra Verde,86,Alta concentración,2021,4.2,Buena
+Pinellas,Tierra Verde,86,Alta concentración,2022,4.3,Buena
+Pinellas,Tierra Verde,86,Alta concentración,2024,4.8,Excelente
+Pinellas,Treasure Island,315,Alta concentración,2010,3.7,Regular
+Pinellas,Treasure Island,315,Alta concentración,2011,3.9,Regular
+Pinellas,Treasure Island,315,Alta concentración,2012,3.8,Regular
+Pinellas,Treasure Island,315,Alta concentración,2013,3.8,Regular
+Pinellas,Treasure Island,315,Alta concentración,2014,3.9,Regular
+Pinellas,Treasure Island,315,Alta concentración,2015,3.8,Regular
+Pinellas,Treasure Island,315,Alta concentración,2016,3.9,Regular
+Pinellas,Treasure Island,315,Alta concentración,2017,3.9,Regular
+Pinellas,Treasure Island,315,Alta concentración,2018,3.9,Regular
+Pinellas,Treasure Island,315,Alta concentración,2019,3.9,Regular
+Pinellas,Treasure Island,315,Alta concentración,2020,3.9,Regular
+Pinellas,Treasure Island,315,Alta concentración,2021,4.0,Regular
+Pinellas,Treasure Island,315,Alta concentración,2022,3.9,Regular
+Pinellas,Treasure Island,315,Alta concentración,2024,4.3,Buena
+Polk,Auburndale,15,Rango Medio,2024,3.7,Regular
+Polk,Bartow,26,Rango Medio,2024,4.4,Buena
+Polk,Davenport,49,Rango Medio,2024,4.1,Buena
+Polk,Dundee,4,Pocos Restaurantes,2024,4.7,Excelente
+Polk,Fort Meade,7,Rango Medio,2024,4.2,Buena
+Polk,Frostproof,2,Pocos Restaurantes,2024,4.6,Excelente
+Polk,Haines City,43,Rango Medio,2024,4.5,Excelente
+Polk,Jan Phyl Village,2,Pocos Restaurantes,2024,4.5,Excelente
+Polk,Lake Alfred,13,Rango Medio,2024,4.4,Buena
+Polk,Lake Wales,37,Rango Medio,2024,4.3,Buena
+Polk,Lakeland,244,Alta concentración,2024,4.2,Buena
+Polk,Mulberry,5,Pocos Restaurantes,2024,4.3,Buena
+Polk,Poinciana,12,Rango Medio,2024,3.8,Regular
+Polk,Polk City,6,Rango Medio,2024,4.0,Buena
+Polk,Winter Haven,99,Alta concentración,2024,4.3,Buena
+Polk,lakeland,182,Alta concentración,2023,4.2,Buena
+Polk,lakeland,182,Alta concentración,2024,4.3,Buena
+Putnam,Crescent City,13,Rango Medio,2024,4.5,Excelente
+Putnam,East Palatka,3,Pocos Restaurantes,2024,3.1,Regular
+Putnam,Interlachen,8,Rango Medio,2024,4.5,Buena
+Putnam,Melrose,2,Pocos Restaurantes,2024,4.4,Buena
+Putnam,Palatka,20,Rango Medio,2024,4.3,Buena
+Putnam,San Mateo,2,Pocos Restaurantes,2024,4.4,Buena
+Putnam,Welaka,3,Pocos Restaurantes,2024,4.6,Excelente
+Putnam,crescent city,48,Rango Medio,2023,4.1,Buena
+Putnam,crescent city,48,Rango Medio,2024,4.3,Buena
+Santa Rosa,Gulf Breeze,26,Rango Medio,2024,4.4,Buena
+Santa Rosa,Jay,8,Rango Medio,2024,4.5,Buena
+Santa Rosa,Milton,30,Rango Medio,2024,4.4,Buena
+Santa Rosa,Navarre,7,Rango Medio,2024,4.6,Excelente
+Santa Rosa,Pace,19,Rango Medio,2024,4.2,Buena
+Santa Rosa,gulf breeze,58,Rango Medio,2023,4.2,Buena
+Santa Rosa,gulf breeze,58,Rango Medio,2024,4.3,Buena
+Sarasota,Englewood,18,Rango Medio,2024,4.4,Buena
+Sarasota,Nokomis,12,Rango Medio,2024,4.4,Buena
+Sarasota,North Port,26,Rango Medio,2024,4.4,Buena
+Sarasota,Osprey,7,Rango Medio,2024,4.4,Buena
+Sarasota,Sarasota,225,Alta concentración,2024,4.3,Buena
+Sarasota,Siesta Key,3,Pocos Restaurantes,2024,4.5,Excelente
+Sarasota,Venice,94,Alta concentración,2024,4.4,Buena
+Sarasota,englewood,240,Alta concentración,2023,4.2,Buena
+Sarasota,englewood,240,Alta concentración,2024,4.3,Buena
+Seminole,Altamonte Springs,51,Rango Medio,2024,4.3,Buena
+Seminole,Casselberry,36,Rango Medio,2024,4.4,Buena
+Seminole,Fern Park,5,Pocos Restaurantes,2024,4.6,Excelente
+Seminole,Geneva,6,Rango Medio,2024,4.0,Regular
+Seminole,Heathrow,3,Pocos Restaurantes,2024,4.0,Buena
+Seminole,Lake Mary,33,Rango Medio,2024,4.5,Buena
+Seminole,Longwood,45,Rango Medio,2024,4.3,Buena
+Seminole,Oviedo,60,Rango Medio,2024,4.4,Buena
+Seminole,Sanford,58,Rango Medio,2024,4.1,Buena
+Seminole,Wekiwa Springs,3,Pocos Restaurantes,2024,4.4,Buena
+Seminole,Winter Springs,31,Rango Medio,2024,4.0,Buena
+Seminole,altamonte springs,233,Alta concentración,2023,4.3,Buena
+Seminole,altamonte springs,233,Alta concentración,2024,4.3,Buena
+St. Johns,Elkton,3,Pocos Restaurantes,2024,4.4,Buena
+St. Johns,Hastings,2,Pocos Restaurantes,2024,4.2,Buena
+St. Johns,Ponte Vedra Beach,40,Rango Medio,2024,4.6,Excelente
+St. Johns,St Augustine Beach,3,Pocos Restaurantes,2024,4.5,Excelente
+St. Johns,St. Augustine,126,Alta concentración,2024,4.2,Buena
+St. Johns,elkton,141,Alta concentración,2023,4.2,Buena
+St. Johns,elkton,141,Alta concentración,2024,4.3,Buena
+St. Lucie,Fort Pierce,92,Alta concentración,2024,4.2,Buena
+St. Lucie,Port St. Lucie,254,Alta concentración,2024,4.2,Buena
+St. Lucie,fort pierce,60,Rango Medio,2023,4.3,Buena
+St. Lucie,fort pierce,60,Rango Medio,2024,4.3,Buena
+Sumter,Bushnell,14,Rango Medio,2024,4.1,Buena
+Sumter,Lake Panasoffkee,5,Pocos Restaurantes,2024,3.9,Regular
+Sumter,Oxford,8,Rango Medio,2024,4.2,Buena
+Sumter,Sumterville,3,Pocos Restaurantes,2024,3.9,Regular
+Sumter,Webster,4,Pocos Restaurantes,2024,4.1,Buena
+Sumter,Wildwood,19,Rango Medio,2024,4.2,Buena
+Suwannee,Live Oak,28,Rango Medio,2024,4.2,Buena
+Suwannee,branford,20,Rango Medio,2023,4.4,Buena
+Suwannee,branford,20,Rango Medio,2024,4.3,Buena
+Taylor,Perry,25,Rango Medio,2024,4.3,Buena
+Taylor,Steinhatchee,2,Pocos Restaurantes,2024,4.5,Excelente
+Taylor,perry,12,Rango Medio,2023,4.2,Buena
+Taylor,perry,12,Rango Medio,2024,4.3,Buena
+Union,Lake Butler,3,Pocos Restaurantes,2024,4.4,Buena
+Volusia,Daytona Beach,147,Alta concentración,2024,4.1,Buena
+Volusia,Daytona Beach Shores,9,Rango Medio,2024,4.4,Buena
+Volusia,DeBary,10,Rango Medio,2024,4.7,Excelente
+Volusia,DeLand,53,Rango Medio,2024,4.2,Buena
+Volusia,Deltona,25,Rango Medio,2024,4.2,Buena
+Volusia,Edgewater,16,Rango Medio,2024,4.6,Excelente
+Volusia,Holly Hill,6,Rango Medio,2024,4.2,Buena
+Volusia,New Smyrna Beach,48,Rango Medio,2024,4.4,Buena
+Volusia,Orange City,23,Rango Medio,2024,4.3,Buena
+Volusia,Ormond Beach,63,Rango Medio,2024,4.4,Buena
+Volusia,Pierson,3,Pocos Restaurantes,2024,4.7,Excelente
+Volusia,Ponce Inlet,3,Pocos Restaurantes,2024,4.4,Buena
+Volusia,Port Orange,39,Rango Medio,2024,4.3,Buena
+Volusia,South Daytona,18,Rango Medio,2024,4.6,Excelente
+Volusia,daytona beach,304,Alta concentración,2023,4.3,Buena
+Volusia,daytona beach,304,Alta concentración,2024,4.3,Buena
+Wakulla,Crawfordville,12,Rango Medio,2024,4.0,Regular
+Wakulla,Panacea,3,Pocos Restaurantes,2024,4.2,Buena
+Wakulla,St Marks,2,Pocos Restaurantes,2024,4.8,Excelente
+Wakulla,crawfordville,14,Rango Medio,2023,4.3,Buena
+Wakulla,crawfordville,14,Rango Medio,2024,4.3,Buena
+Walton,Alys Beach,8,Rango Medio,2024,4.3,Buena
+Walton,Defuniak Springs,13,Rango Medio,2024,4.2,Buena
+Walton,Freeport,8,Rango Medio,2024,4.6,Excelente
+Walton,Miramar Beach,14,Rango Medio,2024,3.7,Regular
+Walton,Rosemary Beach,7,Rango Medio,2024,4.4,Buena
+Walton,Santa Rosa Beach,23,Rango Medio,2024,4.3,Buena
+Walton,Seacrest,2,Pocos Restaurantes,2024,4.9,Excelente
+Washington,Caryville,2,Pocos Restaurantes,2024,4.6,Excelente
+Washington,Chipley,8,Rango Medio,2024,4.3,Buena
+Washington,Vernon,2,Pocos Restaurantes,2024,4.6,Excelente
+Washington,caryville,8,Rango Medio,2023,4.3,Buena
+Washington,caryville,8,Rango Medio,2024,4.3,Buena
