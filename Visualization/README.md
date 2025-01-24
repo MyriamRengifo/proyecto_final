@@ -3,22 +3,12 @@
 # VISUALIZACIÓN DE DATOS
 
 Índice;
-Descripción del Proyecto;
 Estado del proyecto;
 Demostración de funciones y aplicaciones;
-Acceso al Proyecto;
 Tecnologías utilizadas;
 Personas Contribuyentes;
 Personas Desarrolladoras del Proyecto;
 Licencia.
-
-
-# 📂 Contenido de la carpeta
-
-Aqui se encuentran los archivos necesarios para generar el dashboard, donde se muestran los principales hallazgos de los diferentes datasets:
-- Notebooks
-- Enlaces a recursos externos
-- Resultados
 
 ---
 # 🎯 Objetivos del proyecto
@@ -31,37 +21,53 @@ Se resume en 3 aspectos clave:
 - Análisis temporal por ciudad y su condado. KPI's de interés para el rubro.
 - Análisis de categorías y distribución de restaurantes.
 - Identificación de nichos relevantes para oportunidades de negocio.
-
 ---
-# 📋 Contenido de la Carpeta
+
+# 📂 Contenido
+
+Aqui se encuentran los archivos necesarios para generar el dashboard, donde se muestran los principales hallazgos de los diferentes datasets:
+- Notebooks
+- Enlaces a recursos externos
+- Resultados
 
 ### 1. **Notebooks**
 Los notebooks se encuentran organizados por fuente de datos y propósito:
 
 - **KPI**:
-  - `KPI_LuisMata.ipynb`: Exploracion y transformación de datos para obtener métrias objetivos del negocio.
+  - `KPI_LuisMata.ipynb`: Exploracion y transformación de datos para obtener datos que permitan definir métricas de interés para el negocio.
 
 - **XXXXXX**:
   - `.ipynb`: 
   - `.ipynb`:  
  
+# 📈 Ejemplo de visualizaciones:
 
-### 2. **Resultados (`queries`)**
+Cuando se analicen los datos, optar por un enfoque estadístico que permita visualizar en un solo gráfico la mayor cantidad de información posible, por ejemplo:
+
+![Gráfico de tendencia](https://github.com/MyriamRengifo/proyecto_final/blob/Main/Visualization/Imagenes/Tendencia_buena%20puntuacion.png)
+
+En el  mismo podemos visualizar:
+- Tendencia global
+- Distribución de los datos
+- Media de los datos año a año
 
 ---
 
 ## 🛠️ Notas Técnicas
 
 1. **Requisitos**:  
-   - Contar con una cuenta en Streamlit para poder visualizar en la nube
-   - Tener instalado Power BI desktop
+   - Contar con una cuenta en Streamlit para poder visualizar.
+   - Tener instalado Power BI desktop, Power BI (deseable, no excluyente)
 
-2. **Dependencias**:  
-   - Los notebooks utilizan bibliotecas como: '' 
 
 
 Dónde pueden recibir ayuda los usuarios con tu proyecto
-Quién mantiene y contribuye con el proyecto.
+
+
+## 👷🏽👷🏽‍♀️ Soporte y contribución:
+   - Cassano Angélica
+   - Mata Luis 
+
 
 
 
