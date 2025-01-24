@@ -39,17 +39,18 @@ Los notebooks se encuentran organizados por fuente de datos y propósito:
   - `Streamlit_script to publish.py`: 
   - `.ipynb`: notebook utilizado para realizar el análisis de los distintos dataframes y generar resultados que posteriormente son parte del dashboard.
 
-  2. **Recursos externos**
+### 2. **Recursos externos**
   - Dashboard en streamlit [link](https://pruebapf.streamlit.app/)
+
  
 # 🛠️ III) Notas Técnicas: 
 
-1. **Requisitos**:  
+1. **Requisitos**:📋
    - Contar con una cuenta en Streamlit para poder visualizar.
    - Tener instalado Power BI desktop, Power BI (deseable, no excluyente)
 
 
-2. 📈 **Ejemplo de visualizaciones:**
+2. **Ejemplo de visualizaciones:** 📈 
 
 Al graficar, optar por un enfoque que permita visualizar en un solo gráfico la mayor cantidad de información posible, por ejemplo:
 
@@ -63,11 +64,11 @@ En el  mismo podemos visualizar:
 ---
 
 ## 👷🏽👷🏽‍♀️ IV) Soporte y contribución:
-   - Angélica Cassano: Data Analyst
+   - **Angélica Cassano**: Data Analyst
    ![Github](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) [Github](https://github.com/Halsey26)
    ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn](https://www.linkedin.com/in/angelica-cassano/)
    
-   - Luis Mata: Data Analyst
+   - **Luis Mata**: Data Analyst
    ![Github](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) [Github](https://github.com/AutoMataX)
    ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn](https://www.linkedin.com/in/matasanchez999/)
    
