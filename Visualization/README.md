@@ -1,4 +1,4 @@
-![Portada.jpg](/Imagenes)
+![Portada.jpg](Visualization/Imagenes/Portada.jpg)
 
 Título e imagen de portada;
 Insignias;
