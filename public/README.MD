@@ -12,7 +12,8 @@ Este repositorio contiene el código y los archivos necesarios para crear y desp
 ├── 01_Inicio.py            # Código principal para ejecutar los modelos en Streamlit
 ├── GMF.py                  # Script para entrenar uno de los modelos de machine learning
 └── README.md               # Documentación del proyecto
-   ```bash
+````
+---
 
 ## Cómo usar este proyecto
 
@@ -24,3 +25,4 @@ Este repositorio contiene el código y los archivos necesarios para crear y desp
 
    pip install -r requirements.txt
 
+   ```bash
