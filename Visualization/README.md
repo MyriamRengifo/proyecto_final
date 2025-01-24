@@ -1,4 +1,4 @@
-![Portada.jpg](Visualization/Imagenes/Portada.jpg)
+![Portada](https://github.com/MyriamRengifo/proyecto_final/blob/Main/Visualization/Imagenes/Portada.jpg)
 
 Título e imagen de portada;
 Insignias;
