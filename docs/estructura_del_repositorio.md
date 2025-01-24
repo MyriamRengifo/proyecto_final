@@ -31,12 +31,21 @@
 │   └── README.md
 │
 ├── 📁 cloud_integration    # Integración con Azure Databricks
-│   ├── notebooks
-│   │   ├── ml_pipeline.dbc
-│   │   └── data_analysis.dbc
-│   ├── scripts
-│   │   ├── automl_pipeline.py
-│   │   └── clustering_model.py
+│   ├── jobs/
+│   │   ├── 1.Configuración del ETL.ipynb
+|   |   ├── 2.Cargar tablas delta.ipynb
+|   |   ├── 3.limpiar los archivos de ingreso.ipynb
+|   |   ├── 4.creación de informe con todo lo hecho anteriormente.ipynb
+|   |   ├── conteo de datos.ipynb
+│   │   └── README.md                   # Documentación del directorio
+│   ├── notebooks/
+│   │   ├── carga_y_transformacion_datos.ipynb  # Notebook principal para carga ytransformación de datos.
+│   │   └── README.md                          # Documentación detallada del notebook y su uso.
+|   ├── shell_scripts/
+|   |    ├── configurar_databricks.sh # Script principal para configuración y transferencia
+|   |    ├── credenciales.txt            # Archivo donde se almacenan los tokens )
+|   |    └── README.md                   # Documentación del directorio
+|   |
 │   └── README.md
 │
 ├── 📁 visualization        # Visualización y análisis
