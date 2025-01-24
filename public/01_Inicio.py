@@ -31,8 +31,7 @@ El análisis se divide en tres secciones principales:
    Identificación de nichos de mercado. Esta sección destaca áreas con pocos restaurantes pero puntuaciones promedio altas, subrayando oportunidades para nuevos negocios.
 """)
 
-pbi_url = "https://app.powerbi.com/view?r=eyJrIjoiNTlhYTQxMWEtZDMxMS00ZjhmLWIxNWQtOGMwZTI3ZGQ3OGViIiwidCI6IjljNWM4NjYyLTFiZjUtNGU5NC1hODIwLTVlM2NhMTI2Zjc1MiIsImMiOjR9&pageName=7701e774ca2abe2e8050"
-
+pbi_url = "https://app.powerbi.com/view?r=eyJrIjoiZWYwODEwNGItNzI3Zi00NTA3LWI2ZDEtODU5MzZjMjg5MTQ1IiwidCI6IjljNWM4NjYyLTFiZjUtNGU5NC1hODIwLTVlM2NhMTI2Zjc1MiIsImMiOjR9&pageName=7701e774ca2abe2e8050"
 
 #st.components.v1.iframe(src=pbi_url, width=1000, height=700, scrolling=True)
 st.markdown(
