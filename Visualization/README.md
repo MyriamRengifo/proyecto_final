@@ -1,7 +1,7 @@
 ![Portada](https://github.com/MyriamRengifo/proyecto_final/blob/Main/Visualization/Imagenes/Portada.jpg)
 
-Título e imagen de portada;
-Insignias;
+# VISUALIZACIÓN DE DATOS
+
 Índice;
 Descripción del Proyecto;
 Estado del proyecto;
@@ -13,20 +13,20 @@ Personas Desarrolladoras del Proyecto;
 Licencia.
 
 
-# 📂 Data Visualization
+# 📂 Contenido de la carpeta
 
-Esta carpeta contiene los archivos necesarios para generar el dashboard, donde se muestran los principales hallazgos de los diferentes dataset. Contiene:
+Aqui se encuentran los archivos necesarios para generar el dashboard, donde se muestran los principales hallazgos de los diferentes datasets:
 - Notebooks
 - Enlaces a recursos externos
 - Resultados
 
 ---
-# Objetivos del proyecto: (Por qué el proyecto es útil)
-Generar un dashboard que muestre de manera gráfica y resumida, los resultados de procesar los diferentes datos de este proyecto.
+# 🎯 Objetivos del proyecto
+Generar un dashboard que muestre de manera gráfica y resumida los principales insigths del proyecto, además de obtener métricas de interés para el negocio (KPI's).
 
-Esto luego del análisis detallado de los datos referentes a restaurantes, puntuaciones de usuarios y categorías más populares en diferentes condados y ciudades. A través de gráficos y KPI, identificar tendencias clave y áreas estratégicas para la toma de decisiones empresariales con respecto al rubro gastronómico.
+Esto se logra luego del análisis detallado de los datos referentes a restaurantes, puntuaciones de usuarios y categorías más populares en diferentes condados y ciudades, identificando tendencias y áreas estratégicas para la toma de decisiones empresariales con respecto al rubro gastronómico.
 
-Todo esto resumido en 3 aspectos clave:
+Se resume en 3 aspectos clave:
 
 - Análisis temporal por ciudad y su condado. KPI's de interés para el rubro.
 - Análisis de categorías y distribución de restaurantes.
