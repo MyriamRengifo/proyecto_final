@@ -394,5 +394,5 @@ with col4:
             st.success(f"Para el año 2023 se predice una puntuación de: **{predicted_value[0]:.2f}**. \n\n Siendo **{predicted_value[1]:.2f}** puntos en relación al año anterior")
 
 
-if st.button("Modelos", type ='secondary',icon="⬅️", use_container_width = True):
+if st.button("Dashboard", type ='secondary',icon="⬅️", use_container_width = True):
     st.switch_page("01_Inicio.py")
