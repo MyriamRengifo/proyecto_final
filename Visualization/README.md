@@ -1,4 +1,4 @@
-<image src="/Imagenes/Portada.jpg" alt="Imagen de Portada">
+![Portada.jpg](/Imagenes)
 
 Título e imagen de portada;
 Insignias;
