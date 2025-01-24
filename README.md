@@ -110,13 +110,13 @@ cd cloud_integration
 ### 5. Entrena los modelos de Machine Learning
 Ejecuta los scripts de entrenamiento local:
 ```bash
-cd local_development
+cd ml_pipeline
 python main.py
 ```
 ### 6. Visualiza los datos en Streamlit
 Explora los resultados con dashboards interactivos:
 ```bash
-cd visualization/streamlit
+cd public 
 streamlit run app.py
 ```
 
