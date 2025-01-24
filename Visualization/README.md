@@ -1,14 +1,15 @@
 ![Portada](https://github.com/MyriamRengifo/proyecto_final/blob/Main/Visualization/Imagenes/Portada.jpg)
 
 # VISUALIZACIÓN DE DATOS
+Here's some regular text.
 
-Índice;
-Estado del proyecto;
-Demostración de funciones y aplicaciones;
-Tecnologías utilizadas;
-Personas Contribuyentes;
-Personas Desarrolladoras del Proyecto;
-Licencia.
+** <p style="text-align: center;">VISUALIZACIÓN DE DATOS</p> ** 
+
+# Indice:
+   - Objetivos del proyecto
+   - Contenido de la carpeta
+   - Notas técnicas
+   - Soporte y contribución
 
 ---
 # 🎯 Objetivos del proyecto
@@ -40,9 +41,16 @@ Los notebooks se encuentran organizados por fuente de datos y propósito:
   - `.ipynb`: 
   - `.ipynb`:  
  
-# 📈 Ejemplo de visualizaciones:
+# 🛠️ Notas Técnicas: 
 
-Cuando se analicen los datos, optar por un enfoque estadístico que permita visualizar en un solo gráfico la mayor cantidad de información posible, por ejemplo:
+1. **Requisitos**:  
+   - Contar con una cuenta en Streamlit para poder visualizar.
+   - Tener instalado Power BI desktop, Power BI (deseable, no excluyente)
+
+
+2. 📈 **Ejemplo de visualizaciones:**
+
+Al graficar, optar por un enfoque que permita visualizar en un solo gráfico la mayor cantidad de información posible, por ejemplo:
 
 ![Gráfico de tendencia](https://github.com/MyriamRengifo/proyecto_final/blob/Main/Visualization/Imagenes/Tendencia_buena%20puntuacion.png)
 
@@ -52,17 +60,6 @@ En el  mismo podemos visualizar:
 - Media de los datos año a año
 
 ---
-
-## 🛠️ Notas Técnicas
-
-1. **Requisitos**:  
-   - Contar con una cuenta en Streamlit para poder visualizar.
-   - Tener instalado Power BI desktop, Power BI (deseable, no excluyente)
-
-
-
-Dónde pueden recibir ayuda los usuarios con tu proyecto
-
 
 ## 👷🏽👷🏽‍♀️ Soporte y contribución:
    - Cassano Angélica
