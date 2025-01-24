@@ -52,6 +52,8 @@ Los notebooks se encuentran organizados por fuente de datos y propósito:
 
 
 2. **Ejemplo de visualizaciones:** 📈 
+![dash](https://github.com/MyriamRengifo/proyecto_final/blob/Main/Visualization/Imagenes/dash.jpg)
+
 
 Al graficar, optar por un enfoque que permita visualizar en un solo gráfico la mayor cantidad de información posible, por ejemplo:
 
