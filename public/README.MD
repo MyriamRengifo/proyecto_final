@@ -14,15 +14,3 @@ Este repositorio contiene el código y los archivos necesarios para crear y desp
 └── README.md               # Documentación del proyecto
 ````
 ---
-
-## Cómo usar este proyecto
-
-### Requisitos previos
-
-1. Instalar Python 3.8 o superior.
-2. Instalar las dependencias necesarias listadas en `requirements.txt`. Para ello, ejecuta:
-
-
-   pip install -r requirements.txt
-
-   ```bash
