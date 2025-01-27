@@ -7,7 +7,7 @@ Esta carpeta contiene los archivos necesarios para el proceso de extracción, tr
 ## 📋 Contenido de la Carpeta
 
 ### 1. **Notebooks**
-Los notebooks se encuentran organizados por fuente de datos y propósito:
+Los notebooks se encuentran organizados por fuente de datos y propósito: 
 
 - **Google API**:
   - `metadata_sitios.ipynb`: Obtención de datos de servicios y  localización mediante las APIs de Google.
@@ -36,7 +36,7 @@ Las consultas están formateadas para ser utilizadas directamente en Overpass AP
 
 ---
 
-## 🛠️ Notas Técnicas
+## 🛠️ Notas Técnicas 
 
 1. **Requisitos**:  
    - Asegúrate de tener configurado un entorno Python con Jupyter Notebook para ejecutar los archivos `.ipynb`.
